@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "/site-colloque-anthologie-2022/"
 title = ""
 #theme = ""
 #themesDir = "../.."
@@ -109,7 +109,7 @@ hasChildren = true
   parent = "Pages"
   name = "Horaire"
   url = "schedule"
-  
+
 [[menu.main]]
 name = "Contact"
 url = "contact"
