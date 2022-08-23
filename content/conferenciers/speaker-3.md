@@ -1,11 +1,12 @@
 ---
-title : "Mona Lissa"
+title : "Jeqlin Markus"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Web Developer"
-image: "images/speakers/speaker-one.jpg"
+designation: "Marketing Lead"
+image: "images/speakers/speaker-three.jpg"
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit."
 draft : false
+type: speaker
 social:
 - name: "facebook"
   icon: "fa-facebook"

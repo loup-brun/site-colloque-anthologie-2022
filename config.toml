@@ -1,8 +1,8 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-title = "Eventre Hugo | Event Management Template"
-theme = "eventre-hugo"
-themesDir = "../.."
+baseURL = "/"
+title = ""
+#theme = ""
+#themesDir = "../.."
 # post pagination
 paginate = "3"
 # post excerpt
@@ -10,7 +10,7 @@ summaryLength = "10"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 # disqus short name
-disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
+disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
@@ -20,7 +20,7 @@ disableLanguages = [] # desable language from here
 home = ["HTML"]
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
 
 ############################# Plugins ##############################
 
@@ -66,22 +66,22 @@ attributes = ""
 
 # main menu
 [[menu.main]]
-name = "Home"
+name = "Accueil"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
+name = "À propos"
 url = "about"
 weight = 2
 
 [[menu.main]]
-name = "Speaker"
-url = "speaker"
+name = "Les conférencier·ère·s"
+url = "conferenciers"
 weight = 3
 
 [[menu.main]]
-name = "Blog"
+name = "Blogue"
 url = "blog"
 weight = 4
 
@@ -92,7 +92,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Pages"
-  name = "Gallery"
+  name = "Galerie"
   url = "gallery"
 
   [[menu.main]]
@@ -102,18 +102,13 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Pages"
-  name = "Pricing"
+  name = "Tarifs"
   url = "pricing"
 
   [[menu.main]]
   parent = "Pages"
-  name = "Schedule"
+  name = "Horaire"
   url = "schedule"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Testimonial"
-  url = "testimonial"
   
 [[menu.main]]
 name = "Contact"
@@ -133,17 +128,17 @@ author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Thème conçu par [Themefisher](https://themefisher.com/), développé par [Gethugothemes](https://gethugothemes.com/) et adapté par l’équipe de la [CRCÉN](https://ecrituresnumeriques.ca)"
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Buy Ticket"
+label = "S’inscrire"
 icon = "images/icon/ticket.png"
 link = "/"
 
@@ -163,9 +158,9 @@ gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqO
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
-name = "Docklands Convention"
-location = "Street Address, Location, <br>City, Country."
-phone = "[00] 000 000 000"
+name = "Université de Montréal"
+location = "Pavillon Lionel-Groulx"
+#phone = "[00] 000 000 000"
 link = "#"
 
 # cookies
