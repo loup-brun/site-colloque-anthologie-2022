@@ -56,7 +56,7 @@
                       <span class="name">{{.speaker}}</span>
                     </div>
                     <!-- Subject -->
-                    <div class="subject">{{ .subject }}</div>
+                    <div class="subject">{{ .subject | markdownify }}</div>
                     <!-- Venue -->
                     <div class="venue">{{ .venue | markdownify }}</div>
                   </div>
