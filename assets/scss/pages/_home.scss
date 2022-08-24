@@ -429,7 +429,7 @@
 				border-right: 1px solid;
 				border-color: $border-color;
 				.block{
-					padding: 10px 40px;
+					padding: .75rem 1.5rem;
 					background: $light;
 					width: 100%;
 					transition: .2s ease-in;
@@ -449,13 +449,13 @@
 						span.name{
 						}
 					}
-					&:hover{
-						box-shadow: 0px 0px 30px 0px rgba(11, 29, 66, 0.15);
-						transform: scale(1.01);
-						span.name{
-							color: $primary-color;
-						}
-					}
+					//&:hover{
+					//	box-shadow: 0px 0px 30px 0px rgba(11, 29, 66, 0.15);
+					//	transform: scale(1.01);
+					//	span.name{
+					//		color: $primary-color;
+					//	}
+					//}
 				}
 			}
 		}
@@ -537,9 +537,10 @@
 				ul{
 					li{
 						list-style: none;
-						div{
-							display: inline-block;
-						}
+						display: flex;
+						flex-direction: row;
+						align-items: flex-start;
+
 						.time{
 							width: 20%;
 							@include tablet {
@@ -568,10 +569,6 @@
 							}
 						}
 						.venue{
-							width: 18.6%;
-							@include tablet {
-								display: none;
-							}
 						}
 					}
 					margin-bottom: 0;
