@@ -1,7 +1,7 @@
 ---
 title : "À propos de l’événement"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2020-03-14T15:40:24+06:00
+date: 2022-08-24T10:00:00-04:00
 description : "this is meta description"
 draft : false
 layout : "about"
@@ -10,8 +10,8 @@ image : "images/speakers/featured-speaker.jpg"
 
 #### Testimonial ####
 testimonial:
-  enable: true
-  title: "What People _Say?_"
+  enable: false
+  title: "Ce que le gens disent"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti aliquid vero harum rerum voluptates, ab, ullam."
   testimonial_items:
   - name : "Espen Brunberg"
@@ -30,13 +30,7 @@ testimonial:
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis voluptate modi sunt placeat in vel illo dolorem, atque maxime voluptates optio fugit iure cum ipsa quo quaerat! Veritatis, modi. Laudantium provident deleniti earum voluptas delectus, labore dolor dolorem amet expedita."
 ---
 
-## About The _Eventre_
+## À propos de navigations anthologiques
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore
-magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et
-dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et
-dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
+<!-- @mathilde -->
