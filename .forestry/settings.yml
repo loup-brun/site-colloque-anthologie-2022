@@ -2,33 +2,20 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Homepage
 - type: document
-  path: exampleSite/data/homepage.yml
+  path: data/homepage.yml
   label: Homepage
-- type: heading
-  label: Blog Post
-- type: document
-  path: exampleSite/content/blog/_index.md
-  label: Blog Page
-- type: directory
-  path: exampleSite/content/blog
-  label: Posts
-  create: documents
-  match: "**/*"
-  exclude: _index.md
-  templates:
-  - post
 - type: heading
   label: Speaker
 - type: document
-  path: exampleSite/content/speaker/_index.md
+  path: content/speaker/_index.md
   label: Speaker Page
 - type: directory
-  path: exampleSite/content/speaker
+  path: content/speaker
   label: Speakers
   create: documents
   match: "**/*"
@@ -38,13 +25,12 @@ sections:
 - type: heading
   label: All Pages
 - type: directory
-  path: exampleSite/content
+  path: content
   label: All Pages
   create: all
   match: "**/*"
   templates:
-  - post
-  - speaker
+  - conferenciers
   - new-page
 - type: heading
   label: Configuration
@@ -54,7 +40,7 @@ sections:
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: exampleSite/static/images
+upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
