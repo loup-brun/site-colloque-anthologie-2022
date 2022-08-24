@@ -3,7 +3,7 @@ banner:
   enable : true
   heading : "Colloque"
   heading_2 : "«&nbsp;Navigations anthologiques&nbsp;»"
-  content : "Université de Montréal, 24-26 octobre 2022"
+  content : "Université de Montréal, 27-29 octobre 2022"
   timer:
     enable : true
     year : 2022
@@ -11,7 +11,7 @@ banner:
     day : 24
   button:
     enable : true
-    label : "S’enregistrer"
+    label : "Salon virtuel"
     link : "#"
 
 
@@ -24,7 +24,7 @@ about:
   <br><br>
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea."
   button_solid:
-    enable : true
+    enable : false
     label : "Buy ticket"
     link : "#"
   button_outline:
@@ -36,19 +36,19 @@ about:
 ################# Speaker ###################
 speakers:
   enable : true
-  title : "Who _Speaking?_"
+  title : "Qui parle ?"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   # speaker items are coming from "content/speakers" folder
 
 ###################### Tab ####################
 tab:
   enable : true
-  title : "Event Schedule"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
+  title : "Calendrier"
+  content : ""
   tablist:
   # tab item
-  - name : "Day-01"
-    date : "20 November 2017"
+  - name : "Journée-01"
+    date : "27 Octobre 2022"
     tablist_items:
     # speaker
     - speaker : "Samanta Doe"
@@ -57,131 +57,25 @@ tab:
       venue : "Auditorium A"
       time : "9.00 AM"
 
+  # tab item
+  - name : "Journée-02"
+    date : "28 Octobre 2022"
+    tablist_items:
     # speaker
     - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-six.jpg"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
 
 
   # tab item
-  - name : "Day-02"
-    date : "23 November 2017"
+  - name : "Journée-03"
+    date : "29 Octobre 2022"
     tablist_items:
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-
-  # tab item
-  - name : "Day-03"
-    date : "25 November 2017"
-    tablist_items:
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-six.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
@@ -189,87 +83,87 @@ tab:
 
 ############ Registration ####################
 registration:
-  enable : true
-  title : "Register to _Eventre_"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
-  form_action : "#" # works with formspree.io
+  enable : false
+  # title : "Register to _Eventre_"
+  # content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  # form_action : "#" # works with formspree.io
 
-  funfacts:
-  - name : "8 Speakers"
-    icon : "fa-microphone"
+  # funfacts:
+  # - name : "8 Speakers"
+  #   icon : "fa-microphone"
 
-  - name : "500 + Seats"
-    icon : "fa-flag"
+  # - name : "500 + Seats"
+  #   icon : "fa-flag"
 
-  - name : "300 tickets"
-    icon : "fa-ticket"
+  # - name : "300 tickets"
+  #   icon : "fa-ticket"
 
-  - name : "3 days event"
-    icon : "fa-calendar"
+  # - name : "3 days event"
+  #   icon : "fa-calendar"
 
 
 
 
 ############ Pricing ####################
 pricing:
-  enable : true
-  title : "Get _Ticket_"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
-  pricing_table:
-  - name : "Starter"
-    price : "39.00"
-    price_per : "Person"
-    button_link : "#"
-    features:
-    - "1 Comfortable Seats"
-    - "Free Lunch and Coffee"
-    - "Certificate"
-    - "Easy Access"
+  enable : false
+  # title : "Get _Ticket_"
+  # content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
+  # pricing_table:
+  # - name : "Starter"
+  #   price : "39.00"
+  #   price_per : "Person"
+  #   button_link : "#"
+  #   features:
+  #   - "1 Comfortable Seats"
+  #   - "Free Lunch and Coffee"
+  #   - "Certificate"
+  #   - "Easy Access"
 
-  - name : "Standard"
-    price : "49.00"
-    price_per : "Person"
-    button_link : "#"
-    features:
-    - "1 Comfortable Seats"
-    - "Free Lunch and Coffee"
-    - "Certificate"
-    - "Easy Access"
+  # - name : "Standard"
+  #   price : "49.00"
+  #   price_per : "Person"
+  #   button_link : "#"
+  #   features:
+  #   - "1 Comfortable Seats"
+  #   - "Free Lunch and Coffee"
+  #   - "Certificate"
+  #   - "Easy Access"
 
-  - name : "Platinum"
-    price : "99.00"
-    price_per : "Person"
-    button_link : "#"
-    features:
-    - "1 Comfortable Seats"
-    - "Free Lunch and Coffee"
-    - "Certificate"
-    - "Easy Access"
+  # - name : "Platinum"
+  #   price : "99.00"
+  #   price_per : "Person"
+  #   button_link : "#"
+  #   features:
+  #   - "1 Comfortable Seats"
+  #   - "Free Lunch and Coffee"
+  #   - "Certificate"
+  #   - "Easy Access"
 
 
 ############### Call to action ############
 call_to_action:
-  enable : true
-  title : "Get Ticket _Now!_"
-  image : "images/speakers/speaker-ticket.png"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmtempor incidi"
-  button:
-    enable : true
-    label : "Buy ticket"
-    link : "#"
+  enable : false
+  # title : "Get Ticket _Now!_"
+  # image : "images/speakers/speaker-ticket.png"
+  # content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmtempor incidi"
+  # button:
+  #   enable : true
+  #   label : "Buy ticket"
+  #   link : "#"
 
 
 ############### Sponsors ##################
 sponsors:
   enable : true
-  title : "Our _Sponsors_"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore dolore"
+  title : "Nos partenaires"
+  content : ""
   button:
-    enable : true
+    enable : false
     label : "Become a sponsor"
     link : "#"
   sponsor_group:
-  - name : "Platinum Sponsors"
+  - name : ""
     sponsor_item:
     - name : "sponsor"
       logo : "images/sponsors/pt-spon-two.png"
@@ -285,18 +179,4 @@ sponsors:
 
     - name : "sponsor"
       logo : "images/sponsors/pt-spon-three.png"
-      link : "#"
-
-  - name : "Gold Sponsors"
-    sponsor_item:
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-two.png"
-      link : "#"
-
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-three.png"
-      link : "#"
-
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-one.png"
       link : "#"
