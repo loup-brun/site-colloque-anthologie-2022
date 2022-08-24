@@ -20,9 +20,10 @@ about:
   enable : true
   title : "About The _Eventre_"
   image : "https://i.imgur.com/Xm7K5ep.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
-  <br><br>
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea."
+  content : |
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
+    
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
   button_solid:
     enable : false
     label : "Buy ticket"
@@ -131,7 +132,7 @@ En comparant ces petits poèmes aux autres énigmes poétiques témoignées dans
     # [SESSION 4] : "Approches computationnelles appliquées aux études hellénistiques."
     # speaker
     - speaker : "Giuseppe CELANO (Universität Leipzig Institute of Computer Science)"
-      subject : "*Opera Graeca Adnotata*: an open source corpus for annotated Ancient Greek texts." 
+      subject : "*Opera Graeca Adnotata*: an open source corpus for annotated Ancient Greek texts."
       abstract : |
         This contribution aims to present the Opera Graeca Adnotata (OGA) corpus. OGA provides morphosyntactic annotations for most Ancient Greek texts of the Perseus Digital Library. More precisely, OGA contains 489 annotated files (6,488,472 tokens and 347,517 sentences). In order for the corpus to be scalable, annotations in OGA are standoff following the PAULA XML formalism. Currently, the OGA corpus represents the largest open source annotated resource for Ancient Greek, in that both texts and the attached annotations can be freely queried and reused under a CC BY-NC 4.0 licence.
       venue : "En présence"
