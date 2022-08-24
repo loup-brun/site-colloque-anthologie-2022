@@ -30,7 +30,7 @@ about:
     label : "Buy ticket"
     link : "#"
   button_outline:
-    enable : true
+    enable : false
     label : "Read more"
     link : "about"
 
