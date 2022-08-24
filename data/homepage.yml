@@ -48,7 +48,7 @@ tab:
   # Il faut rajouter une ligne pour l'accueil et une ligne pour la présentation/introduction ; pour les temps de discussion.., la pause dej,..
   tablist:
   # tab item
-  - name : "Journée-01"
+  - name : "Jour 01"
     date : "27 Octobre 2022"
     tablist_items:
     # [SESSION 1] : "L’actualité scientifique de l’*Anthologie grecque*."
@@ -58,12 +58,14 @@ tab:
       abstract : ""
       venue : "En présence"
       time : "10.00 AM"
+
     # speaker
     - speaker : "Simone BETA (Università degli Studi di Siena)"
       subject : "Enseigner le grec avec les devinettes de l’*Anthologie Palatine*"
       abstract : ""
       venue : "En présence"
       time : "11.20 AM"
+
     # [SESSION 2] : "Valorisation et pédagogie de l’imaginaire anthologique."
     # speaker
     - speaker : "Annalisa DI VINCENZO (Liceo classico Luca De Samuele Cagnazzi, Altamura)"
@@ -71,18 +73,21 @@ tab:
       abstract : ""
       venue : "En présence"
       time : "1.00 PM"
+
     # speaker
     - speaker : "Serena CANNAVALE (Università degli Studi di Napoli Federico II)"
       subject : "Inside and beyond the *Greek Anthology*. New directions and challenges in the study of *Callimachean epigrams*."
       abstract : ""
       venue : "En présence"
       time : "1.40 PM"
+
     # speaker
     - speaker : "Gustavo FERNANDEZ (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 'Material Text Cultures')"
       subject : "Uses and enhancements of the digital facsimile of the *Palatine Anthology*."
       abstract : ""
       venue : "En présence"
       time : "3.00 PM"
+
     # speaker
     - speaker : "CRCEN"
       subject : "L'Anthologie sur le Web, *quid novi*?"
@@ -91,7 +96,7 @@ tab:
       time : "3.40 PM"
 
   # tab item
-  - name : "Journée-02"
+  - name : "Jour 02"
     date : "28 Octobre 2022"
     tablist_items:
     # [SESSION 3] : "Édition numérique de textes classiques."
@@ -101,12 +106,14 @@ tab:
       abstract : ""
       venue : "En ligne"
       time : "9.30 AM"
+
     # speaker
     - speaker : "Marcello Vitali-Rosati, Michael Sinatra"
       subject : "**Table Ronde** : penser les éditions critiques pour le Web"
       abstract : ""
       venue : "En présence"
       time : "11.00 AM"
+
     # [SESSION 4] : "Approches computationnelles appliquées aux études hellénistiques."
     # speaker
     - speaker : "Giuseppe CELANO (Universität Leipzig Institute of Computer Science)"
@@ -114,18 +121,21 @@ tab:
       abstract : ""
       venue : "En présence"
       time : "1.00 PM"
+
     # speaker
     - speaker : "Kyle JOHNSON (Tik Tok, Data Cycling Center ; Maintainer of Classical Language Toolkit (CLTK))."
       subject : "Zero-Shot Evaluation of Greek and Latin Literary Forgeries."
       abstract : ""
       venue : "En présence"
       time : "1.40 PM"
+
     # speaker
     - speaker : "Marianne REBOUL (École nationale supérieure de Lyon, Institut d'histoire des représentations et des idées dans la modernité)"
       subject : "l'IA pour les langues anciennes, des ouvertures pour le traitement des corpus réduits."
       abstract : ""
       venue : "En présence"
       time : "3.00 PM"
+
     # speaker
     - speaker : "Marcus PÖCKELMANN - (Martin-Luther-Universität Halle-Wittenberg, Institute of Computer Science)"
       subject : "The Aftermath of Plato. Searching for Traces in Vector Space"
@@ -135,7 +145,7 @@ tab:
 
 
   # tab item
-  - name : "Journée-03"
+  - name : "Jour 03"
     date : "29 Octobre 2022"
     tablist_items:
     # speaker

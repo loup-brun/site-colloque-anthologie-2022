@@ -1025,17 +1025,8 @@ select.form-control:not([size]):not([multiple]) {
         @media (max-width: 575px) {
           .schedule .schedule-contents .schedule-item ul li .speaker {
             width: 50%; } }
-        @media (max-width: 575px) {
-          .schedule .schedule-contents .schedule-item ul li .speaker img {
-            display: none; } }
       .schedule .schedule-contents .schedule-item ul li .subject {
-        width: 30%; }
-        @media (max-width: 1200px) {
-          .schedule .schedule-contents .schedule-item ul li .subject {
-            display: none; } }
-      @media (max-width: 767px) {
-        .schedule .schedule-contents .schedule-item ul li .venue {
-          display: none; } }
+        width: 40%; }
   .schedule .schedule-contents .schedule-item li.headings {
     padding: 22px 40px;
     background: #ff6600; }

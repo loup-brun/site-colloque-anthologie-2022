@@ -405,22 +405,11 @@
 						@include mobile {
 							width: 50%;
 						}
-						img {
-							@include mobile {
-								display: none;
-							}
-						}
 					}
 					.subject{
-						width: 30%;
-						@include large-desktop {
-							display: none;
-						}
+						width: 40%;
 					}
 					.venue{
-						@include tablet {
-							display: none;
-						}
 					}
 				}
 				margin-bottom: 0;
