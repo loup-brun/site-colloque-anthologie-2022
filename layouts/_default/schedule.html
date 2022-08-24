@@ -49,7 +49,9 @@
                     </div>
                     <!-- Speaker -->
                     <div class="speaker">
+                      {{- if .speaker_image }}
                       <img src="{{ .speaker_image | absURL }}" alt="{{.speaker}}">
+                      {{ end -}}
                       <span class="name">{{.speaker}}</span>
                     </div>
                     <!-- Subject -->
