@@ -23,12 +23,14 @@ AUTHOR WEBSITE: https://themefisher.com
   {{ end }}
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
-  {{ $scssOptions := dict "" "" }}
-  {{ if not hugo.IsProduction }}
-    {{ $scssOptions := (dict "includePaths" (slice "assets/scss/dev/")) }}
-  {{ end }}
-  {{ $styles := resources.Get "scss/style.scss" | toCSS $scssOptions }}
+  {{ $styles := resources.Get "scss/style.scss" | toCSS }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+  <!-- Fonts -->
+  {{ $alegreya := resources.Get "scss/fonts/alegreya.scss" | toCSS }}
+  {{ if not hugo.IsProduction }}
+  {{ $alegreya = resources.Get "scss/fonts/alegreya.local.scss" | toCSS }}
+  {{ end }}
+  <link rel="stylesheet" href="{{ $alegreya.Permalink }}" media="screen">
 
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
