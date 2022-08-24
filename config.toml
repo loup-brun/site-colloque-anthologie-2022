@@ -68,49 +68,24 @@ attributes = ""
 
 # main menu
 [[menu.main]]
-name = "Accueil"
-url = "/"
+name = "À propos"
+url = "about"
 weight = 1
 
 [[menu.main]]
-name = "À propos"
-url = "about"
 weight = 2
+name = "Horaires"
+url = "schedule"
 
 [[menu.main]]
-name = "Les conférencier·ère·s"
-url = "conferenciers"
 weight = 3
-
-[[menu.main]]
-weight = 5
-name = "Pages"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Galerie"
-  url = "gallery"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  url = "faq"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Tarifs"
-  url = "pricing"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Horaire"
-  url = "schedule"
+name = "Galerie"
+url = "gallery"
 
 [[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 6
+weight = 4
 
 
 
