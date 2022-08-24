@@ -139,24 +139,14 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+link = "https://www.facebook.com/ENumeriques"
 
 [[params.social]]
 title = "twitter"
 icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+link = "https://twitter.com/ENumeriques"
 
 [[params.social]]
 title = "instagram"
 icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+link = "https://instagram.com/enumeriques?igshid=YmMyMTA2M2Y="
