@@ -93,7 +93,7 @@ logo_width = "auto"
 description = "This is meta description"
 author = "Themefisher"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mnqrnvny" # contact form works with https://formspree.io
 # copyright
 copyright = "Thème conçu par [Themefisher](https://themefisher.com/), développé par [Gethugothemes](https://gethugothemes.com/) et adapté par l’équipe de la [CRCÉN](https://ecrituresnumeriques.ca)"
 
