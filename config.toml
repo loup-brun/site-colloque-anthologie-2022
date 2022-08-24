@@ -91,9 +91,9 @@ weight = 4
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
-logo_footer = "images/footer-logo.png"
-logo_width = "100px"
+logo = "images/empreinte-digitale.png"
+logo_footer = "https://wpchaire.ecrituresnumeriques.ca/wp-content/uploads/2018/08/logo-fr-1.svg"
+logo_width = "50px"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
