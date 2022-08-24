@@ -1,5 +1,8 @@
 {{ define "main"}}
 
+<!--==============================
+=            Schedule            =
+===============================-->
 {{ if site.Data.homepage.tab.enable }}
 {{ with site.Data.homepage.tab }}
 <section class="section schedule">
@@ -33,10 +36,9 @@
               <!-- Headings -->
               <ul class="m-0 p-0">
                 <li class="headings">
-                  <div class="time">Time</div>
-                  <div class="speaker">Speaker</div>
-                  <div class="subject">Subject</div>
-                  <div class="venue">Venue</div>
+                  <div class="time">Horaire</div>
+                  <div class="speaker">Conférencier.e</div>
+                  <div class="subject">Sujet</div>
                 </li>
                 <!-- Schedule Details -->
                 {{ range .tablist_items }}
@@ -46,18 +48,23 @@
                     <div class="time">
                       <i class="fa fa-clock-o"></i>
                       <span class="time">{{ .time }}</span>
+                      <div class="venue">{{ .venue | markdownify }}</div>
                     </div>
                     <!-- Speaker -->
                     <div class="speaker">
-                      {{- if .speaker_image }}
-                      <img src="{{ .speaker_image | absURL }}" alt="{{.speaker}}">
-                      {{ end -}}
+                      <!-- <img src="{{ .speaker_image | absURL }}" alt="{{.speaker}}"> -->
                       <span class="name">{{.speaker}}</span>
                     </div>
                     <!-- Subject -->
-                    <div class="subject">{{ .subject }}</div>
-                    <!-- Venue -->
-                    <div class="venue">{{ .venue | markdownify }}</div>
+                    <div class="subject">
+                      {{ .subject }}
+                      {{ if .abstract }}
+                      <details>
+                        <summary>Résumé</summary>
+                        {{ .abstract }}
+                      </details>
+                      {{end}}
+                    </div>
                   </div>
                 </li>
                 {{ end }}
@@ -72,5 +79,6 @@
 </section>
 {{ end }}
 {{ end }}
+<!--====  End of Schedule  ====-->
 
 {{ end }}
