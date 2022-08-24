@@ -989,14 +989,15 @@
 			}
 		}
 		.image-block{
-			padding: 45px 0;
-			background: $light;
+			padding: 10px;
+			aspect-ratio: 16 / 9;
+			background: $black;
 			width: 244px;
 			cursor: pointer;
 			transition: all .3s ease;
 			border: 1px solid transparent;
 			img{
-				height: 55px;
+				// height: 55px;
 			}
 			margin-bottom: 10px;
 			&:hover{
