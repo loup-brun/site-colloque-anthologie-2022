@@ -267,18 +267,26 @@ sponsors:
   sponsor_group:
   - name : ""
     sponsor_item:
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-two.png"
+    - name : "Chaire de Recherche du Canada sur les Écritures Numériques"
+      logo : "http://vitalirosati.net/chaire/img/logo.png"
       link : "#"
 
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-three.png"
+    - name : "Chaire de Recherche du Canada"
+      logo : "https://wpchaire.ecrituresnumeriques.ca/wp-content/uploads/2018/07/Chaire-canada-768x358.png"
       link : "#"
 
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-four.png"
+    - name : "Conseil de recherches et sciences humaines du Canada"
+      logo : "https://wpchaire.ecrituresnumeriques.ca/wp-content/uploads/2018/07/Conseil-recherches-canada-768x231.png"
       link : "#"
 
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-three.png"
+    - name : "Université de Montréal"
+      logo : "https://wpchaire.ecrituresnumeriques.ca/wp-content/uploads/2018/07/UMontre%CC%81al.png"
+      link : "#"
+
+    - name : "Centre de recherche intrauniversitaire sur les humanités numériques"
+      logo : "https://wpchaire.ecrituresnumeriques.ca/wp-content/uploads/2018/07/CRIHN-768x272.png"
+      link : "#"
+
+    - name : "Groupe de recherche sur les éditions critiques en contexte numérique"
+      logo : "http://gren.openum.ca/files/sites/169/2018/11/logoGREN-e1542482939968.png"
       link : "#"
