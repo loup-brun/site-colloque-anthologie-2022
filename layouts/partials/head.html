@@ -27,7 +27,7 @@ AUTHOR WEBSITE: https://themefisher.com
   {{ if not hugo.IsProduction }}
     {{ $scssOptions := (dict "includePaths" (slice "assets/scss/dev/")) }}
   {{ end }}
-  {{ $styles := resources.Get "scss/style.scss"  | toCSS }}
+  {{ $styles := resources.Get "scss/style.scss" | toCSS $scssOptions }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
   {{ "<!--Favicon-->" | safeHTML }}
