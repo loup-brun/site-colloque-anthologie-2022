@@ -13,6 +13,7 @@ googleAnalytics = "" # example : UA-123-45
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
+defaultContentLanguage = "fr"
 
 
 ############################# Outputs ##############################
@@ -160,7 +161,7 @@ link = "#"
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 
 ############################# social site ########################
