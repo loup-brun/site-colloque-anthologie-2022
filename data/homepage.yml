@@ -260,7 +260,7 @@ sponsors:
     sponsor_item:
     - name : "Chaire de Recherche du Canada sur les Écritures Numériques"
       logo : "http://vitalirosati.net/chaire/img/logo.png"
-      link : "#"
+      link : "https://ecrituresnumeriques.ca/fr/"
 
     - name : "Chaire de Recherche du Canada"
       logo : "https://wpchaire.ecrituresnumeriques.ca/wp-content/uploads/2018/07/Chaire-canada-768x358.png"
@@ -274,10 +274,10 @@ sponsors:
       logo : "https://wpchaire.ecrituresnumeriques.ca/wp-content/uploads/2018/07/UMontre%CC%81al.png"
       link : "#"
 
-    - name : "Centre de recherche intrauniversitaire sur les humanités numériques"
+    - name : "Centre de recherche interuniversitaire sur les humanités numériques"
       logo : "https://wpchaire.ecrituresnumeriques.ca/wp-content/uploads/2018/07/CRIHN-768x272.png"
-      link : "#"
+      link : "https://www.crihn.org/"
 
     - name : "Groupe de recherche sur les éditions critiques en contexte numérique"
       logo : "http://gren.openum.ca/files/sites/169/2018/11/logoGREN-e1542482939968.png"
-      link : "#"
+      link : "https://gren.openum.ca/"
