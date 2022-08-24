@@ -1,8 +1,8 @@
 ################# Banner ###################
 banner:
   enable : true
-  heading : "Colloque"
-  heading_2 : "«&nbsp;Navigations anthologiques&nbsp;»"
+  heading : "Navigations anthologiques"
+  heading_2 : "L'Anthologie grecque à l'ère des Digital Classics"
   content : "Université de Montréal, 27-29 octobre 2022"
   timer:
     enable : true
@@ -18,12 +18,19 @@ banner:
 ################# About ###################
 about:
   enable : true
-  title : "About The _Eventre_"
-  image : "https://i.imgur.com/Xm7K5ep.jpg"
+  title : "À propos des journées d'étude"
+  image : ""
   content : |
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
-    
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
+    Les langues et littératures de l'Antiquité, de la Grèce notamment, sont omniprésentes dans notre culture et dans l'édification de nos sociétés occidentales. Avec la naissance et le développement d'Internet d'une part, du Web d'autre part, émergent de plus en plus de projets de numérisation, d'indexation, d'édition numérique, de valorisation et d'études computationnelles de ces textes. Quelles sont les implications de cette rencontre entre des textes vieux de parfois plusieurs millénaires et des plateformes numériques ? Que faire de ces innombrables données générées ? Comment s'approprier ces patrimoines numérisés, contribuer à leur rayonnement, les exploiter à des fins heuristiques ? Quels outils numériques et computationnels utiliser pour approfondir encore nos connaissances sur ces vastes corpus qui sont loin de nous avoir livré tous leurs secrets ?
+    L'événement « Navigations anthologiques » entend soulever ces questions en se concentrant en particulier sur le cas d'étude de l'Anthologie grecque.
+    Cette rencontre se déroulera sur trois journées d'étude dans le but d'appeler la communauté des Digital Classicists à réfléchir autour des enjeux scientifiques liés à la diffusion du patrimoine des langues et littératures en grec ancien et plus généralement sur les impacts méthodologiques et épistémologiques des Digital Humanities dans le cadre des études hellénistiques, à partir du cas d'étude de l'Anthologie grecque. 
+    Concrètement, les deux premières journées seront structurées autour de quatre axes, occupant chacun une demi-journée, et répartis comme suit :
+    1) L'actualité scientifique de l'Anthologie grecque. Cet axe permettra de rendre compte des dernières recherches philologiques consacrées à ce corpus.
+    2) Valorisation et pédagogie de l'imaginaire anthologique. Cet axe présentera les diverses utilisations de la plateforme d'édition (usages pédagogiques, à des fins de recherches et séminaires universitaires, dans le cadre de partenariats...)
+    3) Édition numérique de textes classiques. Cet axe sera l'occasion d'appréhender les diverses potentialités d'édition, de valorisation et d'actualisation des textes classiques sur la toile.
+    4) Approches computationnelles appliquées aux études hellénistiques. Cet axe sera l'occasion de rendre compte des derniers développements et projets impliquant des outils numériques pour l'étude et la compréhension des corpus grecs (lemmatisation, Traitement Automatique du Langage, etc.)
+
+    Ces deux journées se clôtureront par une journée d'hackathon afin d'expérimenter des méthodes algorithmiques pour explorer, analyser, et découvrir le corpus anthologique.
   button_solid:
     enable : false
     label : "Buy ticket"
