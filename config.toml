@@ -72,10 +72,10 @@ weight = 1
 name = "Horaires"
 url = "schedule"
 
-[[menu.main]]
-weight = 2
-name = "Galerie"
-url = "gallery"
+# [[menu.main]]
+# weight = 2
+# name = "Galerie"
+# url = "gallery"
 
 [[menu.main]]
 name = "Contact"
