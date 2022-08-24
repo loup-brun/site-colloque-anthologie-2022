@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/site-colloque-anthologie-2022/"
+baseURL = "/anthologia/site-colloque-anthologie-2022/"
 title = ""
 #theme = ""
 #themesDir = "../.."
