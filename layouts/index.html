@@ -383,15 +383,13 @@
         </div>
         <div class="block text-center">
           <!-- Sponsors image list -->
-          <ul class="list-inline sponsors-list">
+          <ul class="sponsors-list">
             {{ range .sponsor_item }}
-            <li class="list-inline-item">
-              <div class="image-block text-center">
+              <li class="image-block text-center">
                 <a href="{{ .link | safeURL }}">
                   <img src="{{ .logo | absURL }}" alt="{{.name}}" class="img-fluid">
                 </a>
-              </div>
-            </li>
+              </li>
             {{ end }}
           </ul>
         </div>
