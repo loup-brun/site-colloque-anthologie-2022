@@ -11,7 +11,7 @@ banner:
     day : 24
   button:
     enable : true
-    label : "Salon virtuel"
+    label : "Lien vers la visioconférence (à venir)"
     link : "#"
 
 
