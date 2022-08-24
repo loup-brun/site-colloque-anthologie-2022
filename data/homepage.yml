@@ -35,9 +35,9 @@ about:
 
 ################# Speaker ###################
 speakers:
-  enable : true
-  title : "Qui parle ?"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
+  enable : false
+  # title : "Qui parle ?"
+  # content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   # speaker items are coming from "content/speakers" folder
 
 ###################### Tab ####################
