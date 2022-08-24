@@ -14,7 +14,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 defaultContentLanguage = "fr"
-language = "fr"
+languageCode = "fr"
 
 
 ############################# Outputs ##############################
