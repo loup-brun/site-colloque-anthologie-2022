@@ -18,19 +18,13 @@ banner:
 ################# About ###################
 about:
   enable : true
-  title : "À propos des journées d'étude"
+  title : "Trois journées d'étude consacrées à l'actualité de l'Anthologie grecque"
   image : ""
   content : |
     Les langues et littératures de l'Antiquité, de la Grèce notamment, sont omniprésentes dans notre culture et dans l'édification de nos sociétés occidentales. Avec la naissance et le développement d'Internet d'une part, du Web d'autre part, émergent de plus en plus de projets de numérisation, d'indexation, d'édition numérique, de valorisation et d'études computationnelles de ces textes. Quelles sont les implications de cette rencontre entre des textes vieux de parfois plusieurs millénaires et des plateformes numériques ? Que faire de ces innombrables données générées ? Comment s'approprier ces patrimoines numérisés, contribuer à leur rayonnement, les exploiter à des fins heuristiques ? Quels outils numériques et computationnels utiliser pour approfondir encore nos connaissances sur ces vastes corpus qui sont loin de nous avoir livré tous leurs secrets ?
     L'événement « Navigations anthologiques » entend soulever ces questions en se concentrant en particulier sur le cas d'étude de l'Anthologie grecque.
     Cette rencontre se déroulera sur trois journées d'étude dans le but d'appeler la communauté des Digital Classicists à réfléchir autour des enjeux scientifiques liés à la diffusion du patrimoine des langues et littératures en grec ancien et plus généralement sur les impacts méthodologiques et épistémologiques des Digital Humanities dans le cadre des études hellénistiques, à partir du cas d'étude de l'Anthologie grecque. 
-    Concrètement, les deux premières journées seront structurées autour de quatre axes, occupant chacun une demi-journée, et répartis comme suit :
-    1) L'actualité scientifique de l'Anthologie grecque. Cet axe permettra de rendre compte des dernières recherches philologiques consacrées à ce corpus.
-    2) Valorisation et pédagogie de l'imaginaire anthologique. Cet axe présentera les diverses utilisations de la plateforme d'édition (usages pédagogiques, à des fins de recherches et séminaires universitaires, dans le cadre de partenariats...)
-    3) Édition numérique de textes classiques. Cet axe sera l'occasion d'appréhender les diverses potentialités d'édition, de valorisation et d'actualisation des textes classiques sur la toile.
-    4) Approches computationnelles appliquées aux études hellénistiques. Cet axe sera l'occasion de rendre compte des derniers développements et projets impliquant des outils numériques pour l'étude et la compréhension des corpus grecs (lemmatisation, Traitement Automatique du Langage, etc.)
-
-    Ces deux journées se clôtureront par une journée d'hackathon afin d'expérimenter des méthodes algorithmiques pour explorer, analyser, et découvrir le corpus anthologique.
+    Tout en s'articulant autour du corpus anthologique, les trois journées de colloque ont pour but de faire la passerelle entre les termes « digital » et « classicists », de provoquer une rencontre entre des chercheur·euse·s, professeur·e·s et programmeur·euse·s de profils divers et aux intérêts parfois éloignés pour que se crée une discussion pérenne et qu'émanent de nouvelles potentialités de recherche. 
   button_solid:
     enable : false
     label : "Buy ticket"
@@ -64,8 +58,7 @@ tab:
     - speaker : "Lucia FLORIDI (Università degli Studi Bologna)"
       subject : "Éditer les épigrammes grecques. Méthodes et problèmes"
       abstract:  |
-        Notre connaissance de la poésie épigrammatique grecque se fonde principalement sur deux recueils fondamentaux : l'Anthologie Palatine (AP) et l'Anthologie de Planude (APl). À ceux-ci s'ajoutent des collections mineures, appellées Syllogae Minores. Certaines épigrammes sont également connues grâce à la tradition indirecte (des auteurs comme Athénée), ou transmise à partir de papyri ou d'inscriptions. Les éditeurs de l'Anthologie sont donc confrontés à une traduction textuelle complexe et changeante, allant d'un textus
-        unicus à des situations bien plus variées. J'illustrerai, au cours de ma présentation, les principaux problèmes - de nature critique, textuelle et exégétique - que j'ai rencontrés en tant qu'éditrice de plusieurs auteurs de l'Anthologie (Straton, Lucillius, Edile notamment) et de Syllogae minores (P. Stras. P. gr. 2340, Sylloge Parisina).
+        Notre connaissance de la poésie épigrammatique grecque se fonde principalement sur deux recueils fondamentaux : l'Anthologie Palatine (AP) et l'Anthologie de Planude (APl). À ceux-ci s'ajoutent des collections mineures, appellées Syllogae Minores. Certaines épigrammes sont également connues grâce à la tradition indirecte (des auteurs comme Athénée), ou transmise à partir de papyri ou d'inscriptions. Les éditeurs de l'Anthologie sont donc confrontés à une traduction textuelle complexe et changeante, allant d'un textus unicus à des situations bien plus variées. J'illustrerai, au cours de ma présentation, les principaux problèmes - de nature critique, textuelle et exégétique - que j'ai rencontrés en tant qu'éditrice de plusieurs auteurs de l'Anthologie (Straton, Lucillius, Edile notamment) et de Syllogae minores (P. Stras. P. gr. 2340, Sylloge Parisina).
       venue : "En présence"
       time : "10.00 AM"
 
@@ -73,9 +66,7 @@ tab:
     - speaker : "Simone BETA (Università degli Studi di Siena)"
       subject : "Enseigner le grec avec les devinettes de l’*Anthologie Palatine*"
       abstract : |
-        Selon la petite préface de Constantin Céphalas, les épigrammes du quatorzième livre de l’Anthologie Palatine avaient un but pédagogique : les problèmes étaient utiles pour enseigner les mathématiques ; les devinettes pour enseigner la langue.
-        Est-ce que ces dernières épigrammes énigmatiques peuvent être utiles aujourd’hui pour enseigner la langue grecque et, en sus, la mythologie classique ?
-        En comparant ces petits poèmes aux autres énigmes poétiques témoignées dans la littérature grecque et byzantine, cette communication va prouver que la fonction pédagogique évoquée par Céphalas peut encore être exploitée aujourd’hui.
+        Selon la petite préface de Constantin Céphalas, les épigrammes du quatorzième livre de l’Anthologie Palatine avaient un but pédagogique : les problèmes étaient utiles pour enseigner les mathématiques ; les devinettes pour enseigner la langue. Est-ce que ces dernières épigrammes énigmatiques peuvent être utiles aujourd’hui pour enseigner la langue grecque et, en sus, la mythologie classique ? En comparant ces petits poèmes aux autres énigmes poétiques témoignées dans la littérature grecque et byzantine, cette communication va prouver que la fonction pédagogique évoquée par Céphalas peut encore être exploitée aujourd’hui.
       venue : "En présence"
       time : "11.20 AM"
 
