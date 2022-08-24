@@ -1,14 +1,13 @@
 {{ "<!-- navigation -->" | safeHTML }}
-<nav class="navbar main-nav border-less fixed-top navbar-expand-lg p-0">
+<nav class="navbar main-nav fixed-top navbar-expand-lg p-0">
   <div class="container-fluid p-0">
     <!-- logo -->
-    <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}">
-      {{ if site.Params.logo }}
-      <img class="img-fluid" width="200px" src="{{ site.Params.logo | absURL}}"
-        alt="{{ site.Title }}">
-      {{ else }}
-      {{site.Title}}
-      {{ end }}
+    <a
+      class="navbar-brand"
+      href="{{ site.BaseURL | relLangURL }}"
+      title="{{ i18n "Home" }}"
+    >
+      {{ partial "ecritures-numeriques-empreinte-web.svg" . }}
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
       aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
