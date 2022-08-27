@@ -58,11 +58,11 @@
                     </div>
                     <!-- Subject -->
                     <div class="subject">
-                      {{ .subject }}
+                      <h5>{{ .subject | markdownify }}</h5>
                       {{ if .abstract }}
                       <details>
                         <summary>Résumé</summary>
-                        {{ .abstract }}
+                        {{ .abstract | markdownify }}
                       </details>
                       {{end}}
                     </div>
