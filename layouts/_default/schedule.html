@@ -36,9 +36,9 @@
               <!-- Headings -->
               <ul class="m-0 p-0">
                 <li class="headings">
-                  <div class="time">Horaire</div>
-                  <div class="speaker">Conférencier·ère</div>
-                  <div class="subject">Sujet</div>
+                  <div class="time">Schedule</div>
+                  <div class="speaker">Speaker</div>
+                  <div class="subject">Topic</div>
                 </li>
                 <!-- Schedule Details -->
                 {{ range .tablist_items }}
@@ -54,14 +54,20 @@
                     <!-- Speaker -->
                     <div class="speaker">
                       <!-- <img src="{{ .speaker_image | absURL }}" alt="{{.speaker}}"> -->
-                      <span class="name">{{.speaker}}</span>
+                      <span class="name">{{.speaker| markdownify}}</span>
+                      {{ if .biography }}
+                      <details>
+                        <summary>Biography</summary>
+                        {{ .biography | markdownify }}
+                      </details>
+                      {{end}}
                     </div>
                     <!-- Subject -->
                     <div class="subject">
                       <h5>{{ .subject | markdownify }}</h5>
                       {{ if .abstract }}
                       <details>
-                        <summary>Résumé</summary>
+                        <summary>Abstract</summary>
                         {{ .abstract | markdownify }}
                       </details>
                       {{end}}

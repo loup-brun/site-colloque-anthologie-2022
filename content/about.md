@@ -1,5 +1,5 @@
 ---
-title : "À propos de l’événement"
+title : "About"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2022-08-24T10:00:00-04:00
 description : "this is meta description"

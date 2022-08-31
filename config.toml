@@ -13,8 +13,8 @@ googleAnalytics = "" # example : UA-123-45
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
-defaultContentLanguage = "fr"
-languageCode = "fr"
+defaultContentLanguage = "en"
+languageCode = "en"
 
 
 ############################# Outputs ##############################
@@ -69,12 +69,12 @@ attributes = ""
 # main menu
 [[menu.main]]
 weight = 1
-name = "Horaires"
+name = "Schedule"
 url = "schedule"
 
 # [[menu.main]]
 # weight = 2
-# name = "Galerie"
+# name = "Gallery"
 # url = "gallery"
 
 [[menu.main]]
