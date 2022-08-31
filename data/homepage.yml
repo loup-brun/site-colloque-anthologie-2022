@@ -38,7 +38,7 @@ about:
 ################# Speaker ###################
 speakers:
   enable : true
-  title : "Organizers"
+  title : "Hosts"
   content : "Canada Research Chair in Digital Textualities"
   #speaker items are coming from "content/speakers" folder
 
