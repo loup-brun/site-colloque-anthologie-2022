@@ -51,6 +51,9 @@
                       <br>
                       <div class="venue">{{ .venue | markdownify }}</div>
                     </div>
+                    {{if .pause}}
+                    <div class="pause">{{ .pause | markdownify }}</div>
+                    {{else}}
                     <!-- Speaker -->
                     <div class="speaker">
                       <!-- <img src="{{ .speaker_image | absURL }}" alt="{{.speaker}}"> -->
@@ -72,6 +75,7 @@
                       </details>
                       {{end}}
                     </div>
+                    {{end}}
                   </div>
                 </li>
                 {{ end }}

@@ -50,6 +50,7 @@
                     </div>
                     <!-- Speaker -->
                     <div class="speaker">
+                      </div>
                       {{if .speaker_image }}
                       <img src="{{ .speaker_image | absURL }}" alt="{{.speaker}}">
                       {{ end }}
@@ -59,7 +60,6 @@
                     <div class="subject">{{ .subject | markdownify }}</div>
                     <!-- Venue -->
                     <div class="venue">{{ .venue | markdownify }}</div>
-                  </div>
                 </li>
                 {{ end }}
               </ul>

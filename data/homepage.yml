@@ -151,6 +151,15 @@ tab:
       venue : "C-6070-9"
       time : "11.00 AM"
 
+          # speaker
+    - speaker :
+      pause : "Pause Déjeuner"
+      subject :
+      abstract :
+      biography :
+      venue : "En présence"
+      time : "12.00 AM"
+
     # [SESSION 4] : "Approches computationnelles appliquées aux études hellénistiques."
     # speaker
     - speaker : "Giuseppe CELANO (Universität Leipzig Institute of Computer Science)"
@@ -208,23 +217,23 @@ tab:
 
 ############ Registration ####################
 registration:
-  enable : false
-  # title : "Register to _Eventre_"
-  # content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
-  # form_action : "#" # works with formspree.io
+  enable : true
+  title : "Register to Workshop"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  form_action : "#" # works with formspree.io
 
-  # funfacts:
-  # - name : "8 Speakers"
-  #   icon : "fa-microphone"
+  funfacts:
+  - name : "8 Speakers"
+    icon : "fa-microphone"
 
-  # - name : "500 + Seats"
-  #   icon : "fa-flag"
+  - name : "500 + Seats"
+    icon : "fa-flag"
 
-  # - name : "300 tickets"
-  #   icon : "fa-ticket"
+  - name : "300 tickets"
+    icon : "fa-ticket"
 
-  # - name : "3 days event"
-  #   icon : "fa-calendar"
+  - name : "3 days event"
+    icon : "fa-calendar"
 
 
 

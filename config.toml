@@ -74,13 +74,18 @@ url = "schedule"
 
 [[menu.main]]
 weight = 2
+name = "Hackathon"
+url = "faq"
+
+[[menu.main]]
+weight = 3
 name = "Archives"
 url = "archives"
 
 [[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 3
+weight = 4
 
 
 
