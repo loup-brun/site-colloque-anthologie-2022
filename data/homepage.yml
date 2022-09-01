@@ -227,21 +227,23 @@ tab:
 ############ Registration ####################
 registration:
   enable : true
-  title : "Register to Workshop"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  title : "Register to the Workshop"
+  content : |
+    Registration for the workshop (27th-28th of October) is recommended;   
+    registration for the hackathon (29th of October) is required (deadline: October 1st, 2022).
   form_action : "#" # works with formspree.io
 
   funfacts:
-   - name : "12 Speakers"
-     icon : "fa-microphone"
+  - name : "A prize will be awarded to the students of the winning team of the hackathon"
+    icon : "fa-flag"
 
-  # - name : "500 + Seats"
-  #   icon : "fa-flag"
+# - name : "500 + Seats"
+#   icon : "fa-flag"
 
-  # - name : "300 tickets"
-  #   icon : "fa-ticket"
+# - name : "300 tickets"
+#   icon : "fa-ticket"
 
-  - name : "3 days event"
+  - name : "free food"
     icon : "fa-calendar"
 
 
