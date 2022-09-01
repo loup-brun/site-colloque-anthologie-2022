@@ -141,11 +141,12 @@ tab:
     # [SESSION 3] : "Édition numérique de textes classiques."
     # speaker
     - speaker : "Marie-Claire BEAULIEU (Tufts University, Classics)"
-      subject : "Révéler les informations latentes dans un texte de référence : l’édition numérique du *Glossary of Greek Birds*."
+      subject : "Revealing latent information in a reference text: the digital edition of the *Glossary of Greek Birds*"
       abstract : |
-        Cette communication explore les opportunités offertes par l’édition numérique pour les textes non-linéaires. Comme l’*Anthologie Palatine*, le *Glossary of Greek Birds* de D’Arcy Thompson (1896 et 1936) a été conçu pour une lecture flexible suivant les intérêts du lecteur et les réseaux de renvois. S’il s’agit avant tout d’un ouvrage de référence—essentiellement une liste de noms d’oiseaux en grec associés à une identification ornithologique grâce aux descriptions fournies par les textes anciens—l’aspect le plus intéressant du Glossary est ce qu’il ne dit pas explicitement car les références aux textes anciens recouvrent une mine d’informations sur les associations littéraires, mythologiques et historiques des oiseaux cités ainsi que les liens qu’ils entretiennent entre eux. Cette communication détaillera les techniques d’encodage et procédés tels que le formal concept analysis employés par le projet afin de faire ressortir ces informations et de s’en servir comme outil pour naviguer à travers le texte.
+        This contribution explores the opportunities offered by digital publishing for non-linear texts. Like the *Palatine Anthology*, D'Arcy Thompson's *Glossary of Greek Birds* (1896 and 1936) was designed to be read flexibly according to the reader's interests and cross-reference networks. While it is primarily a reference work - essentially a list of Greek bird names combined with ornithological identification through descriptions provided by ancient texts - the most interesting aspect of the *Glossary* is what it does not explicitly say, for the references to the ancient texts cover a wealth of information about the literary, mythological, and historical associations of the birds cited as well as the relationships among them. This paper will detail the encoding techniques and processes such as formal concept analysis employed by the project to bring out this information and use it as a tool to navigate through the text.
       biography : |
-        ""
+        Marie-Claire Beaulieu is a professor of Classical Studies at Tufts University. Her main areas of research are Greek mythology (including Greek religion, the role of women in Greek mythology) and Digital Humanities. She co-directed the Perseids project. 
+        Persids is a large initiative to build infrastructures in the field of digital humanities, through the design of collaborative editing and annotation software. Marie-Claire Beaulieu is also interested in the use of the digital medium to foster greater engagement with the ancient world through the study of language, art and culture.
       venue : "Online"
       time : "9.30 AM"
 
@@ -231,8 +232,8 @@ registration:
   form_action : "#" # works with formspree.io
 
   funfacts:
-  - name : "+12 Speakers"
-    icon : "fa-microphone"
+   - name : "12 Speakers"
+     icon : "fa-microphone"
 
   # - name : "500 + Seats"
   #   icon : "fa-flag"
