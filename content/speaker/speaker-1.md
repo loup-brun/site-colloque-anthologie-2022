@@ -52,11 +52,4 @@ skills:
   - name: "HTML"
     percentage: "80%"
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore
-dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse.
-
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni
-dolores eos qui ratione voluptatem sequi nesciunt.
-
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur
+Dominic Forest, professeur titulaire à l’École de bibliothéconomie et des sciences de l’information de l’Université de Montréal, est spécialiste de la science des données et, plus spécifiquement, de la fouille de textes dans le contexte des humanités numériques et des sciences de l’information. Il possède une connaissance approfondie des techniques d’extraction et d’organisation d’informations dans les corpus de documents textuels. Ses travaux de recherche se situent à la jonction de l’informatique cognitive, des sciences de l’information et des sciences humaines numériques. Dans le cadre de ses travaux, il a développé et validé plusieurs démarches méthodologiques de fouille de textes reposant sur l’utilisation d'algorithmes d’apprentissage machine (principalement des réseaux neuronaux) afin d’assister diverses tâches d’organisation de corpus. Il est présentement impliqué dans deux projets de recherche subventionnés par le CRSH (« Analyse de textes philosophiques québécois assistée par ordinateur » [2021­2026] et « Exploration et analyse comparative des me ́thodes d'indexation automatique par assignation de mots­-cles » [2018­2022]).
