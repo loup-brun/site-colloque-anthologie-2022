@@ -10,7 +10,7 @@ type: speaker
 social:
 - name: "twitter"
   icon: "fa-twitter"
-  link: "#"
+  link: "https://twitter.com/monterosato"
 # - name: "facebook"
 #   icon: "fa-facebook"
 #   link: "#"
@@ -26,7 +26,7 @@ social:
 
 
 personal_info:
-  enable : true
+  enable : false
   title : "Personal Information"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo suscipit deleniti voluptatum quos nostrum iure doloremque cupiditate voluptatem a enim eaque quod perspiciatis repudiandae, mollitia adipisci ea, quidem eveniet consequatur veniam error. Adipisci, suscipit corporis repellat, soluta vitae deserunt."
   bulletpoints:
@@ -39,7 +39,7 @@ personal_info:
 
 
 skills:
-  enable : true
+  enable : false
   title : "Personal Skills"
   content : "Mes recherches portent sur les écritures numériques..."
   skillbars:

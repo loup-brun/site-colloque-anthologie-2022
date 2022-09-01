@@ -2,15 +2,15 @@
 title : "Dominic Forest"
 page_header_bg : "images/background/homepage-one-banner.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Développeur"
+designation: "Professeur agrégé à l’École de bibliothéconomie et des sciences de l’information (UdeM)."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_primo_triclinio_%2C_IV_stile%2C_epoca_neroniana%2C_le_muse_06_urania.jpg/800px-Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_primo_triclinio_%2C_IV_stile%2C_epoca_neroniana%2C_le_muse_06_urania.jpg"
-description : "Professeur agrégé à l’École de bibliothéconomie et des sciences de l’information de l’Université de Montréal."
+description : ""
 draft : false
 type: speaker
 social:
-- name: "twitter"
-  icon: "fa-twitter"
-  link: "#"
+ - name: "twitter"
+   icon: "fa-twitter"
+   link: "https://twitter.com/dforest"
 # - name: "facebook"
 #   icon: "fa-facebook"
 #   link: "#"
@@ -26,7 +26,7 @@ social:
 
 
 personal_info:
-  enable : true
+  enable : false
   title : "Personal Information"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo suscipit deleniti voluptatum quos nostrum iure doloremque cupiditate voluptatem a enim eaque quod perspiciatis repudiandae, mollitia adipisci ea, quidem eveniet consequatur veniam error. Adipisci, suscipit corporis repellat, soluta vitae deserunt."
   bulletpoints:
@@ -39,7 +39,7 @@ personal_info:
 
 
 skills:
-  enable : true
+  enable : false
   title : "Personal Skills"
   content : "Mène des activités de recherche et d’enseignement dans les domaines de la fouille de textes, des humanités numériques et de la diffusion de l’information numérique."
   skillbars:
