@@ -81,6 +81,14 @@ tab:
       venue : "C-6070-9"
       time : "11.20 AM"
 
+    - speaker :
+      pause : "Pause Déjeuner"
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : "12.00 AM"
+
     # [SESSION 2] : "Valorisation et pédagogie de l’imaginaire anthologique."
     # speaker
     - speaker : "Annalisa DI VINCENZO (Liceo classico Luca De Samuele Cagnazzi, Altamura)"
@@ -138,7 +146,7 @@ tab:
         Cette communication explore les opportunités offertes par l’édition numérique pour les textes non-linéaires. Comme l’*Anthologie Palatine*, le *Glossary of Greek Birds* de D’Arcy Thompson (1896 et 1936) a été conçu pour une lecture flexible suivant les intérêts du lecteur et les réseaux de renvois. S’il s’agit avant tout d’un ouvrage de référence—essentiellement une liste de noms d’oiseaux en grec associés à une identification ornithologique grâce aux descriptions fournies par les textes anciens—l’aspect le plus intéressant du Glossary est ce qu’il ne dit pas explicitement car les références aux textes anciens recouvrent une mine d’informations sur les associations littéraires, mythologiques et historiques des oiseaux cités ainsi que les liens qu’ils entretiennent entre eux. Cette communication détaillera les techniques d’encodage et procédés tels que le formal concept analysis employés par le projet afin de faire ressortir ces informations et de s’en servir comme outil pour naviguer à travers le texte.
       biography : |
         ""
-      venue : "En ligne"
+      venue : "Online"
       time : "9.30 AM"
 
     # speaker
@@ -157,7 +165,7 @@ tab:
       subject :
       abstract :
       biography :
-      venue : "En présence"
+      venue :
       time : "12.00 AM"
 
     # [SESSION 4] : "Approches computationnelles appliquées aux études hellénistiques."
@@ -223,14 +231,14 @@ registration:
   form_action : "#" # works with formspree.io
 
   funfacts:
-  - name : "8 Speakers"
+  - name : "+12 Speakers"
     icon : "fa-microphone"
 
-  - name : "500 + Seats"
-    icon : "fa-flag"
+  # - name : "500 + Seats"
+  #   icon : "fa-flag"
 
-  - name : "300 tickets"
-    icon : "fa-ticket"
+  # - name : "300 tickets"
+  #   icon : "fa-ticket"
 
   - name : "3 days event"
     icon : "fa-calendar"
