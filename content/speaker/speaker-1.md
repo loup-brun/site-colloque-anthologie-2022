@@ -1,10 +1,10 @@
 ---
-title : "Mathilde Verstraete"
+title : "Dominic Forest"
 page_header_bg : "images/background/homepage-one-banner.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Helléniste"
-image: "https://i.imgur.com/Xm7K5ep.jpg"
-description : "Doctorante en humanités numériques."
+designation: "Développeur"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_primo_triclinio_%2C_IV_stile%2C_epoca_neroniana%2C_le_muse_06_urania.jpg/800px-Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_primo_triclinio_%2C_IV_stile%2C_epoca_neroniana%2C_le_muse_06_urania.jpg"
+description : "Professeur agrégé à l’École de bibliothéconomie et des sciences de l’information de l’Université de Montréal."
 draft : false
 type: speaker
 social:
@@ -41,7 +41,7 @@ personal_info:
 skills:
   enable : true
   title : "Personal Skills"
-  content : "Mon sujet de recherche porte sur la réception de l'Anthologie Grecque..."
+  content : "Mène des activités de recherche et d’enseignement dans les domaines de la fouille de textes, des humanités numériques et de la diffusion de l’information numérique."
   skillbars:
   - name: "Grec Ancien"
     percentage: "60%"

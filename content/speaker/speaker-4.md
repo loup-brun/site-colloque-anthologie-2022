@@ -1,10 +1,10 @@
 ---
-title : "Elsa Bouchard"
+title : "Mathilde Verstraete"
 page_header_bg : "images/background/homepage-one-banner.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "Helléniste"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_terzo_triclinio%2C_IV_stile%2C_epoca_neroniana%2C_03_figura.jpg/800px-Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_terzo_triclinio%2C_IV_stile%2C_epoca_neroniana%2C_03_figura.jpg"
-description : "Professeure en langue et littérature grecques."
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_primo_triclinio_%2C_IV_stile%2C_epoca_neroniana%2C_le_muse_03_clio.jpg/800px-Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_primo_triclinio_%2C_IV_stile%2C_epoca_neroniana%2C_le_muse_03_clio.jpg"
+description : "Doctorante en humanités numériques."
 draft : false
 type: speaker
 social:
@@ -41,7 +41,7 @@ personal_info:
 skills:
   enable : true
   title : "Personal Skills"
-  content : "Mes recherches portent principalement sur la pratique et la théorie anciennes de l'étymologie, c'est-à-dire la quête de la vérité des mots chez les poètes et les penseurs grecs."
+  content : "Mon sujet de recherche porte sur la réception de l'Anthologie Grecque..."
   skillbars:
   - name: "Grec Ancien"
     percentage: "60%"
