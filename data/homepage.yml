@@ -227,7 +227,7 @@ tab:
 ############ Registration ####################
 registration:
   enable : true
-  title : "Register to the Workshop"
+  title : "Register"
   content : |
     Registration for the workshop (27th-28th of October) is recommended;   
     registration for the hackathon (29th of October) is required (deadline: October 1st, 2022).
