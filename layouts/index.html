@@ -164,17 +164,25 @@
                 <input type="email" name="email" class="form-control main" placeholder="Email">
               </div>
               <div class="col-md-6">
-                <input type="text" name="phone" class="form-control main" placeholder="Phone">
+                <!-- <input type="text" name="phone" class="form-control main" placeholder="Phone"> -->
+                <div class="form-group">
+                  <select class="form-control main" name="status" id="select-status">
+                    <option selected disabled>Your status</option>
+                    <option value="Lecturer">Lecturer</option>
+                    <option value="Student">Student</option>
+                    <option value="Other">Other</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <input type="backgroun" name="background" class="form-control main" placeholder="Background (speciality)">
               </div>
               <div class="col-md-6">
                 <div class="form-group">
                   <select class="form-control main" name="ticket" id="select-ticket">
                     <option selected disabled>Ticket Type</option>
-                    <option value="1">1</option>
-                    <option value="2">2</option>
-                    <option value="3">3</option>
-                    <option value="4">4</option>
-                    <option value="5">5</option>
+                    <option value="Workshop">Workshop</option>
+                    <option value="Hackathon">Hackathon</option>
                   </select>
                 </div>
               </div>
