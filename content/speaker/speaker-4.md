@@ -52,11 +52,4 @@ skills:
   - name: "HTML"
     percentage: "80%"
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore
-dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse.
-
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni
-dolores eos qui ratione voluptatem sequi nesciunt.
-
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur
+Mathilde Verstraete est candidate au doctorat en humanités numériques à l’Université de Montréal. Après l’obtention d’un master en langues et lettres classiques à l’Université Catholique de Louvain (Belgique), elle intègre le projet d’édition numérique collaborative de l’Anthologie grecque. Sous la direction de Marcello Vitali Rosati et Elsa Bouchard, elle effectue ses recherches sur les potentialités de réception du manuscrit de l’Anthologie grecque hier et aujourd’hui.

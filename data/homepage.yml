@@ -238,17 +238,17 @@ registration:
 # - name : "300 tickets"
 #   icon : "fa-ticket"
 
-  - name : "3 days event"
-    icon : "fa-calendar"
+  # - name : "3 days event"
+  #   icon : "fa-calendar"
 
-  - name : "+12 Speakers"
-    icon : "fa-microphone "
+  # - name : "+12 Speakers"
+  #   icon : "fa-microphone "
 
   - name : "A prize will be awarded to the students of the winning team of the hackathon"
     icon : "fa-flag"
 
-  - name : "Free food"
-    icon : "fa-cutlery"
+  # - name : "Free food"
+  #   icon : "fa-cutlery"
 
 
 

@@ -772,25 +772,6 @@
 				border-right: 1px solid #f69351;
 			}
 		}
-		.service-item{
-			padding: 30px;
-			text-align: center;
-			i, h5{
-				color: $light;
-			}
-			i{
-				font-size: 3.25rem;//52px
-				margin-bottom: 20px;
-			}
-			h5{
-				font-family: $primary-font;
-				font-weight: 400;
-				text-transform: uppercase;
-				@include mobile{
-					font-size: 12px;
-				}
-			}
-		}
 	}
 	.registration-block{
 		position: relative;
@@ -810,6 +791,25 @@
 					line-height: 1;
 				}
 				margin-bottom: 35px;
+			}
+		}
+	}
+	.service-item{
+		padding: 30px;
+		text-align: center;
+		i, h5{
+			color: $light;
+		}
+		i{
+			font-size: 3.25rem;//52px
+			margin-bottom: 20px;
+		}
+		h5{
+			font-family: $primary-font;
+			font-weight: 400;
+			text-transform: uppercase;
+			@include mobile{
+				font-size: 12px;
 			}
 		}
 	}
