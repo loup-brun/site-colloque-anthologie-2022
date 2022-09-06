@@ -75,7 +75,7 @@ url = "schedule"
 [[menu.main]]
 weight = 2
 name = "Hackathon"
-url = "faq"
+url = "hackathon"
 
 [[menu.main]]
 weight = 3
