@@ -1,0 +1,8 @@
+
+############### Paramètres du multilingue ###############
+[fr]
+  # français d’abord
+  weight = 1
+[en]
+  title = ''
+  weight = 2

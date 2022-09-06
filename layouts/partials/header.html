@@ -20,7 +20,6 @@
         {{ if .HasChildren }}
         <li class="nav-item dropdown dropdown-slide">
           <a class="nav-link" href="#" data-toggle="dropdown">{{.Name}}
-            <span>/</span>
           </a>
           <!-- Dropdown list -->
           <div class="dropdown-menu">
@@ -34,12 +33,34 @@
         <li class="nav-item">
           <a class="nav-link"
             href="{{if .Pre}}{{site.BaseURL | absLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{.Name}}
-            <span>/</span>
           </a>
         </li>
         {{ end }}
         {{ end }}
+
       </ul>
+
+      {{/* Lang switcher */}}
+      {{- $siteLanguages := .Site.Languages -}}
+      {{- if gt (len $siteLanguages) 1 -}}
+      <div class="nav-lang-switcher">
+        {{- $currentPage := $.Page -}}
+        {{- $pageLang := $currentPage.Lang -}}
+        {{- range $index, $homeLanguage := $.Site.Home.AllTranslations -}}
+        {{- if gt $index 0 -}}
+        <span role="separator" class="nav-lang-separator">/</span>
+        {{- end -}}
+
+        <a
+          title="{{ $homeLanguage.Lang }}" class="nav-lang-link"
+          {{ if eq $pageLang .Lang }}aria-current{{ end }}
+          href="{{ if $currentPage.IsTranslated  }}{{ range where $currentPage.Translations "Lang" $homeLanguage.Lang }}{{ .Permalink }}{{ end }}{{ else }}{{ $homeLanguage.Permalink }}{{ end }}"
+        >
+        {{- $homeLanguage.Lang -}}
+        </a>
+        {{- end -}}
+      </div>
+      {{- end -}}
       {{ if site.Params.navigation_button.enable }}
       <a href="{{ site.Params.navigation_button.link | absURL }}" class="ticket">
         <img src="{{site.Params.navigation_button.icon | absURL }}" alt="ticket">

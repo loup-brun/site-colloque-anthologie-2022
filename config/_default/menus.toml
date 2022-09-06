@@ -1,0 +1,22 @@
+####################### navigation ##########################
+
+# main menu
+[[main]]
+weight = 1
+name = "Horaire"
+url = "horaire"
+
+[[main]]
+weight = 2
+name = "Hackathon"
+url = "hackathon"
+
+[[main]]
+weight = 3
+name = "Archives"
+url = "archives"
+
+[[main]]
+name = "Contact"
+url = "contact"
+weight = 4

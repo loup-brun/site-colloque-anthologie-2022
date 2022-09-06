@@ -11,11 +11,12 @@ summaryLength = "10"
 googleAnalytics = "" # example : UA-123-45
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
+# langues
 # disable language
 disableLanguages = [] # desable language from here
-defaultContentLanguage = "en"
-languageCode = "en"
-
+# fr par défaut
+defaultContentLanguage = "fr"
+languageCode = "fr"
 
 ############################# Outputs ##############################
 [outputs]
@@ -62,32 +63,6 @@ attributes = ""
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
 attributes = ""
-
-
-####################### navigation ##########################
-
-# main menu
-[[menu.main]]
-weight = 1
-name = "Schedule"
-url = "schedule"
-
-[[menu.main]]
-weight = 2
-name = "Hackathon"
-url = "hackathon"
-
-[[menu.main]]
-weight = 3
-name = "Archives"
-url = "archives"
-
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 4
-
-
 
 #################### default parameters ################################
 [params]
