@@ -757,22 +757,23 @@
 
 .registration{
 	overflow: hidden;
-	.service-block{
-		position: relative;
-		padding: 120px 10%;
-		[class*=col-]{
-			&:first-child{
-				border-right: 1px solid #f69351;
-				border-bottom: 1px solid #f69351;
-			}
-			&:nth-child(2){
-				border-bottom: 1px solid #f69351;
-			}
-			&:nth-child(3){
-				border-right: 1px solid #f69351;
-			}
-		}
-	}
+	background: $primary-color;
+	// .service-block{
+	// 	position: relative;
+	// 	padding: 120px 10%;
+	// 	[class*=col-]{
+	// 		&:first-child{
+	// 			border-right: 1px solid #f69351;
+	// 			border-bottom: 1px solid #f69351;
+	// 		}
+	// 		&:nth-child(2){
+	// 			border-bottom: 1px solid #f69351;
+	// 		}
+	// 		&:nth-child(3){
+	// 			border-right: 1px solid #f69351;
+	// 		}
+	// 	}
+	// }
 	.registration-block{
 		position: relative;
 		height: 100%;
@@ -794,25 +795,25 @@
 			}
 		}
 	}
-	.service-item{
-		padding: 30px;
-		text-align: center;
-		i, h5{
-			color: $light;
-		}
-		i{
-			font-size: 3.25rem;//52px
-			margin-bottom: 20px;
-		}
-		h5{
-			font-family: $primary-font;
-			font-weight: 400;
-			text-transform: uppercase;
-			@include mobile{
-				font-size: 12px;
-			}
-		}
-	}
+	// .service-item{
+	// 	padding: 30px;
+	// 	text-align: center;
+	// 	i, h5{
+	// 		color: $light;
+	// 	}
+	// 	i{
+	// 		font-size: 3.25rem;//52px
+	// 		margin-bottom: 20px;
+	// 	}
+	// 	h5{
+	// 		font-family: $primary-font;
+	// 		font-weight: 400;
+	// 		text-transform: uppercase;
+	// 		@include mobile{
+	// 			font-size: 12px;
+	// 		}
+	// 	}
+	// }
 }
 
 .pricing{
