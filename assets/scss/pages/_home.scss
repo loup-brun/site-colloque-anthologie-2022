@@ -392,42 +392,16 @@
 			ul{
 				li{
 					list-style: none;
-					div{
-						display: inline-block;
-					}
-					.time{
-						width: 20%;
-						@include tablet {
-							width: 37%;
-						}
-						@include mobile {
-							width: 48%;
-						}
-					}
-					.speaker{
-						width: 30%;
-						@include desktop-sm {
-							width: 50%;
-						}
-						@include tablet {
-							width: 60%;
-						}
-						@include mobile {
-							width: 50%;
-						}
-					}
-					.subject{
-						width: 40%;
-					}
-					.pause{
-						width: 70%;
-						text-align: center;
+
+					.schedule-content{
 					}
 				}
 				margin-bottom: 0;
 			}
 			li.headings{
-				padding: 22px 40px;
+				display: flex;
+				flex-direction: row;
+				padding: 1.25rem 2rem;
 				background: $primary-color;
 				div{
 					color: $light;
@@ -440,49 +414,83 @@
 				border-left: 1px solid;
 				border-right: 1px solid;
 				border-color: $border-color;
-				.block{
-					padding: .75rem 1.5rem;
-					background: $light;
-					width: 100%;
-					transition: .2s ease-in;
-					div{
-						color: $black;
-						font-family: $secondary-font;
-						i{
-							font-size: 1.1875em;
-							color: #c7c8c9;
-						}
-						img{
-							border-radius: 100%;
-						}
-						span.time{
-							margin-left: 5px;
-						}
-						span.name{
-						}
-					}
-					//&:hover{
-					//	box-shadow: 0px 0px 30px 0px rgba(11, 29, 66, 0.15);
-					//	transform: scale(1.01);
-					//	span.name{
-					//		color: $primary-color;
-					//	}
-					//}
-				}
 			}
 		}
+	}
+	.pause {
+
+	}
+	.schedule-row{
+		display: flex;
+		flex-direction: row;
+		padding: .75rem 1.5rem;
+		background-color: $light;
+		width: 100%;
+		transition: .2s ease-in;
+		div{
+			color: $black;
+			font-family: $secondary-font;
+
+			& + div {
+				margin-left: 1rem;
+			}
+			i{
+				font-size: 1.1875em;
+				color: #c7c8c9;
+			}
+			img{
+				border-radius: 100%;
+			}
+			span.time{
+				margin-left: 5px;
+			}
+			span.venue{
+				margin-left: 5px;
+			}
+			span.name{
+			}
+		}
+		//&:hover{
+		//	box-shadow: 0px 0px 30px 0px rgba(11, 29, 66, 0.15);
+		//	transform: scale(1.01);
+		//	span.name{
+		//		color: $primary-color;
+		//	}
+		//}
+	}
+
+	.pause-row {
+		background-color: $light-gray;
+		.schedule-content {
+			padding: .5rem 0; /* espacement vertical additionel */
+			text-transform: uppercase;
+			letter-spacing: .025em;
+			text-align: center;
+			flex-grow: 1;
+			font-size: 1.125rem;
+		}
+
+	}
+
+	.schedule-time {
+		/* largeur de la colonne 'heure' qui a du sens */
+		width: 8rem;
+		flex-shrink: 0;
 	}
 	.download-button{
 		padding-top: 40px;
 		margin-bottom: 30px;
 	}
-	&.two{
-		.schedule-tab{
+	&.two {
+		.schedule-tab {
 			display: flex;
 			justify-content: center;
 			margin-top: 30px;
-			ul{
-				li.nav-item{
+
+			ul {
+				background-color: $light;
+
+				li.nav-item {
 					margin-right: 0;
 					margin-bottom: 10px;
 					@include desktop-sm {
@@ -493,7 +501,8 @@
 						margin-bottom: 10px;
 						margin-right: 0;
 					}
-					a{
+
+					a {
 						font-family: $secondary-font;
 						text-transform: uppercase;
 						font-size: 20px; //24px
@@ -503,7 +512,8 @@
 						border-radius: 0;
 						border: 1px solid $border-color;
 						padding: 20px 30px;
-						span{
+
+						span {
 							margin-top: 2px;
 							font-family: $primary-font;
 							display: block;
@@ -511,18 +521,21 @@
 							color: $text-color;
 							font-weight: 400;
 						}
-						&.active{
+
+						&.active {
 							background: $primary-color;
 							color: $light;
 							position: relative;
-							span{
+
+							span {
 								color: $light;
 							}
-							&:after{
+
+							&:after {
 								content: '';
 								position: absolute;
 								left: 100%;
-								right:0;
+								right: 0;
 								bottom: 0;
 								top: 50%;
 								transform: translate(0, -50%);
@@ -540,20 +553,22 @@
 				}
 			}
 		}
-		.schedule-contents{
+
+		.schedule-contents {
 			margin-top: 30px;
 			margin-bottom: 30px;
 			padding: 0;
 			@extend .shadow;
-			.schedule-item{
-				ul{
-					li{
+
+			.schedule-item {
+				ul {
+					li {
 						list-style: none;
 						display: flex;
 						flex-direction: row;
 						align-items: flex-start;
 
-						.time{
+						.time {
 							width: 20%;
 							@include tablet {
 								width: 37%;
@@ -562,84 +577,40 @@
 								width: 48%;
 							}
 						}
-						.speaker{
-							width: 30%;
-							@include desktop-sm {
-								width: 50%;
-							}
-							@include tablet {
-								width: 60%;
-							}
-							@include mobile {
-								width: 50%;
-							}
+
+						.schedule-content {
 						}
-						.subject{
+
+						.subject {
 							width: 30%;
 							@include large-desktop {
 								display: none;
 							}
 						}
-						.venue{
+
+						.venue {
 						}
 					}
+
 					margin-bottom: 0;
 				}
-				li.headings{
-					padding: 25px 0;
+
+				li.headings {
+					display: flex;
+					flex-direction: row;
+					padding: 1.25rem 0;
 					background: $primary-color;
-					div{
+
+					div {
 						color: $light;
 						text-transform: uppercase;
 						font-family: $secondary-font;
 					}
 				}
-				li.schedule-details{
-					&:not(:last-child){
+
+				li.schedule-details {
+					&:not(:last-child) {
 						border-bottom: 1px solid $border-color;
-					}
-					.block{
-						text-align: center;
-						padding: 0;
-						background: $light;
-						width: 100%;
-						transition: .2s ease-in;
-						div{
-							padding-top: 25px;
-							padding-bottom: 25px;
-							color: $black;
-							font-family: $secondary-font;
-							i{
-								font-size: 1.1875em;
-								color: #c7c8c9;
-							}
-							img{
-								border-radius: 100%;
-							}
-							span.time{
-								margin-left: 0px;
-							}
-							span.name{
-								margin-left: 0px;
-								transition: .2s ease-in;
-								@include mobile {
-									margin-left: 0;
-								}
-							}
-							&:not(:last-child){
-								border-right: 1px solid $border-color;
-							}
-						}
-						&:not(:last-child){
-							border-bottom: 1px solid $border-color;
-						}
-						&:hover{
-							box-shadow: none;
-							transform: scale(1);
-							span.name{
-								color: $primary-color;
-							}
-						}
 					}
 				}
 			}

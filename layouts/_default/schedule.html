@@ -36,36 +36,58 @@
               <!-- Headings -->
               <ul class="m-0 p-0">
                 <li class="headings">
-                  <div class="time">{{ i18n "Schedule" }}</div>
-                  <div class="speaker">{{ i18n "Speaker" }}</div>
+                  <div class="schedule-time">{{ i18n "Schedule" }}</div>
+                  <div class="speaker">{{ i18n "Topic" }} / {{ i18n "Speaker" }}</div>
+                  <!--
                   <div class="subject">{{ i18n "Topic" }}</div>
+                  -->
                 </li>
                 <!-- Schedule Details -->
                 {{ range .tablist_items }}
                 <li class="schedule-details">
-                  <div class="block">
+                  <div class="schedule-row {{if .pause}}pause-row{{end}}">
                     <!-- time -->
-                    <div class="time">
+                    <div class="schedule-time">
                       <i class="fa fa-clock-o"></i>
                       <span class="time">{{ .time }}</span>
                       <br>
-                      <div class="venue">{{ .venue | markdownify }}</div>
+                      {{if .venue}}
+                      <div>
+                        <i class="fa fa-map-marker"></i>
+                        <span class="venue">{{ .venue | markdownify }}</span>
+                      </div>
+                      {{ end }}
                     </div>
-                    {{if .pause}}
-                    <div class="pause">{{ .pause | markdownify }}</div>
-                    {{else}}
+
                     <!-- Speaker -->
-                    <div class="speaker">
+                    <div class="schedule-content">
+
+                      {{if .pause}}
+                      {{ .pause | markdownify }}
+                      {{else}}
                       <!-- <img src="{{ .speaker_image | absURL }}" alt="{{.speaker}}"> -->
+                      <h5>{{ .subject | markdownify }}</h5>
+
                       <span class="name">{{.speaker| markdownify}}</span>
+
+                      {{ if .abstract }}
+                      <details>
+                        <summary>Abstract</summary>
+                        {{ .abstract | markdownify }}
+                      </details>
+                      {{end}}
+                      <!--
                       {{ if .biography }}
                       <details>
                         <summary>Biography</summary>
                         {{ .biography | markdownify }}
                       </details>
                       {{end}}
+                      -->
+                      {{end}}
                     </div>
                     <!-- Subject -->
+                    <!--
                     <div class="subject">
                       <h5>{{ .subject | markdownify }}</h5>
                       {{ if .abstract }}
@@ -75,7 +97,7 @@
                       </details>
                       {{end}}
                     </div>
-                    {{end}}
+                    -->
                   </div>
                 </li>
                 {{ end }}
