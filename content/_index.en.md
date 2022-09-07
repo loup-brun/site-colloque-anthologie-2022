@@ -5,9 +5,9 @@ kind: home
 ################# Banner ###################
 banner:
   enable : true
-  heading : "Navigations anthologiques"
-  heading_2 : "L'Anthologie grecque à l'ère des Digital Classics"
-  content : "Université de Montréal, 27-29 octobre 2022"
+  heading : "Anthological Navigations"
+  heading_2 : "The Greek Anthology in the Era of Digital Classics"
+  content : "University of Montreal, 27th-29th of October 2022"
   timer:
     enable : true
     year : 2022
@@ -22,14 +22,14 @@ banner:
 ################# About ###################
 about:
   enable : true
-  title : "Trois journées d'étude consacrées à l'actualité de l'Anthologie grecque"
+  title : "A three days workshop dedicated to the actuality of the Greek Anthology"
   image : "images/sappho.jpg"
   content : |
-    Les langues et littératures de l'Antiquité, de la Grèce notamment, sont omniprésentes dans notre culture et dans l'édification de nos sociétés occidentales. Avec la naissance et le développement d'Internet d'une part, du Web d'autre part, émergent de plus en plus de projets de numérisation, d'indexation, d'édition numérique, de valorisation et d'études computationnelles de ces textes.   
-    Quelles sont les implications de cette rencontre entre des textes vieux de parfois plusieurs millénaires et des plateformes numériques ? Que faire de ces innombrables données générées ? Comment s'approprier ces patrimoines numérisés, contribuer à leur rayonnement, les exploiter à des fins heuristiques ? Quels outils numériques et computationnels utiliser pour approfondir encore nos connaissances sur ces vastes corpus qui sont loin de nous avoir livré tous leurs secrets ?   
-    L'événement « Navigations anthologiques » entend soulever ces questions en se concentrant en particulier sur le cas d'étude de l'Anthologie grecque, œuvre monumentale dont la Chaire de Recherche du Canada sur les Écritures Numériques produit une édition numérique collaborative.
-    Cette rencontre se déroulera sur trois journées d'étude dans le but d'appeler la communauté des Digital Classicists à réfléchir autour des enjeux scientifiques liés à la diffusion du patrimoine des langues et littératures en grec ancien et plus généralement sur les impacts méthodologiques et épistémologiques des Digital Humanities dans le cadre des études hellénistiques, à partir du cas d'étude de l'Anthologie grecque. 
-    Tout en s'articulant autour du corpus anthologique, les trois journées de colloque ont pour but de faire la passerelle entre les termes « digital » et « classicists », de provoquer une rencontre entre des chercheur·euse·s, professeur·e·s et programmeur·euse·s de profils divers et aux intérêts parfois éloignés pour que se crée une discussion pérenne et qu'émanent de nouvelles potentialités de recherche. 
+    The languages and literatures of Antiquity, especially of Greece, are omnipresent in our culture and in the construction of our Western societies. With the birth and development of the Internet on the one hand, and the Web on the other, more and more projects for the digitization, indexing, digital publishing, and computational studies of these texts are emerging.   
+    What are the implications of this encounter between texts that are sometimes several millennia old and digital platforms? What to do with the innumerable data generated? How can we appropriate these digitized heritages, contribute to their dissemination, and exploit them for heuristic purposes? What digital and computational tools can we use to further our knowledge of these vast bodies of work, which are far from having revealed all their secrets?   
+    The event "Anthological Navigations" intends to raise these questions by focusing in particular on the case study of the Greek Anthology, a monumental work for which the Canada Research Chair in Digital Writing is producing a collaborative digital edition.
+    This meeting will take place over three days with the aim of calling on the community of Digital Classicists to reflect on the scientific issues related to the dissemination of the heritage of ancient Greek languages and literatures and, more generally, on the methodological and epistemological impacts of the Digital Humanities within the framework of Hellenistic studies, based on the case study of the Greek Anthology. 
+    While focusing on the anthological corpus, the three days of the conference aim to bridge the gap between the terms "digital" and "classicists", to provoke a meeting between researchers, professors and programmers with diverse profiles and sometimes distant interests, so that a perennial discussion can be created and new research potentialities can emerge.
   button_solid:
     enable : false
     label : "Buy ticket"
@@ -65,13 +65,13 @@ tab:
       abstract:  |
         Our knowledge of Greek epigrammatic poetry is mainly based on two fundamental works: the *Palatine Anthology* (PA) and the *Anthology of Planudes* (APl). Minor works are added to these, called *Syllogae Minores*. Some epigrams are also known through indirect tradition (authors like Athenaeus), or transmitted from papyri or inscriptions. The editors of the Anthology are thus confronted with a complex and changing textual translation, ranging from a textus unicus to much more varied situations. I will illustrate, in the course of my presentation, the main problems - of critical, textual and exegetical nature - that I have encountered in my capacity as editor of several epigrammatic authors (Strato, Lucillius, Hedylus in particular).
       biography : |
-        Lucia Floridi is an Associate Professor in Classical and Late Antique Philology (L-FIL-LET/05 FILOLOGIA CLASSICA) at the Department of Classical Philology and Italianistics of the Alma Mater Studiorum - University of Bologna. Her main research interests concern Greek and Latin epigrams, with a focus on the erotic and scoptic genres, Hellenistic poetry, prose poetry of the imperial age, and the relationship between literature and the visual arts. Among her major publications, *Stratone di Sardi. Epigrammi* (Edizioni Dell’Orso, 2007), *Lucillio. Epigrammi* (De Gruyter, 2014), *Edilo. Epigrammi* (De Gruyter, 2020), as well as numerous contributions on authors such as Pallas, Ausonius, Longo Sophista, and Lucian.
+        Lucia Floridi is an Associate Professor in Classical and Late Antique Philology at the Department of Classical Philology and Italianistics of the Alma Mater Studiorum - University of Bologna. Her main research interests concern Greek and Latin epigrams, with a focus on the erotic and scoptic genres, Hellenistic poetry, prose poetry of the imperial age, and the relationship between literature and the visual arts. Among her major publications, *Stratone di Sardi. Epigrammi* (Edizioni Dell’Orso, 2007), *Lucillio. Epigrammi* (De Gruyter, 2014), *Edilo. Epigrammi* (De Gruyter, 2020), as well as numerous contributions on authors such as Pallas, Ausonius, Longo Sophista, and Lucian.
       venue : "C-6070-9"
       time : "10.00 AM"
 
     # speaker
     - speaker : "Simone BETA (Università degli Studi di Siena)"
-      subject : "Enseigner le grec avec les devinettes de l’*Anthologie Palatine*."
+      subject : "Teaching greek with the *Greek Anthology*'s riddles."
       abstract : |
         According to the preface of Constantine Cephalas, the epigrams of the fourteenth book of the *Palatine Anthology* had a pedagogical purpose: the problems were useful to teach mathematics; the riddles to teach the language. Can these last enigmatic epigrams be useful today to teach Greek language and, in addition, classical mythology? By comparing these little poems to other poetic riddles testified in Greek and Byzantine literature, this paper will prove that the pedagogical function evoked by Cephalas can still be exploited today.
       biography : |
