@@ -70,20 +70,20 @@
 
                       <span class="name">{{.speaker| markdownify}}</span>
 
-                      {{ if .abstract }}
-                      <details>
-                        <summary>Abstract</summary>
-                        {{ .abstract | markdownify }}
-                      </details>
-                      {{end}}
-                      <!--
                       {{ if .biography }}
                       <details>
                         <summary>Biography</summary>
                         {{ .biography | markdownify }}
                       </details>
                       {{end}}
-                      -->
+
+                      {{ if .abstract }}
+                      <details>
+                        <summary>Abstract</summary>
+                        {{ .abstract | markdownify }}
+                      </details>
+                      {{end}}
+                      
                       {{end}}
                     </div>
                     <!-- Subject -->
