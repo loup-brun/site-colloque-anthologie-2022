@@ -43,8 +43,8 @@ about:
 ################# Speaker ###################
 speakers:
   enable : true
-  title : "Hosts"
-  content : "Canada Research Chair in Digital Textualities"
+  title : "Organisateurs"
+  content : "Chaire de recherche du Canada sur les écritures numériques"
   #speaker items are coming from "content/speakers" folder
 
 ###################### Tab ####################
