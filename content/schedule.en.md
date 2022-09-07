@@ -20,6 +20,22 @@ tab:
     tablist_items:
     # [SESSION 1] : "L’actualité scientifique de l’*Anthologie grecque*."
     # speaker
+    - speaker :
+      pause : "Welcome"
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : "09.00 AM"
+
+    - speaker :
+      pause : "[SESSION 1] : The scientific news of the *Greek Anthology*."
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : "09.50 AM"  
+
     - speaker : "Lucia FLORIDI (Alma Mater Studiorum - Università di Bologna)"
       subject : "Editing Greek epigrams. Methods and problems."
       abstract:  |
@@ -46,12 +62,20 @@ tab:
       time : "11.20 AM"
 
     - speaker :
-      pause : "Pause Déjeuner"
+      pause : "Lunch Break"
       subject :
       abstract :
       biography :
       venue :
       time : "12.00 AM"
+
+    - speaker :
+      pause : "[SESSION 2] : Valuation and pedagogy of the anthological imagination."
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : "12.50 AM"  
 
     # [SESSION 2] : "Valorisation et pédagogie de l’imaginaire anthologique."
     # speaker
@@ -101,6 +125,14 @@ tab:
     tablist_items:
     # [SESSION 3] : "Édition numérique de textes classiques."
     # speaker
+    - speaker :
+      pause : "[SESSION 3] : Digital editing of classic texts."
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : "09.00 AM"  
+
     - speaker : "Marie-Claire BEAULIEU (Tufts University, Classics)"
       subject : "Revealing latent information in a reference text: the digital edition of the *Glossary of Greek Birds*"
       abstract : |
@@ -123,12 +155,20 @@ tab:
 
           # speaker
     - speaker :
-      pause : "Pause Déjeuner"
+      pause : "Lunch Break"
       subject :
       abstract :
       biography :
       venue :
       time : "12.00 AM"
+
+    - speaker :
+      pause : "[SESSION 4] : Computational approaches applied to Hellenistic studies."
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : "12.50 AM"  
 
     # [SESSION 4] : "Approches computationnelles appliquées aux études hellénistiques."
     # speaker

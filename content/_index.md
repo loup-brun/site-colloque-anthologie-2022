@@ -228,10 +228,10 @@ tab:
 ############ Registration ####################
 registration:
   enable : true
-  title : "Register"
+  title : "S'inscrire"
   content : |
-    Registration for the workshop (27th-28th of October) is recommended;   
-    registration for the hackathon (29th of October) is required (deadline: October 1st, 2022).
+    L'inscription aux journées d'étude (27 et 28 Octobre) est recommandée;   
+    L'inscription pour la journée de hackathon (29 Octobre) est requise (date butoir : 1er Octobre 2022).
   form_action : "https://formspree.io/f/mnqrnvny" # works with formspree.io
 
   funfacts:
@@ -248,8 +248,8 @@ registration:
   # - name : "+12 Speakers"
   #   icon : "fa-microphone "
 
-  - name : "A prize will be awarded to the students of the winning team of the hackathon"
-    icon : "fa-flag"
+  # - name : "A prize will be awarded to the students of the winning team of the hackathon"
+  #   icon : "fa-flag"
 
   # - name : "Free food"
   #   icon : "fa-cutlery"
@@ -308,7 +308,7 @@ call_to_action:
 ############### Sponsors ##################
 sponsors:
   enable : true
-  title : "Our partners"
+  title : "Nos partenaires"
   content : ""
   button:
     enable : false

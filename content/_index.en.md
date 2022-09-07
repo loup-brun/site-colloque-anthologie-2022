@@ -248,8 +248,8 @@ registration:
   # - name : "+12 Speakers"
   #   icon : "fa-microphone "
 
-  - name : "A prize will be awarded to the students of the winning team of the hackathon"
-    icon : "fa-flag"
+  # - name : "A prize will be awarded to the students of the winning team of the hackathon"
+  #   icon : "fa-flag"
 
   # - name : "Free food"
   #   icon : "fa-cutlery"

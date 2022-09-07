@@ -75,7 +75,7 @@ author = "Themefisher"
 # contact form action
 contact_form_action = "https://formspree.io/f/mnqrnvny" # contact form works with https://formspree.io
 # copyright
-copyright = "Thème conceived by [Themefisher](https://themefisher.com/), developed by [Gethugothemes](https://gethugothemes.com/) and adapted by [CRCEN](https://ecrituresnumeriques.ca)"
+copyright = "Theme conceived by [Themefisher](https://themefisher.com/), developed by [Gethugothemes](https://gethugothemes.com/) and adapted by [CRCEN](https://ecrituresnumeriques.ca)"
 
 # Preloader
 [params.preloader]
