@@ -98,7 +98,7 @@
     </div>
     <div class="row">
       {{ range (where site.RegularPages "Section" "speaker") }}
-      <div class="col-lg-3 col-md-4 col-sm-6">
+      <div class="col-lg-3 col-md-4 col-sm-6 mb-3">
         <!-- Speaker 1 -->
         <div class="speaker-item">
           <div class="image">
@@ -112,7 +112,7 @@
               </ul>
             </div>
           </div>
-          <div class="content text-center">
+          <div class="content text-center mb-auto">
             <h5><a href="{{ .Permalink }}">{{.Title }}</a></h5>
             <p>{{ .Params.Designation | markdownify }}</p>
           </div>
