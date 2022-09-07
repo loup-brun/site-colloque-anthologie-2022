@@ -12,19 +12,21 @@
 		</div>
 		<form action="{{site.Params.contact_form_action}}" method="POST" class="row">
 			<div class="col-md-6">
-				<input type="text" class="form-control main" name="name" id="name" placeholder="Name">
+				<input type="text" class="form-control main" name="name" id="name" placeholder="{{ i18n "Name" }}">
 			</div>
 			<div class="col-md-6">
-				<input type="email" class="form-control main" name="email" id="email" placeholder="Email">
+				<input type="email" class="form-control main" name="email" id="email" placeholder="{{ i18n "Email" }}">
 			</div>
+      <!--
 			<div class="col-md-12">
 				<input type="text" class="form-control main" name="phone" id="phone" placeholder="Phone">
 			</div>
+			-->
 			<div class="col-md-12">
-				<textarea name="message" id="message" class="form-control main" rows="10" placeholder="Your Message"></textarea>
+				<textarea name="message" id="message" class="form-control main" style="height: auto" rows="6" placeholder="{{ i18n "Your Message" }}"></textarea>
 			</div>
 			<div class="col-12 text-center">
-				<button type="submit" class="btn btn-main-md">Send</button>
+				<button type="submit" class="btn btn-main-md">{{ i18n "Send" }}</button>
 			</div>
 		</form>
 	</div>

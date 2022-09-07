@@ -21,7 +21,7 @@
               {{ .Content }}
             </div>
             <div class="social-profiles">
-              <h5>Social Profiles</h5>
+              <h5>{{ i18n "Social Profiles" }}</h5>
               <ul class="list-inline social-list">
                 {{ range .Params.social}}
                 <li class="list-inline-item">
@@ -51,7 +51,7 @@
         </div>
         {{ end }}
         {{ end }}
-        
+
         {{ if .Params.skills.enable }}
         {{ with .Params.skills }}
         <div class="col-md-6">
