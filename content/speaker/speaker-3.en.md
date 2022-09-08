@@ -2,7 +2,7 @@
 title : "Marcello Vitali-Rosati"
 page_header_bg : "images/background/homepage-one-banner.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Philosophe"
+designation: "Philosoph, Full Professeur at the departement of french literature."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_primo_triclinio_%2C_IV_stile%2C_epoca_neroniana%2C_le_muse_01_calliope.jpg/800px-Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_primo_triclinio_%2C_IV_stile%2C_epoca_neroniana%2C_le_muse_01_calliope.jpg"
 description : "Philosoph, Full Professeur at the departement of french literature."
 draft : false
