@@ -67,7 +67,7 @@ tab:
       biography : |
         Lucia Floridi est professeure associé en philologie classique et tardo-antique au département de philologie classique et d'italianistique de l'Alma Mater Studiorum - Université de Bologne. Ses principaux intérêts de recherche concernent les épigrammes grecques et latines, plus particulièrement les genres érotique et scoptique, la poésie hellénistique, la poésie en prose de l'âge impérial, mais aussi la relation entre la littérature et les arts visuels. Parmi ses principales publications, *Stratone di Sardi. Epigrammi* (Edizioni Dell'Orso, 2007), *Lucillio. Epigrammi* (De Gruyter, 2014), *Edilo. Epigrammi* (De Gruyter, 2020), ainsi que de nombreuses contributions sur des auteurs tels que Pallas, Ausonius, Longo Sophista et Lucian.
       venue : "C-6070-9"
-      time : "10.00 AM"
+      time : "09.30 AM"
 
     # speaker
     - speaker : "Simone BETA (Università degli Studi di Siena)"

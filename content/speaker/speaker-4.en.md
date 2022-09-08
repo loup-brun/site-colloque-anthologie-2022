@@ -2,9 +2,9 @@
 title : "Mathilde Verstraete"
 page_header_bg : "images/background/homepage-one-banner.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Doctorante en Humanités Numériques (UdeM)"
+designation: "PhD candidate in digital humanities (UdeM)"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_primo_triclinio_%2C_IV_stile%2C_epoca_neroniana%2C_le_muse_03_clio.jpg/800px-Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_primo_triclinio_%2C_IV_stile%2C_epoca_neroniana%2C_le_muse_03_clio.jpg"
-description : "Doctorante en humanités numériques."
+description : "Doctorante en humanités numériques (UdeM)."
 draft : false
 type: speaker
 social:
@@ -52,4 +52,4 @@ skills:
   - name: "HTML"
     percentage: "80%"
 ---
-Mathilde Verstraete est candidate au doctorat en humanités numériques à l’Université de Montréal. Après l’obtention d’un master en langues et lettres classiques à l’Université Catholique de Louvain (Belgique), elle intègre le projet d’édition numérique collaborative de l’Anthologie grecque. Sous la direction de Marcello Vitali Rosati et Elsa Bouchard, elle effectue ses recherches sur les potentialités de réception du manuscrit de l’Anthologie grecque hier et aujourd’hui.
+Mathilde Verstraete is a PhD candidate in digital humanities at the University of Montreal. After obtaining a master's degree in classical languages and literature at the Université Catholique de Louvain (Belgium), she joined the collaborative digital edition project of the Greek Anthology. Under the supervision of Marcello Vitali Rosati and Elsa Bouchard, she is conducting research on the potential of the reception of the Greek Anthology manuscript. 
