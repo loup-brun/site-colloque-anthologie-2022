@@ -55,8 +55,8 @@ tab:
   # Il faut rajouter une ligne pour l'accueil et une ligne pour la présentation/introduction ; pour les temps de discussion.., la pause dej,..
   tablist:
   # tab item
-  - name : "Day 01"
-    date : "October 27th, 2022"
+  - name : "Jour 01"
+    date : "27 October 2022"
     tablist_items:
     # [SESSION 1] : "L’actualité scientifique de l’*Anthologie grecque*."
     # speaker

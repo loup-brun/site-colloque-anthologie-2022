@@ -58,7 +58,7 @@ tab:
   - name : "Day 01"
     date : "October 27th, 2022"
     tablist_items:
-    # [SESSION 1] : "L’actualité scientifique de l’*Anthologie grecque*."
+    # [SESSION 1] : "Latest scientific news on the *Greek Anthology*."
     # speaker
     - speaker : "Lucia FLORIDI (Alma Mater Studiorum - Università di Bologna)"
       subject : "Editing Greek epigrams. Methods and problems."
