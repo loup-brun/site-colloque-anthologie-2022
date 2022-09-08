@@ -26,15 +26,15 @@ tab:
       abstract :
       biography :
       venue :
-      time : "09.00 AM"
+      time : "09.30 AM"
 
     - speaker :
-      pause : "[SESSION 1] : The scientific news of the *Greek Anthology*."
+      pause : "[SESSION 1] The scientific news of the *Greek Anthology*."
       subject :
       abstract :
       biography :
       venue :
-      time : "09.50 AM"  
+      time : 
 
     - speaker : "Lucia FLORIDI (Alma Mater Studiorum - Università di Bologna)"
       subject : "Editing Greek epigrams. Methods and problems."
@@ -45,6 +45,41 @@ tab:
       venue : "C-6070-9"
       time : "10.00 AM"
 
+    - speaker :
+      pause : "Coffee Break"
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : "11.00 AM"
+
+    - speaker : "Canada Research Chair in Digital Textualities."
+      subject : "L'Anthologie sur le Web, *quid novi*?"
+      abstract : |
+        Since 2014, the Canada Research Chair in Digital Textualities (CRCDT) is working on a wide project : "the Greek Anthology Collaborative Digital Edition". Just like the anthological corpus, the edition platform has undergone multiple reconfigurations. This talk aims to review the challenges and stakes of this vast project and to specify its technical ins and outs.  
+      biography : |
+        Marcello Vitali-Rosati, Mathilde Verstraete, Margot Mellet, Luiz Capelo 
+      venue : "C-6070-9"
+      time : "11.15 AM"
+    # speaker
+
+    - speaker :
+      pause : "Lunch Break"
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : "12.00 AM"
+
+    - speaker :
+      pause : "[SESSION 2] Valuation and pedagogy of the anthological imagination."
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : 
+
+    # [SESSION 2] : "Valorisation et pédagogie de l’imaginaire anthologique."
     # speaker
     - speaker : "Simone BETA (Università degli Studi di Siena)"
       subject : "Enseigner le grec avec les devinettes de l’*Anthologie Palatine*."
@@ -59,34 +94,6 @@ tab:
         Among his latest publications, we cite *Il labirinto della parola. Enigmi, oracoli e sogni nella cultura antica*, Torino 2016 ; *Io, un manoscritto: l’Antologia Palatina si racconta*, Roma 2019. 
         He has recently translated into Italian the Antigone of Sophocles (Milano 2020) and the Lysistrata of Aristophanes (Milano 2020).
       venue : "C-6070-9"
-      time : "11.20 AM"
-
-    - speaker :
-      pause : "Lunch Break"
-      subject :
-      abstract :
-      biography :
-      venue :
-      time : "12.00 AM"
-
-    - speaker :
-      pause : "[SESSION 2] : Valuation and pedagogy of the anthological imagination."
-      subject :
-      abstract :
-      biography :
-      venue :
-      time : "12.50 AM"  
-
-    # [SESSION 2] : "Valorisation et pédagogie de l’imaginaire anthologique."
-    # speaker
-    - speaker : "Annalisa DI VINCENZO (Liceo classico Luca De Samuele Cagnazzi, Altamura)"
-      subject : "Experiences and perspectives of the study of ancient Greek between school and *Digital Humanities*: a possible *Fortleben* of the *Palatine Anthology*."
-      abstract : |
-        For the past few years, a pilot experiment in some high schools has been trying to create a way of working in the field of Digital Humanities on the basis of Greek texts : starting from knowledge to elaborate a research paradigm through translation. Epigrams from the Palatine Anthology are translated in participatory translation workshops starting with the digital version of the ancient manuscript from the 10th century BCE. C., put online by the Perseus Project. On the basis of the Greek poetic text, this practice seeks to identify a possible *Fortleben* of ancient Wisdom in contemporary culture (from music to iconographic arts).
-        Associating Greek repertories with digital tools sharing different translations and connections to contemporary culture (cf. Website Anthologiagraeca.org) goes to fill a gap and builds a useful bridge between the school system and the Academia.
-      biography : |
-        Annalisa di Vincenzo, PhD in Greek and Latin Philology, has been teaching Classics at Samuele Cagnazzi's liceo classico Luca in Altamura since 2005. Following a specialization in programming for didactic, her teaching methods are motivated by the inclusion of digital tools in the classroom. For several years, the Greek Anthology held at the CRCDT project has benefited from important contributions thanks to the involvement of her students in the editing process on the project platform.
-      venue : "C-6070-9"
       time : "1.00 PM"
 
     # speaker
@@ -97,7 +104,17 @@ tab:
       biography : |
         Serena Cannavale is Researcher in Classical Philology at the Department of Humanities (‘Dipartimento di Studi Umanistici’), University of Naples "Federico II”. Her main research interests are related to the Hellenistic epigrams, the ancient theatre and the history of classical studies. She held seminars and lectures in Conferences, National and International, and published several papers and essays about the history of the text of Callimachean epigrams and their exegesis; the tradition and the reception of classical myths in epigrams from the Hellenistic and the Imperial period; theatre in ancient Campania. She is editor-in-chief of the journal "Atene e Roma" and she is involved in the International Project “Dictionnaire de l'épigramme littéraire dans l'antiquité grecque et romaine” (Directors: Doris Meyer et Céline Urlacher-Becht).
       venue : "Online"
-      time : "1.40 PM"
+      time : "1.45 PM"
+
+    - speaker : "Annalisa DI VINCENZO (Liceo classico Luca De Samuele Cagnazzi, Altamura)"
+      subject : "Experiences and perspectives of the study of ancient Greek between school and *Digital Humanities*: a possible *Fortleben* of the *Palatine Anthology*."
+      abstract : |
+        For the past few years, a pilot experiment in some high schools has been trying to create a way of working in the field of Digital Humanities on the basis of Greek texts : starting from knowledge to elaborate a research paradigm through translation. Epigrams from the Palatine Anthology are translated in participatory translation workshops starting with the digital version of the ancient manuscript from the 10th century BCE. C., put online by the Perseus Project. On the basis of the Greek poetic text, this practice seeks to identify a possible *Fortleben* of ancient Wisdom in contemporary culture (from music to iconographic arts).
+        Associating Greek repertories with digital tools sharing different translations and connections to contemporary culture (cf. Website Anthologiagraeca.org) goes to fill a gap and builds a useful bridge between the school system and the Academia.
+      biography : |
+        Annalisa di Vincenzo, PhD in Greek and Latin Philology, has been teaching Classics at Samuele Cagnazzi's liceo classico Luca in Altamura since 2005. Following a specialization in programming for didactic, her teaching methods are motivated by the inclusion of digital tools in the classroom. For several years, the Greek Anthology held at the CRCDT project has benefited from important contributions thanks to the involvement of her students in the editing process on the project platform.
+      venue : "C-6070-9"
+      time : "2.30 PM"
 
     # speaker
     - speaker : "Gustavo FERNANDEZ (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 'Material Text Cultures')"
@@ -107,17 +124,7 @@ tab:
       biography : |
         Gustavo Fernández Riva is a Postdoctoral Scholar at the University of Heidelberg (Germany). As a member of the Collaborative Research Centre ‘Material Text Cultures’, he develops tools for editing and researching pre-modern written objects. He studied medieval literature at the universities of Buenos Aires (Argentina) and Porto (Portugal). His Ph.D. dissertation included a critical edition in TEI and Spanish translation of texts by the Middle High German poet Konrad von Würzburg. His current research projects include using network analysis to study shared manuscript transmission of medieval texts and the creation of an open, collaborative dataset of philological stemmata.
       venue : "Online"
-      time : "3.00 PM"
-
-    # speaker
-    - speaker : "Chaire de recherche du Canada sur les écritures numériques (Université de Montréal)."
-      subject : "L'Anthologie sur le Web, *quid novi*?"
-      abstract : |
-        Since 2014, the Canada Research Chair in Digital Textualities (CRCDT) is working on a wide project : "the Greek Anthology Collaborative Digital Edition". Just like the anthological corpus, the edition platform has undergone multiple reconfigurations. This talk aims to review the challenges and stakes of this vast project and to specify its technical ins and outs.  
-      biography : |
-        Marcello Vitali-Rosati, Mathilde Verstraete, Margot Mellet, Luiz Capelo 
-      venue : "C-6070-9"
-      time : "3.40 PM"
+      time : "3.15 PM"
 
   # tab item
   - name : "Day 02"
@@ -126,12 +133,20 @@ tab:
     # [SESSION 3] : "Édition numérique de textes classiques."
     # speaker
     - speaker :
-      pause : "[SESSION 3] : Digital editing of classic texts."
+      pause : "Welcome"
       subject :
       abstract :
       biography :
       venue :
-      time : "09.00 AM"  
+      time : "09.00 AM"
+
+    - speaker :
+      pause : "[SESSION 3] Digital editing of classic texts."
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : 
 
     - speaker : "Marie-Claire BEAULIEU (Tufts University, Classics)"
       subject : "Revealing latent information in a reference text: the digital edition of the *Glossary of Greek Birds*"
@@ -141,7 +156,15 @@ tab:
         Marie-Claire Beaulieu is a professor of Classical Studies at Tufts University. Her main areas of research are Greek mythology (including Greek religion, the role of women in Greek mythology) and Digital Humanities. She co-directed the Perseids project. 
         Persids is a large initiative to build infrastructures in the field of digital humanities, through the design of collaborative editing and annotation software. Marie-Claire Beaulieu is also interested in the use of the digital medium to foster greater engagement with the ancient world through the study of language, art and culture.
       venue : "Online"
-      time : "9.30 AM"
+      time : "9.15 AM"
+
+    - speaker :
+      pause : "Coffee Break"
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : "10.15 AM"
 
     # speaker
     - speaker : "Marcello Vitali-Rosati, Michael Sinatra"
@@ -151,7 +174,7 @@ tab:
       biography : |
         Margot Mellet ; Emmanuel Chateau-Dutier ; Servanne Monjour ; and many more. 
       venue : "C-6070-9"
-      time : "11.00 AM"
+      time : "10.15 AM"
 
           # speaker
     - speaker :
@@ -163,12 +186,12 @@ tab:
       time : "12.00 AM"
 
     - speaker :
-      pause : "[SESSION 4] : Computational approaches applied to Hellenistic studies."
+      pause : "[SESSION 4] Computational approaches applied to Hellenistic studies."
       subject :
       abstract :
       biography :
       venue :
-      time : "12.50 AM"  
+      time :  
 
     # [SESSION 4] : "Approches computationnelles appliquées aux études hellénistiques."
     # speaker
@@ -189,17 +212,15 @@ tab:
       biography : |
         Kyle P. Johnson works at the intersection of Classics and Natural Language Processing (NLP). He has a Ph.D. in Classics (NYU, 2012) and now works in industry. Having published on Homer and written a dissertation on Julius Caesar, he now devotes his research to the Classical Language Toolkit (CLTK), an open source software project that intends to offer NLP to the roughly 200 extant pre-modern languages.
       venue : "C-6070-9"
-      time : "1.40 PM"
+      time : "1.45 PM"
 
-    # speaker
-    - speaker : "Marianne REBOUL (École Normale Supérieure de Lyon, Institut d'histoire des représentations et des idées dans la modernité)"
-      subject : "AI for ancient languages, insights for small corpus processing."
-      abstract : |
-        Language modeling systems via *deep learning* are dependent on clean and massive data. However, such data does not exist for all languages and all eras. It is therefore necessary to go through other less traditional ways, especially if we want to study the way ancient texts were translated. Indeed, translations are only loosely aligned with the various source texts to which they refer, especially since translation modes and requirements change over time. The challenge of AI for translatology and ancient languages is therefore, among other things, to study the evolution of the perception and transmission of ancient texts "blindly", i.e. without any theoretical preconceptions, in order to re-examine previously unverifiable hypotheses and, if necessary, to propose new ones. We propose to apply our reflection to a particular case study, the French translations of the *Iliad* and the *Odyssey* of the 16th and 17th centuries.
-      biography : |
-        Marianne Reboul is a lecturer in Digital Humanities at the École Normale Supérieure de Lyon, specializing in digital humanities and classics, more precisely in "digital classics". She works in particular on the application of artificial intelligence techniques to ancient languages.
-      venue : "C-6070-9"
-      time : "3.00 PM"
+    - speaker :
+      pause : "Coffee Break"
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : "2.30 PM"
 
     # speaker
     - speaker : "Marcus PÖCKELMANN - (Martin-Luther-Universität Halle-Wittenberg, Institute of Computer Science)"
@@ -209,8 +230,16 @@ tab:
       biography : |
          Marcus Pöckelmann studied computer science at the Martin Luther University Halle-Wittenberg (Master 2013) and has been a member of the research group Molitor/Ritter since 2013. Within several interdisciplinary research projects he develops web-based applications for the investigation of intertextuality together with colleagues from different disciplines of the humanities. These include the working environments *LERA* for the analysis of complex text variants for scholarly editions, and Paraphrasis for the retrieval and evaluation of paraphrased text passages in the ancient Greek literature.
       venue : "C-6070-9"
-      time : "3.40 PM"
-
+      time : "2.45 PM"
+    # speaker
+    - speaker : "Marianne REBOUL (École Normale Supérieure de Lyon, Institut d'histoire des représentations et des idées dans la modernité)"
+      subject : "AI for ancient languages, insights for small corpus processing."
+      abstract : |
+        Language modeling systems via *deep learning* are dependent on clean and massive data. However, such data does not exist for all languages and all eras. It is therefore necessary to go through other less traditional ways, especially if we want to study the way ancient texts were translated. Indeed, translations are only loosely aligned with the various source texts to which they refer, especially since translation modes and requirements change over time. The challenge of AI for translatology and ancient languages is therefore, among other things, to study the evolution of the perception and transmission of ancient texts "blindly", i.e. without any theoretical preconceptions, in order to re-examine previously unverifiable hypotheses and, if necessary, to propose new ones. We propose to apply our reflection to a particular case study, the French translations of the *Iliad* and the *Odyssey* of the 16th and 17th centuries.
+      biography : |
+        Marianne Reboul is a lecturer in Digital Humanities at the École Normale Supérieure de Lyon, specializing in digital humanities and classics, more precisely in "digital classics". She works in particular on the application of artificial intelligence techniques to ancient languages.
+      venue : "C-6070-9"
+      time : "3.30 PM"
 
   # tab item
   - name : "Day 03"

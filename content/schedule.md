@@ -26,15 +26,15 @@ tab:
       abstract :
       biography :
       venue :
-      time : "09.00 AM"
+      time : "09.30 AM"
 
     - speaker :
-      pause : "[SESSION 1] : L’actualité scientifique de l’*Anthologie grecque*."
+      pause : "[SESSION 1] L’actualité scientifique de l’*Anthologie grecque*."
       subject :
       abstract :
       biography :
       venue :
-      time : "09.50 AM"
+      time :
 
     - speaker : "Lucia FLORIDI (Università degli Studi Bologna)"
       subject : "Éditer les épigrammes grecques. Méthodes et problèmes"
@@ -45,15 +45,21 @@ tab:
       venue : "C-6070-9"
       time : "10.00 AM"
 
+    - speaker :
+      pause : "Pause café"
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : "11.00 AM"      
+
     # speaker
-    - speaker : "Simone BETA (Università degli Studi di Siena)"
-      subject : "Enseigner le grec avec les devinettes de l’*Anthologie Palatine*"
+    - speaker : "CRCEN"
+      subject : "L'Anthologie sur le Web, *quid novi*?"
       abstract : |
-        Selon la petite préface de Constantin Céphalas, les épigrammes du quatorzième livre de l’Anthologie Palatine avaient un but pédagogique : les problèmes étaient utiles pour enseigner les mathématiques ; les devinettes pour enseigner la langue. Est-ce que ces dernières épigrammes énigmatiques peuvent être utiles aujourd’hui pour enseigner la langue grecque et, en sus, la mythologie classique ? En comparant ces petits poèmes aux autres énigmes poétiques témoignées dans la littérature grecque et byzantine, cette communication va prouver que la fonction pédagogique évoquée par Céphalas peut encore être exploitée aujourd’hui.
-      biography : |
-        test      
+        à venir
       venue : "C-6070-9"
-      time : "11.20 AM"
+      time : "11.15 AM"
 
     - speaker :
       pause : "Pause Déjeuner"
@@ -64,20 +70,20 @@ tab:
       time : "12.00 AM"
 
     - speaker :
-      pause : "[SESSION 2] : Valorisation et pédagogie de l’imaginaire anthologique."
+      pause : "[SESSION 2] Valorisation et pédagogie de l’imaginaire anthologique."
       subject :
       abstract :
       biography :
       venue :
-      time : "12.50 AM"    
+      time :   
 
     # speaker
-    - speaker : "Annalisa DI VINCENZO (Liceo classico Luca De Samuele Cagnazzi, Altamura)"
-      subject : "Expériences et perspectives de l'étude du grec ancien entre l'école et les *Digital Humanities* : un possible *Fortleben* de l'*Anthologie Palatine*."
+    - speaker : "Simone BETA (Università degli Studi di Siena)"
+      subject : "Enseigner le grec avec les devinettes de l’*Anthologie Palatine*"
       abstract : |
-        Depuis quelques années, un projet pilote est mené dans certains lycées afin d'initier les étudiant·e·s aux Humanités numériques à partir de textes grecs. Il s'agit de partir des connaissances pour développer un paradigme de recherche à travers des compétences de traduction. Les épigrammes de l'Anthologie grecque sont traduites dans le cadre d'ateliers de traduction à partir de la version numérique du manuscrit (Xe siècle avant J.-C.). Cette méthode de travail, en partant du texte poétique original, cherche à identifier un possible Fortleben de la Sagesse antique dans la culture contemporaine (de la musique aux arts iconographiques). La combinaison des répertoires grecs avec des outils numériques (comme la plateforme développée par la Chaire de Recherche du Canada sur les Écritures Numériques) est utile pour partager les différentes traductions et les liens avec la culture contemporaine, comble une lacune, et fait office de passerelle entre le système scolaire et la recherche universitaire.
+        Selon la petite préface de Constantin Céphalas, les épigrammes du quatorzième livre de l’Anthologie Palatine avaient un but pédagogique : les problèmes étaient utiles pour enseigner les mathématiques ; les devinettes pour enseigner la langue. Est-ce que ces dernières épigrammes énigmatiques peuvent être utiles aujourd’hui pour enseigner la langue grecque et, en sus, la mythologie classique ? En comparant ces petits poèmes aux autres énigmes poétiques témoignées dans la littérature grecque et byzantine, cette communication va prouver que la fonction pédagogique évoquée par Céphalas peut encore être exploitée aujourd’hui.
       biography : |
-        Annalisa di Vincenzo, docteure en philologie grecque et latine, enseigne les lettres classiques au liceo classico Luca de Samuele Cagnazzi à Altamura depuis 2015. À la suite d'une spécialisation en programmation adaptée à la didactique, ses méthodes d'enseignement sont motivées par l'inclusion des outils numériques et digitaux dans les salles de classe. Depuis plusieurs années, le projet Anthologie grecque bénéficie d'importantes contributions grâce à l'implication de ses étudiant·e·s dans le processus d'édition sur la plateforme du projet.
+        test      
       venue : "C-6070-9"
       time : "1.00 PM"
 
@@ -91,8 +97,17 @@ tab:
         3) considering the possibility to relate Callimachus’ epigrams to less known typologies, like those emerging from the Posidippus papyrus. An example is provided by the epitaphs for those drowned at sea (nauagika), an independent epigrammatic category and not a mere sub-genre of funerary epigram as we have hitherto used to think.
       biography : |
         test      
+      venue : "En ligne"
+      time : "1.45 PM"
+
+    - speaker : "Annalisa DI VINCENZO (Liceo classico Luca De Samuele Cagnazzi, Altamura)"
+      subject : "Expériences et perspectives de l'étude du grec ancien entre l'école et les *Digital Humanities* : un possible *Fortleben* de l'*Anthologie Palatine*."
+      abstract : |
+        Depuis quelques années, un projet pilote est mené dans certains lycées afin d'initier les étudiant·e·s aux Humanités numériques à partir de textes grecs. Il s'agit de partir des connaissances pour développer un paradigme de recherche à travers des compétences de traduction. Les épigrammes de l'Anthologie grecque sont traduites dans le cadre d'ateliers de traduction à partir de la version numérique du manuscrit (Xe siècle avant J.-C.). Cette méthode de travail, en partant du texte poétique original, cherche à identifier un possible Fortleben de la Sagesse antique dans la culture contemporaine (de la musique aux arts iconographiques). La combinaison des répertoires grecs avec des outils numériques (comme la plateforme développée par la Chaire de Recherche du Canada sur les Écritures Numériques) est utile pour partager les différentes traductions et les liens avec la culture contemporaine, comble une lacune, et fait office de passerelle entre le système scolaire et la recherche universitaire.
+      biography : |
+        Annalisa di Vincenzo, docteure en philologie grecque et latine, enseigne les lettres classiques au liceo classico Luca de Samuele Cagnazzi à Altamura depuis 2015. À la suite d'une spécialisation en programmation adaptée à la didactique, ses méthodes d'enseignement sont motivées par l'inclusion des outils numériques et digitaux dans les salles de classe. Depuis plusieurs années, le projet Anthologie grecque bénéficie d'importantes contributions grâce à l'implication de ses étudiant·e·s dans le processus d'édition sur la plateforme du projet.
       venue : "C-6070-9"
-      time : "1.40 PM"
+      time : "2.30 PM"
 
     # speaker
     - speaker : "Gustavo FERNANDEZ (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 'Material Text Cultures')"
@@ -102,15 +117,7 @@ tab:
       biography : |
         test      
       venue : "C-6070-9"
-      time : "3.00 PM"
-
-    # speaker
-    - speaker : "CRCEN"
-      subject : "L'Anthologie sur le Web, *quid novi*?"
-      abstract : |
-        à venir
-      venue : "C-6070-9"
-      time : "3.40 PM"
+      time : "3.15 PM"
 
   # tab item
   - name : "Jour 02"
@@ -118,13 +125,22 @@ tab:
     tablist_items:
     # [SESSION 3] : "Édition numérique de textes classiques."
     # speaker
+    # speaker
     - speaker :
-      pause : "[SESSION 3] : Édition numérique de textes classiques."
+      pause : "Accueil"
       subject :
       abstract :
       biography :
       venue :
-      time : "09.00 AM"  
+      time : "09.00 AM"
+
+    - speaker :
+      pause : "[SESSION 3] Édition numérique de textes classiques."
+      subject :
+      abstract :
+      biography :
+      venue :
+      time :  
 
     - speaker : "Marie-Claire BEAULIEU (Tufts University, Classics)"
       subject : "Révéler les informations latentes dans un texte de référence : l’édition numérique du *Glossary of Greek Birds*."
@@ -133,7 +149,15 @@ tab:
       biography : |
         test      
       venue : "En ligne"
-      time : "9.30 AM"
+      time : "9.15 AM"
+
+    - speaker :
+      pause : "Pause café"
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : "10.15 AM"   
 
     # speaker
     - speaker : "Marcello Vitali-Rosati, Michael Sinatra"
@@ -141,7 +165,7 @@ tab:
       abstract : |
         à venir
       venue : "C-6070-9"
-      time : "11.00 AM"
+      time : "10.30 AM"
 
     - speaker :
       pause : "Pause Déjeuner"
@@ -152,12 +176,12 @@ tab:
       time : "12.00 AM"
 
     - speaker :
-      pause : "[SESSION 4] : Approches computationnelles appliquées aux études hellénistes."
+      pause : "[SESSION 4] Approches computationnelles appliquées aux études hellénistes."
       subject :
       abstract :
       biography :
       venue :
-      time : "12.50 AM"  
+      time : 
 
     # [SESSION 4] : "Approches computationnelles appliquées aux études hellénistiques."
     # speaker
@@ -178,7 +202,24 @@ tab:
       biography : |
         test      
       venue : "C-6070-9"
-      time : "1.40 PM"
+      time : "1.45 PM"
+
+    - speaker :
+      pause : "Pause café"
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : "2.30 AM"    
+      
+    - speaker : "Marcus PÖCKELMANN - (Martin-Luther-Universität Halle-Wittenberg, Institute of Computer Science)"
+      subject : "The Aftermath of Plato. Searching for Traces in Vector Space"
+      abstract : |
+        This lecture presents different approaches and tools we developed within the project Digital Plato for the investigation of the aftermath and reception of Plato’s work. The essential aspect was the search for intertextual references to Plato in Ancient Greek literature, especially text passages that have been paraphrased by other authors. One of our approaches, which will be explained here in detail, makes use of word embeddings and the Word Mover’s Distance (WMD) in particular to identify them. It was integrated into a comprehensive, web-based work environment that allows the exploratory analysis of such references. In fact, the tools developed for the Platonic works became so generic, that the application for studying the development of the aftermath and reception of other ancient authors within the corpus is possible too.
+      biography : |
+        test      
+      venue : "C-6070-9"
+      time : "2.45 PM"      
 
     # speaker
     - speaker : "Marianne REBOUL (École nationale supérieure de Lyon, Institut d'histoire des représentations et des idées dans la modernité)"
@@ -188,18 +229,7 @@ tab:
       biography : |
         Marianne Reboul, maîtresse de conférences en Humanités Numériques à l'École Normale Supérieure de Lyon, spécialisée en humanités numériques et lettres classiques, plus précisément dans ce qu'on appelle "digital classics". Elle travaille en particulier sur l'application des techniques d'intelligence artificielle aux langues anciennes.      
       venue : "C-6070-9"
-      time : "3.00 PM"
-
-    # speaker
-    - speaker : "Marcus PÖCKELMANN - (Martin-Luther-Universität Halle-Wittenberg, Institute of Computer Science)"
-      subject : "The Aftermath of Plato. Searching for Traces in Vector Space"
-      abstract : |
-        This lecture presents different approaches and tools we developed within the project Digital Plato for the investigation of the aftermath and reception of Plato’s work. The essential aspect was the search for intertextual references to Plato in Ancient Greek literature, especially text passages that have been paraphrased by other authors. One of our approaches, which will be explained here in detail, makes use of word embeddings and the Word Mover’s Distance (WMD) in particular to identify them. It was integrated into a comprehensive, web-based work environment that allows the exploratory analysis of such references. In fact, the tools developed for the Platonic works became so generic, that the application for studying the development of the aftermath and reception of other ancient authors within the corpus is possible too.
-      biography : |
-        test      
-      venue : "C-6070-9"
-      time : "3.40 PM"
-
+      time : "3.30 PM"
 
   # tab item
   - name : "Jour 03"
