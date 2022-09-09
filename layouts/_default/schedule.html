@@ -77,12 +77,22 @@
                         <summary>Biography</summary>
                         {{ .biography | markdownify }}
                       </details>
+                      {{else if .biographie}}
+                      <details>
+                        <summary>Biographie</summary>
+                        {{ .biographie | markdownify }}
+                      </details>
                       {{end}}
 
                       {{ if .abstract }}
                       <details>
                         <summary>Abstract</summary>
                         {{ .abstract | markdownify }}
+                      </details>
+                      {{else if .résumé}}
+                      <details>
+                        <summary>Résumé</summary>
+                        {{ .résumé | markdownify }}
                       </details>
                       {{end}}
                       
