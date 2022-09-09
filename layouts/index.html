@@ -156,40 +156,40 @@
               <h3>{{.title | markdownify}}</span></h3>
               <p>{{ .content | markdownify }}</p>
             </div>
-            <form action="{{ .form_action }}" method="POST" class="row">
+            <form action="{{ .form_action }}" method="POST" class="row"> 
               <div class="col-md-6">
-                <input type="text" name="name" class="form-control main" placeholder="Your Name">
+                <input type="text" name="name" class="form-control main" placeholder="{{ i18n "Name" }}">
               </div>
               <div class="col-md-6">
-                <input type="email" name="email" class="form-control main" placeholder="Email">
+                <input type="email" name="email" class="form-control main" placeholder="{{ i18n "Email" }}">
               </div>
               <div class="col-md-6">
                 <!-- <input type="text" name="phone" class="form-control main" placeholder="Phone"> -->
                 <div class="form-group">
                   <select class="form-control main" name="status" id="select-status">
-                    <option selected disabled>Your status</option>
-                    <option value="Lecturer">Teacher</option>
-                    <option value="Student">Grad student</option>
-                    <option value="Student">Undergrad student</option>
-                    <option value="Other">Other</option>
+                    <option selected disabled>{{ i18n "Your status" }}</option>
+                    <option value="Lecturer">{{ i18n "Teacher" }}</option>
+                    <option value="Student">{{ i18n "Grad student" }}</option>
+                    <option value="Student">{{ i18n "Undergrad student" }}</option>
+                    <option value="Other">{{ i18n "Other" }}</option>
                   </select>
                 </div>
               </div>
               <div class="col-md-6">
-                <input type="background" name="background" class="form-control main" placeholder="Background (speciality)">
+                <input type="background" name="background" class="form-control main" placeholder="{{ i18n "Background (speciality)" }}">
               </div>
               <div class="col-md-6">
                 <div class="form-group">
                   <select class="form-control main" name="ticket" id="select-ticket">
-                    <option selected disabled>Ticket Type</option>
-                    <option value="Workshop">Workshop</option>
-                    <option value="Hackathon">Hackathon</option>
-                    <option value="Both">Both</option>
+                    <option selected disabled>{{ i18n "Ticket Type" }}</option>
+                    <option value="Workshop">{{ i18n "Workshop" }}</option>
+                    <option value="Hackathon">{{ i18n "Hackathon" }}</option>
+                    <option value="Both">{{ i18n "Both" }}</option>
                   </select>
                 </div>
               </div>
               <div class="col-12">
-                <button type="submit" class="btn btn-white-md">Register Now</button>
+                <button type="submit" class="btn btn-white-md">{{ i18n "Register Now" }}</button>
               </div>
             </form>
           </div>
