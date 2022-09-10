@@ -32,8 +32,7 @@ Some examples of themes and ideas :
 - Data visualization 
 - Specialized searching tools
 - Automatic alignment 
-- Pre-processing and lemmatization of the corpus 
-- ...
+- Pre-processing and lemmatization of the corpus
 {{</ faq >}}
 
 {{< faq "Course of the event" >}}
@@ -49,5 +48,5 @@ Some examples of themes and ideas :
 {{</ faq >}}
 
 {{< faq "Prize" >}}
-Participants will be asked to vote for their favourite project and a financial grant will be offered to the winning project.
+Participants will be asked to vote for their favourite project and a grant will be offered to students in order to develop/realize the winning project.
 {{</ faq >}}

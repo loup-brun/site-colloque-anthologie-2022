@@ -32,8 +32,7 @@ Quelques exemples de thèmes et d'idées :
 - Visualisation des données 
 - Outils de recherche spécialisés
 - Alignement automatique 
-- Pré-traitement et lemmatisation du corpus 
-- ...
+- Pré-traitement et lemmatisation du corpus
 {{</ faq >}}
 
 {{< faq "Calendrier" >}}
@@ -49,5 +48,5 @@ Quelques exemples de thèmes et d'idées :
 {{</ faq >}}
 
 {{< faq "Prix" >}}
-Les participants seront invités à voter pour leur projet préféré et une subvention financière sera offerte au projet gagnant.
+Les participants seront invités à voter pour leur projet préféré et une bourse sera offerte aux étudiants afin de développer/réaliser le projet gagnant.
 {{</ faq >}}
