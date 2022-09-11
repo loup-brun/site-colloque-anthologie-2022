@@ -16,7 +16,7 @@ tab:
   tablist:
   # tab item
   - name : "Day 01"
-    date : "October 27th, 2022"
+    date : "October 27, 2022"
     tablist_items:
     # [SESSION 1] : "L’actualité scientifique de l’*Anthologie grecque*."
     # speaker
@@ -39,9 +39,9 @@ tab:
     - speaker : "Lucia FLORIDI (Alma Mater Studiorum - Università di Bologna)"
       subject : "Editing Greek epigrams. Methods and problems."
       abstract:  |
-        Our knowledge of Greek epigrammatic poetry is mainly based on two fundamental works: the *Palatine Anthology* (PA) and the *Anthology of Planudes* (APl). Minor works are added to these, called *Syllogae Minores*. Some epigrams are also known through indirect tradition (authors like Athenaeus), or transmitted from papyri or inscriptions. The editors of the Anthology are thus confronted with a complex and changing textual translation, ranging from a textus unicus to much more varied situations. I will illustrate, in the course of my presentation, the main problems - of critical, textual and exegetical nature - that I have encountered in my capacity as editor of several epigrammatic authors (Strato, Lucillius, Hedylus in particular).
+        Our knowledge of Greek epigrammatic poetry is mainly based on two fundamental works: the *Palatine Anthology* (PA) and the *Anthology of Planudes* (APl). Minor works are added to these, called *Syllogae Minores*. Some epigrams are also known through indirect tradition (authors like Athenaeus), or transmitted from *papyri* or inscriptions. The editors of the Anthology are thus confronted with a complex and changing textual translation, ranging from a textus unicus to much more varied situations. I will illustrate, in the course of my presentation, the main problems - of critical, textual and exegetical nature - that I have encountered in my capacity as editor of several epigrammatic authors (Strato, Lucillius, Hedylus in particular).
       biography : |
-        Lucia Floridi is an Associate Professor in Classical and Late Antique Philology (L-FIL-LET/05 FILOLOGIA CLASSICA) at the Department of Classical Philology and Italianistics of the Alma Mater Studiorum - University of Bologna. Her main research interests concern Greek and Latin epigrams, with a focus on the erotic and scoptic genres, Hellenistic poetry, prose poetry of the imperial age, and the relationship between literature and the visual arts. Among her major publications, *Stratone di Sardi. Epigrammi* (Edizioni Dell’Orso, 2007), *Lucillio. Epigrammi* (De Gruyter, 2014), *Edilo. Epigrammi* (De Gruyter, 2020), as well as numerous contributions on authors such as Pallas, Ausonius, Longo Sophista, and Lucian.
+        Lucia Floridi is an Associate Professor of Classical and Late Antique Philology (L-FIL-LET/05 FILOLOGIA CLASSICA) at the Department of Classical Philology and Italianistics of the Alma Mater Studiorum - University of Bologna. Her main research interests are Greek and Latin epigrams, with a focus on the erotic and scoptic genres, Hellenistic poetry, prose poetry of the Imperial Age, and the relationship between literature and visual arts. Among her major publications are *Stratone di Sardi. Epigrammi* (Edizioni Dell’Orso, 2007), *Lucillio. Epigrammi* (De Gruyter, 2014), *Edilo. Epigrammi* (De Gruyter, 2020), as well as numerous contributions on authors such as Pallas, Ausonius, Longo Sophista, and Lucian.
       venue : "C-6070-9"
       time : "10.00 AM"
 
@@ -54,9 +54,9 @@ tab:
       time : "11.00 AM"
 
     - speaker : "Canada Research Chair in Digital Textualities."
-      subject : "L'Anthologie sur le Web, *quid novi*?"
+      subject : "The Anthology on the Web, *quid novi*?"
       abstract : |
-        Since 2014, the Canada Research Chair in Digital Textualities (CRCDT) is working on a wide project : "the Greek Anthology Collaborative Digital Edition". Just like the anthological corpus, the edition platform has undergone multiple reconfigurations. This talk aims to review the challenges and stakes of this vast project and to specify its technical ins and outs.  
+        Since 2014, the Canada Research Chair in Digital Textualities (CRCDT) is working on a wide project: the Greek Anthology Collaborative Digital Edition. Just like the anthological corpus, the edition's platform has undergone multiple reconfigurations. This talk aims to review the challenges and stakes of this vast project and to specify its technical ins and outs.  
       biography : |
         Marcello Vitali-Rosati, Mathilde Verstraete, Margot Mellet, Luiz Capelo 
       venue : "C-6070-9"
@@ -86,7 +86,7 @@ tab:
       abstract : |
         According to the preface of Constantine Cephalas, the epigrams of the fourteenth book of the *Palatine Anthology* had a pedagogical purpose: the problems were useful to teach mathematics; the riddles to teach the language. Can these last enigmatic epigrams be useful today to teach Greek language and, in addition, classical mythology? By comparing these little poems to other poetic riddles testified in Greek and Byzantine literature, this paper will prove that the pedagogical function evoked by Cephalas can still be exploited today.
       biography : |
-        Simone Beta is professor of Greek language and literature at the University of Siena. His research interests focus on the ancient theater and its fortune (especially Greek comedy), metaphor, epigrams and enigmas, wine and symposia. 
+        Simone Beta is a professor of Greek language and literature at the University of Siena. His research interests focus on the ancient theater and its fortune (especially Greek comedy), metaphor, epigrams and enigmas, wine and symposia. 
         Concerning the comedy, he especially worked on Aristophanes: *Il linguaggio nella commedia di Aristofane : parola positiva e parola negativa nella commedia antica*, Roma 2004 ; "The Metamorphosis of a Greek Comedy and its Protagonist: Some Musical Versions of Aristophanes’ Lysistrata”, in P. Brown & S. Ograjensek (eds.), *Ancient Drama in Music for the Modern Stage*, Oxford and New York 2010, 240-57 ; “Attend, o Muse, Our Holy Dances and Come to Rejoice in Our Songs: The Reception of Aristophanes in the Modern Musical Theater”, in S. Douglas Olson (ed.), *Ancient Comedy and Reception. Essays in Honor of Jeffrey Henderson*, Berlin and Boston 2013, 824-48 ; *La donna che sconfigge la guerra : Lisistrata racconta la sua storia*, Roma 2022.
         On the metaphor : *Testi greci e latini tradotti e commentati da Giulio Guidorizzi e Simone Beta*, Pisa 2000. 
         On epigrams and wine : *Vino e poesia. Centocinquanta epigrammi greci sul vino, a cura di S. Beta*, Milano 2006. 
@@ -100,9 +100,9 @@ tab:
     - speaker : "Serena CANNAVALE (Università degli Studi di Napoli Federico II)"
       subject : "Inside and beyond the *Greek Anthology*. New directions and challenges in the study of Callimachean epigrams."
       abstract : | 
-        Recent years saw an increasing critical in-depth analysis of the epigrammatic literature, resulting in large-scale studies both on epigrams of epigraphic tradition and on those of literary tradition and their mutual interplay. Such interest was mostly encouraged by the publication of the Posidippus papyrus, which stimulated new studies on the construction of ancient anthologies and on the arrangement of books of epigrams. Nevertheless, the lack of a recent edition with commentary of Callimachus' epigrams stands out very conspicuously, even though many individual poems have been the object of accurate analysis in valuable papers and monographic studies. Moving from these important recent acquisitions, it is now evident that a modern commentary to callimachean epigrams should relate the individual texts to the epigrammatic tradition as a whole, focusing both on the literary parallels within the Greek Anthology and on their epigraphic counterparts. The present paper will suggest to apply this approach through three lines of investigation:1) paying attention to traditional epigrammatic sub-genres (votive, sepulchral, epideictic, erotic etc.) and to their realizations within the Callimachean corpus, all the while considering how traditional categories have permeable boundaries, not so easy to be traced (consider for example the problematic case of the label of ‘epideictic’ or ‘ecphrastic’ epigram); 2) studying the continuity of transversal topoi and motifs through these sub-genres (e.g. epigrams on misanthropes; epigrams on poets or poetic works; bucolic themes); 3) considering the possibility to relate Callimachus’ epigrams to less known typologies, like those emerging from the Posidippus papyrus (e.g. *nauagika*). 
+        Recent years saw a critical analysis of increasing depth of epigrammatic literature, resulting in large-scale studies both on epigrams of epigraphic tradition and on those of literary tradition, and their mutual interplay. Such interest was mostly encouraged by the publication of the Posidippus papyrus, which stimulated new studies on the construction of ancient anthologies and on the arrangement of books of epigrams. Nevertheless, the lack of a recent edition with commentary of Callimachus' epigrams stands out very conspicuously, even though many individual poems have been the object of accurate analysis in valuable papers and monographic studies. Moving from these important recent acquisitions, it is now evident that a modern commentary to Callimachean epigrams should link the individual texts to the epigrammatic tradition as a whole, focusing both on the literary parallels within the Greek Anthology and on their epigraphic counterparts. The present paper suggests to apply this approach through three lines of investigation: 1) paying attention to traditional epigrammatic sub-genres (votive, sepulchral, epideictic, erotic, etc.) and to their realizations within the Callimachean corpus, all the while considering how traditional categories have permeable boundaries that are not so easily traced (consider for example the problematic case of the label of “epideictic” or “ecphrastic” epigram); 2) studying the continuity of transversal topoi and motifs through these sub-genres (e.g. epigrams on misanthropes; epigrams on poets or poetic works; bucolic themes); 3) considering the possibility to relate Callimachus’ epigrams to less known typologies, like those emerging from the Posidippus papyrus (e.g. *nauagika*).
       biography : |
-        Serena Cannavale is Researcher in Classical Philology at the Department of Humanities (‘Dipartimento di Studi Umanistici’), University of Naples "Federico II”. Her main research interests are related to the Hellenistic epigrams, the ancient theatre and the history of classical studies. She held seminars and lectures in Conferences, National and International, and published several papers and essays about the history of the text of Callimachean epigrams and their exegesis; the tradition and the reception of classical myths in epigrams from the Hellenistic and the Imperial period; theatre in ancient Campania. She is editor-in-chief of the journal "Atene e Roma" and she is involved in the International Project “Dictionnaire de l'épigramme littéraire dans l'antiquité grecque et romaine” (Directors: Doris Meyer et Céline Urlacher-Becht).
+        Serena Cannavale is a Researcher in Classical Philology at the Department of Humanities (‘Dipartimento di Studi Umanistici’) of the University of Naples Federico II. Her main research interests are related to Hellenistic epigrams, ancient theatre and the history of classical studies. She has held seminars and lectures in both national and international conferences and published several papers and essays about the history of the Callimachean epigrams' text and their exegesis; the tradition and the reception of classical myths in epigrams from the Hellenistic and the Imperial periods; theatre in ancient Campania. She is editor-in-chief of the journal *Atene e Roma* and she is involved in the International Project “Dictionnaire de l’épigramme littéraire dans l’Antiquité grecque et romaine” (Directors: Doris Meyer et Céline Urlacher-Becht).
       venue : "Online"
       time : "1.45 PM"
 
@@ -112,23 +112,23 @@ tab:
         For the past few years, a pilot experiment in some high schools has been trying to create a way of working in the field of Digital Humanities on the basis of Greek texts : starting from knowledge to elaborate a research paradigm through translation. Epigrams from the Palatine Anthology are translated in participatory translation workshops starting with the digital version of the ancient manuscript from the 10th century BCE. C., put online by the Perseus Project. On the basis of the Greek poetic text, this practice seeks to identify a possible *Fortleben* of ancient Wisdom in contemporary culture (from music to iconographic arts).
         Associating Greek repertories with digital tools sharing different translations and connections to contemporary culture (cf. Website Anthologiagraeca.org) goes to fill a gap and builds a useful bridge between the school system and the Academia.
       biography : |
-        Annalisa di Vincenzo, PhD in Greek and Latin Philology, has been teaching Classics at Samuele Cagnazzi's liceo classico Luca in Altamura since 2005. Following a specialization in programming for didactic, her teaching methods are motivated by the inclusion of digital tools in the classroom. For several years, the Greek Anthology held at the CRCDT project has benefited from important contributions thanks to the involvement of her students in the editing process on the project platform.
+        Annalisa di Vincenzo, PhD in Greek and Latin Philology, has been teaching Classics at the Liceo Classico Luca de Samuele Cagnazzi in Altamura since 2005. Following a specialization in software development for didactics, her teaching methods are motivated by the inclusion of digital tools in the classroom. For several years, the Greek Anthology project held at the CRCDT has benefitted from important contributions thanks to the involvement of her students in the editing process on the project's platform.
       venue : "C-6070-9"
       time : "2.30 PM"
 
     # speaker
-    - speaker : "Gustavo FERNANDEZ (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 'Material Text Cultures')"
-      subject : "Uses and enhancements of the digital facsimile of the *Palatine Anthology*."
-      abstract : |
-        The first and largest part of the *Palatine Anthology* (University Library of Heidelberg, Codex Palatinus Graecus 23) has been available as a digital facsimile since 2009. Since then scholars and anyone interested can freely access high quality images of the codex which was previously only available in critical editions or rare and expensive printed facsimiles. This presentation will examine the features of the digital facsimile and its presentation in the website of the University Library of Heidelberg which uses the software DWork. Particular attention will be given to the annotations created jointly and cooperatively between scholars in Heidelberg and Montreal. Finally, existing cases and future possibilities of reuse of the images will be discussed.
-      biography : |
-        Gustavo Fernández Riva is a Postdoctoral Scholar at the University of Heidelberg (Germany). As a member of the Collaborative Research Centre ‘Material Text Cultures’, he develops tools for editing and researching pre-modern written objects. He studied medieval literature at the universities of Buenos Aires (Argentina) and Porto (Portugal). His Ph.D. dissertation included a critical edition in TEI and Spanish translation of texts by the Middle High German poet Konrad von Würzburg. His current research projects include using network analysis to study shared manuscript transmission of medieval texts and the creation of an open, collaborative dataset of philological stemmata.
-      venue : "Online"
-      time : "3.15 PM"
+    # - speaker : "Gustavo FERNANDEZ (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 'Material Text Cultures')"
+    #   subject : "Uses and enhancements of the digital facsimile of the *Palatine Anthology*."
+    #   abstract : |
+    #     The first and largest part of the *Palatine Anthology* (University Library of Heidelberg, Codex Palatinus Graecus 23) has been available as a digital facsimile since 2009. Since then scholars and anyone interested can freely access high quality images of the codex which was previously only available in critical editions or rare and expensive printed facsimiles. This presentation will examine the features of the digital facsimile and its presentation in the website of the University Library of Heidelberg which uses the software DWork. Particular attention will be given to the annotations created jointly and cooperatively between scholars in Heidelberg and Montreal. Finally, existing cases and future possibilities of reuse of the images will be discussed.
+    #   biography : |
+    #     Gustavo Fernández Riva is a Postdoctoral Scholar at the University of Heidelberg (Germany). As a member of the Collaborative Research Centre ‘Material Text Cultures’, he develops tools for editing and researching pre-modern written objects. He studied medieval literature at the universities of Buenos Aires (Argentina) and Porto (Portugal). His Ph.D. dissertation included a critical edition in TEI and Spanish translation of texts by the Middle High German poet Konrad von Würzburg. His current research projects include using network analysis to study shared manuscript transmission of medieval texts and the creation of an open, collaborative dataset of philological stemmata.
+    #   venue : "Online"
+    #   time : "3.15 PM"
 
   # tab item
   - name : "Day 02"
-    date : "October 28th, 2022"
+    date : "October 28, 2022"
     tablist_items:
     # [SESSION 3] : "Édition numérique de textes classiques."
     # speaker
@@ -243,7 +243,7 @@ tab:
 
   # tab item
   - name : "Day 03"
-    date : "October 29th, 2022"
+    date : "October 29, 2022"
     tablist_items:
     # speaker
     - speaker : "Event open to all, with registration (until October 1, 2022)"

@@ -22,14 +22,12 @@ banner:
 ################# About ###################
 about:
   enable : true
-  title : "A three days workshop dedicated to the actuality of the Greek Anthology"
+  title : "A three-day workshop dedicated to the Greek Anthology's actuality"
   image : "images/sappho.jpg"
   content : |
-    The languages and literatures of Antiquity, especially of Greece, are omnipresent in our culture and in the construction of our Western societies. With the birth and development of the Internet on the one hand, and the Web on the other, more and more projects for the digitization, indexing, digital publishing, and computational studies of these texts are emerging.   
-    What are the implications of this encounter between texts that are sometimes several millennia old and digital platforms? What to do with the innumerable data generated? How can we appropriate these digitized heritages, contribute to their dissemination, and exploit them for heuristic purposes? What digital and computational tools can we use to further our knowledge of these vast bodies of work, which are far from having revealed all their secrets?   
-    The event "Anthological Navigations" intends to raise these questions by focusing in particular on the case study of the Greek Anthology, a monumental work for which the Canada Research Chair in Digital Writing is producing a collaborative digital edition.
-    This meeting will take place over three days with the aim of calling on the community of Digital Classicists to reflect on the scientific issues related to the dissemination of the heritage of ancient Greek languages and literatures and, more generally, on the methodological and epistemological impacts of the Digital Humanities within the framework of Hellenistic studies, based on the case study of the Greek Anthology. 
-    While focusing on the anthological corpus, the three days of the conference aim to bridge the gap between the terms "digital" and "classicists", to provoke a meeting between researchers, professors and programmers with diverse profiles and sometimes distant interests, so that a perennial discussion can be created and new research potentialities can emerge.
+    The languages and literatures of Antiquity, especially from ancient Greece, are omnipresent in our culture and in the construction of Western societies. With the birth and development of the Internet on the one hand, and that of the Web on the other, more and more projects for the digitization, indexing, digital publishing, and computational studies of these texts are emerging.
+    What are the implications of this encounter between texts that are sometimes several millennia old and digital platforms? What to do with the innumerable data generated? How can we appropriate these digitized heritages, contribute to their dissemination, and exploit them for heuristic purposes? What digital and computational tools can we use to further our knowledge of these vast bodies of work, which are far from having revealed all their secrets?
+    The event “Anthological Navigations” intends to raise these questions by focusing in particular on the case study of the Greek Anthology, a monumental work for which the Canada Research Chair in Digital Textualities is producing a collaborative digital edition. This meeting will take place over three days with the aim of calling on the community of Digital Classicists to reflect on the scientific issues related to the dissemination of the heritage of ancient Greek languages and literatures and, more generally, on the methodological and epistemological impact of the Digital Humanities within the framework of Hellenistic studies. While focusing on the anthological corpus, the three days of the conference aim to bridge the gap between the terms “digital” and “classicists” and to prompt a meeting between researchers, professors and programmers with diverse profiles and sometimes distant interests, so that a perennial discussion can be created and new research potentialities can emerge.
   button_solid:
     enable : false
     label : "Buy ticket"
@@ -230,8 +228,8 @@ registration:
   enable : true
   title : "Register"
   content : |
-    Registration for the workshop (27th-28th of October) is recommended;   
-    registration for the hackathon (29th of October) is required (deadline: October 1st, 2022).
+    Registration for the workshop (27^th-28^th of October) is recommended;   
+    Registration for the hackathon (29^th of October) is required (deadline: October 1, 2022).
   form_action : "https://formspree.io/f/mnqrnvny" # works with formspree.io
 
   funfacts:
