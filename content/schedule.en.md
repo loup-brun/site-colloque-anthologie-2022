@@ -37,7 +37,7 @@ tab:
       time : 
 
     - speaker : "Lucia FLORIDI (Alma Mater Studiorum - Università di Bologna)"
-      subject : "Editing Greek epigrams. Methods and problems."
+      subject : "Editing Greek Epigrams: Methods and Problems."
       abstract:  |
         Our knowledge of Greek epigrammatic poetry is mainly based on two fundamental works: the *Palatine Anthology* (PA) and the *Anthology of Planudes* (APl). Minor works are added to these, called *Syllogae Minores*. Some epigrams are also known through indirect tradition (authors like Athenaeus), or transmitted from *papyri* or inscriptions. The editors of the Anthology are thus confronted with a complex and changing textual translation, ranging from a textus unicus to much more varied situations. I will illustrate, in the course of my presentation, the main problems - of critical, textual and exegetical nature - that I have encountered in my capacity as editor of several epigrammatic authors (Strato, Lucillius, Hedylus in particular).
       biography : |
@@ -82,7 +82,7 @@ tab:
     # [SESSION 2] : "Valorisation et pédagogie de l’imaginaire anthologique."
     # speaker
     - speaker : "Simone BETA (Università degli Studi di Siena)"
-      subject : "Enseigner le grec avec les devinettes de l’*Anthologie Palatine*."
+      subject : "Teaching Greek with the Riddles of the *Palatine Anthology*."
       abstract : |
         According to the preface of Constantine Cephalas, the epigrams of the fourteenth book of the *Palatine Anthology* had a pedagogical purpose: the problems were useful to teach mathematics; the riddles to teach the language. Can these last enigmatic epigrams be useful today to teach Greek language and, in addition, classical mythology? By comparing these little poems to other poetic riddles testified in Greek and Byzantine literature, this paper will prove that the pedagogical function evoked by Cephalas can still be exploited today.
       biography : |
@@ -98,7 +98,7 @@ tab:
 
     # speaker
     - speaker : "Serena CANNAVALE (Università degli Studi di Napoli Federico II)"
-      subject : "Inside and beyond the *Greek Anthology*. New directions and challenges in the study of Callimachean epigrams."
+      subject : "Inside and Beyond the *Greek Anthology*: New Directions and Challenges in the Study of Callimachean Epigrams."
       abstract : | 
         Recent years saw a critical analysis of increasing depth of epigrammatic literature, resulting in large-scale studies both on epigrams of epigraphic tradition and on those of literary tradition, and their mutual interplay. Such interest was mostly encouraged by the publication of the Posidippus papyrus, which stimulated new studies on the construction of ancient anthologies and on the arrangement of books of epigrams. Nevertheless, the lack of a recent edition with commentary of Callimachus' epigrams stands out very conspicuously, even though many individual poems have been the object of accurate analysis in valuable papers and monographic studies. Moving from these important recent acquisitions, it is now evident that a modern commentary to Callimachean epigrams should link the individual texts to the epigrammatic tradition as a whole, focusing both on the literary parallels within the Greek Anthology and on their epigraphic counterparts. The present paper suggests to apply this approach through three lines of investigation: 1) paying attention to traditional epigrammatic sub-genres (votive, sepulchral, epideictic, erotic, etc.) and to their realizations within the Callimachean corpus, all the while considering how traditional categories have permeable boundaries that are not so easily traced (consider for example the problematic case of the label of “epideictic” or “ecphrastic” epigram); 2) studying the continuity of transversal topoi and motifs through these sub-genres (e.g. epigrams on misanthropes; epigrams on poets or poetic works; bucolic themes); 3) considering the possibility to relate Callimachus’ epigrams to less known typologies, like those emerging from the Posidippus papyrus (e.g. *nauagika*).
       biography : |
@@ -107,10 +107,9 @@ tab:
       time : "1.45 PM"
 
     - speaker : "Annalisa DI VINCENZO (Liceo classico Luca De Samuele Cagnazzi, Altamura)"
-      subject : "Experiences and perspectives of the study of ancient Greek between school and *Digital Humanities*: a possible *Fortleben* of the *Palatine Anthology*."
+      subject : "Experiences and Perspectives of the Study of Ancient Greek Between School and *Digital Humanities*: a Possible *Fortleben* of the *Palatine Anthology*."
       abstract : |
-        For the past few years, a pilot experiment in some high schools has been trying to create a way of working in the field of Digital Humanities on the basis of Greek texts : starting from knowledge to elaborate a research paradigm through translation. Epigrams from the Palatine Anthology are translated in participatory translation workshops starting with the digital version of the ancient manuscript from the 10th century BCE. C., put online by the Perseus Project. On the basis of the Greek poetic text, this practice seeks to identify a possible *Fortleben* of ancient Wisdom in contemporary culture (from music to iconographic arts).
-        Associating Greek repertories with digital tools sharing different translations and connections to contemporary culture (cf. Website Anthologiagraeca.org) goes to fill a gap and builds a useful bridge between the school system and the Academia.
+        For the past few years, a pilot experiment in some high schools has been trying to create a way of working in the field of Digital Humanities on the basis of Greek texts: to start from knowledge to then elaborate a research paradigm through translation skills. Epigrams from the Palatine Anthology are translated in participatory translation workshops starting with the digital version of the ancient manuscript from the 10^th^ century BCE, put online by the Perseus Project. On the basis of the Greek poetic text, this practice seeks to identify a possible *Fortleben* of ancient wisdom in contemporary culture (from music to iconographic arts). Associating Greek repertories with digital tools enables the sharing of different translations and connections to contemporary culture (cf. website Anthologiagraeca.org), and goes to fill a gap as well as build a useful bridge between the school system and academia.
       biography : |
         Annalisa di Vincenzo, PhD in Greek and Latin Philology, has been teaching Classics at the Liceo Classico Luca de Samuele Cagnazzi in Altamura since 2005. Following a specialization in software development for didactics, her teaching methods are motivated by the inclusion of digital tools in the classroom. For several years, the Greek Anthology project held at the CRCDT has benefitted from important contributions thanks to the involvement of her students in the editing process on the project's platform.
       venue : "C-6070-9"
