@@ -7,7 +7,7 @@ banner:
   enable : true
   heading : "Anthological Navigations"
   heading_2 : "The Greek Anthology in the Era of Digital Classics"
-  content : "University of Montreal, 27^th-29^th of October 2022"
+  content : "University of Montreal, 27<sup>th</sup>-29<sup>th</sup> of October 2022"
   timer:
     enable : true
     year : 2022
