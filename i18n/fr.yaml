@@ -28,8 +28,8 @@
 "Register Now":
   "other": "Inscrivez-vous"
 
-"Your status":
-  "other": "Votre statut"
+"Status":
+  "other": "Statut"
 
 "Teacher":
   "other": "Enseignant·e"
@@ -43,10 +43,10 @@
 "Other":
   "other": "Autre"
 
-"Background (speciality)":
-  "other": "Votre parcours (spécialité)"
+"Background (discipline)":
+  "other": "Votre parcours (discipline)"
 
-"Ticket Type":
+"Ticket type":
   "other": "Type de ticket"
 
 "Workshop":
