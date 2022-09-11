@@ -113,14 +113,14 @@ tab:
       time : "2.30 PM"
 
     # speaker
-    - speaker : "Gustavo FERNANDEZ (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 'Material Text Cultures')"
-      subject : "Utilisations et valorisations du fac-similé numérique de l'*Anthologie palatine*."
-      résumé : |
-        La première et plus grande partie de l'Anthologie palatine (Bibliothèque universitaire de Heidelberg, Codex Palatinus Graecus 23) est disponible sous forme de fac-similé numérique depuis 2009. Depuis lors, les chercheurs et toute personne intéressée peuvent accéder librement à des images de haute qualité du codex qui n'était auparavant disponible que dans des éditions critiques ou des fac-similés imprimés rares et coûteux. Cette présentation examinera les caractéristiques du fac-similé numérique et sa présentation sur le site web de la Bibliothèque universitaire de Heidelberg qui utilise le logiciel DWork. Une attention particulière sera accordée aux annotations créées conjointement et en coopération entre les chercheurs de Heidelberg et de Montréal. Enfin, les cas existants et les possibilités futures de réutilisation des images seront discutés.
-      biographie : |
-        Gustavo Fernández Riva est chercheur postdoctoral à l'université de Heidelberg (Allemagne). En tant que membre du Centre de recherche collaboratif "Cultures de textes matériels", il développe des outils pour l'édition et la recherche d'objets écrits pré-modernes. Il a étudié la littérature médiévale aux universités de Buenos Aires (Argentine) et de Porto (Portugal). Sa thèse de doctorat comprenait une édition critique en TEI et une traduction en espagnol de textes du poète du moyen haut allemand Konrad von Würzburg. Ses projets de recherche actuels incluent l'utilisation de l'analyse de réseau pour étudier la transmission manuscrite partagée de textes médiévaux et la création d'un jeu de données ouvert et collaboratif de stemmata philologiques.      
-      venue : "C-6070-9"
-      time : "3.15 PM"
+    # - speaker : "Gustavo FERNANDEZ (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 'Material Text Cultures')"
+    #   subject : "Utilisations et valorisations du fac-similé numérique de l'*Anthologie palatine*."
+    #   résumé : |
+    #     La première et plus grande partie de l'Anthologie palatine (Bibliothèque universitaire de Heidelberg, Codex Palatinus Graecus 23) est disponible sous forme de fac-similé numérique depuis 2009. Depuis lors, les chercheurs et toute personne intéressée peuvent accéder librement à des images de haute qualité du codex qui n'était auparavant disponible que dans des éditions critiques ou des fac-similés imprimés rares et coûteux. Cette présentation examinera les caractéristiques du fac-similé numérique et sa présentation sur le site web de la Bibliothèque universitaire de Heidelberg qui utilise le logiciel DWork. Une attention particulière sera accordée aux annotations créées conjointement et en coopération entre les chercheurs de Heidelberg et de Montréal. Enfin, les cas existants et les possibilités futures de réutilisation des images seront discutés.
+    #   biographie : |
+    #     Gustavo Fernández Riva est chercheur postdoctoral à l'université de Heidelberg (Allemagne). En tant que membre du Centre de recherche collaboratif "Cultures de textes matériels", il développe des outils pour l'édition et la recherche d'objets écrits pré-modernes. Il a étudié la littérature médiévale aux universités de Buenos Aires (Argentine) et de Porto (Portugal). Sa thèse de doctorat comprenait une édition critique en TEI et une traduction en espagnol de textes du poète du moyen haut allemand Konrad von Würzburg. Ses projets de recherche actuels incluent l'utilisation de l'analyse de réseau pour étudier la transmission manuscrite partagée de textes médiévaux et la création d'un jeu de données ouvert et collaboratif de stemmata philologiques.      
+    #   venue : "C-6070-9"
+    #   time : "3.15 PM"
 
   # tab item
   - name : "Jour 02"
