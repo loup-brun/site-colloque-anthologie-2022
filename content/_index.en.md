@@ -228,8 +228,8 @@ registration:
   enable : true
   title : "Register"
   content : |
-    Registration for the workshop (27^th-28^th of October) is recommended;   
-    Registration for the hackathon (29^th of October) is required (deadline: October 1, 2022).
+    Registration for the workshop (27<sup>th</sup>-28<sup>th</sup> of October) is recommended;   
+    Registration for the hackathon (29<sup>th</sup> of October) is required (deadline: October 1, 2022).
   form_action : "https://formspree.io/f/mnqrnvny" # works with formspree.io
 
   funfacts:
