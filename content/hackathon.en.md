@@ -17,13 +17,11 @@ Coming soon.
 {{</ faq >}}
 
 {{< faq "Objectives">}}
-Considering the vast array of skills and knowledge of the participants, we want to keep the objectives as open as possible. Thus, we offer only one guideline : each project must make use of the corpus in a creative and technical way. 
-Scholars and students alike will participate in a quick formation on the API and corpus, and in a brainstorming session before pitching projects to the participants.
-Each team will be constituted of at least one guest with a technological profile, and another with a philological profile, to help and guide the selected projects.
+Considering the vast array of skills and knowledge of the participants, we want to keep the objectives as flexible as possible. Thus, we offer only one guideline: each project must make use of the corpus in a creative and technical way. Scholars and students alike will participate in a quick training on the API and corpus, and in a brainstorming session, before pitching projects to the participants. Each team will be constituted of at least one guest with a technological profile and another with a philological profile, to help guide the selected projects.
 {{</ faq >}}
 
 {{< faq "Subjects" >}}
-Each discussion table will be offered a list of potential subjects, they are welcome to use or discard them as they see fit.
+Each discussion group will be given a list of potential subjects. They are welcome to use or discard them as they see fit.
 
 Some examples of themes and ideas :
 - Tweet-bot 
@@ -36,15 +34,15 @@ Some examples of themes and ideas :
 {{</ faq >}}
 
 {{< faq "Course of the event" >}}
-- 09h00 : Greetings (with breakfast)
-- 09h15 : Introduction to the dataset and API
-- 09h30 : Brainstorming (by discussion tables) : depending on how many participants 
-- 10h00 : Pitches by "tables leaders"
-- 10h30 : Team formation and begin!
-- 13h00 : Lunch
-- 14h00 : More work!
-- 17h00 : Presentation of the prototypes 
-- 18h00 : Awards ceremony and end of the day 
+- 9:00 a.m.: Greetings (with breakfast)
+- 9:15 a.m.: Introduction to the data set and API
+- 9:30 a.m.: Brainstorming (by discussion groups): according to the number of participants
+- 10:00 a.m.: Pitches by “table leaders”
+- 10:30 a.m.: Team formation and start!
+- 1:00 p.m.: Lunch
+- 2:00 p.m.: More work!
+- 5:00 p.m.: Presentation of the prototypes
+- 6:00 p.m.: Awards ceremony and end of the day
 {{</ faq >}}
 
 {{< faq "Prize" >}}
