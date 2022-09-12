@@ -166,12 +166,12 @@ tab:
       time : "10.15 AM"
 
     # speaker
-    - speaker :
+    - speaker : |
+        Marcello Vitali-Rosati ; Antoine Fauchié ; Margot Mellet ; Dominic Forest ; Emmanuel Château-Dutier ; Servanne Monjour ; Irene Stigliano.
       subject : "**Round-table Discussion** : Today, in the Digital Era…."
       abstract : |
         Presided over by Marcello Vitali-Rosati and Antoine Fauchié, this multilingual round table will give the floor to speakers from different backgrounds to think and redefine the most fundamental aspects of digital technologies according to their worldviews. 
-      biography : |
-        Marcello Vitali-Rosati ; Antoine Fauchié ; Margot Mellet ; Dominic Forest ; Emmanuel Château-Dutier ; Servanne Monjour ; Irene Stigliano. 
+      biography : 
       venue : "C-6070-9"
       time : "10.15 AM"
 
