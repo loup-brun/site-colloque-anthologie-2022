@@ -69,9 +69,9 @@
                       {{else}}
                       <!-- <img src="{{ .speaker_image | absURL }}" alt="{{.speaker}}"> -->
                       <h5>{{ .subject | markdownify }}</h5>
-
+                      {{ if .speaker}}
                       <span class="name">{{.speaker| markdownify}}</span>
-
+                      {{end}}
                       {{ if .biography }}
                       <details>
                         <summary>Biography</summary>

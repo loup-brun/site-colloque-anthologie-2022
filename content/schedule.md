@@ -164,7 +164,7 @@ tab:
       time : "10.15 AM"   
 
     # speaker
-    - speaker : "Marcello Vitali-Rosati, Michael Sinatra"
+    - speaker :
       subject : "**Table Ronde** : Aujourd’hui, à l’époque du numérique,…"
       résumé : |
         Présidée par Marcello Vitali-Rosati et Antoine Fauchié, cette table ronde multilingue donnera la parole à des intervenants d'horizons divers afin de penser et redéfinir les aspects les plus fondamentaux des technologies numériques selon leurs visions du monde 
