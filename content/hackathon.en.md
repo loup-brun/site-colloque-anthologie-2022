@@ -46,5 +46,5 @@ Some examples of themes and ideas :
 {{</ faq >}}
 
 {{< faq "Prize" >}}
-Participants will be asked to vote for their favourite project and a grant will be offered to students in order to develop/realize the winning project.
+Participants will be asked to vote for their favourite project and a grant for student involvement will be offered to further develop the winning project.
 {{</ faq >}}
