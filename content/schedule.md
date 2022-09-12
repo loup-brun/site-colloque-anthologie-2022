@@ -26,7 +26,7 @@ tab:
       abstract :
       biography :
       venue :
-      time : "09.30 AM"
+      time : "09H30"
 
     - speaker :
       pause : "[SESSION 1] L’actualité scientifique de l’*Anthologie grecque*."
@@ -43,7 +43,7 @@ tab:
       biographie : |
         Lucia Floridi est professeure de philologie classique et de l'Antiquité tardive à l'Université de Bologne. Ses principaux intérêts de recherche portent sur les épigrammes grecques et latines, avec une attention particulière aux genres érotique et scoptique (ou satirique), à la poésie hellénistique, à l'art de la prose à l'époque impériale, et enfin aux relations entre la littérature et les arts visuels. Elle a réalisé plusieurs éditions critiques d'auteurs d'épigrammes, dont Straton de Sardes (2007), Lucillius (2014) et Edile (2020) - faisant d'elle l'une des plus grandes expertes de l'Anthologie grecque. En outre, ses travaux sur les auteurs Pallas, Ausone, Longus, et Lucien sont d'un intérêt considérable pour la compréhension de l'Anthologie grecque, de son contenu, de ses auteurs et de son évolution. Elle donnera une conférence plénière, tout à fait pertinente avec les questions d'édition dont il est question dans ce colloque.
       venue : "C-6070-9"
-      time : "10.00 AM"
+      time : "10H00"
 
     - speaker :
       pause : "Pause café"
@@ -51,7 +51,7 @@ tab:
       abstract :
       biography :
       venue :
-      time : "11.00 AM"      
+      time : "11H00"      
 
     # speaker
     - speaker : "CRCEN"
@@ -59,7 +59,7 @@ tab:
       résumé : |
         à venir
       venue : "C-6070-9"
-      time : "11.15 AM"
+      time : "11H15"
 
     - speaker :
       pause : "Pause Déjeuner"
@@ -67,7 +67,7 @@ tab:
       abstract :
       biography :
       venue :
-      time : "12.00 AM"
+      time : "12H00"
 
     - speaker :
       pause : "[SESSION 2] Valorisation et pédagogie de l’imaginaire anthologique."
@@ -91,7 +91,7 @@ tab:
         Parmi ses dernières publications, nous citons *Il labirinto della parola. Enigmi, oracoli e sogni nella cultura antica*, Torino 2016 ; *Io, un manoscritto : l'Antologia Palatina si racconta*, Roma 2019. 
         Il a récemment traduit en italien l'Antigone de Sophocle (Milano 2020) et la Lysistrata d'Aristophane (Milano 2020).   
       venue : "C-6070-9"
-      time : "1.00 PM"
+      time : "13H00"
 
     # speaker
     - speaker : "Serena CANNAVALE (Università degli Studi di Napoli Federico II)"
@@ -101,7 +101,7 @@ tab:
       biographie : |
         Serena Cannavale est chercheuse en philologie classique au Département des sciences humaines ('Dipartimento di Studi Umanistici'), Université de Naples "Federico II". Ses principaux intérêts de recherche sont liés aux épigrammes hellénistiques, au théâtre antique et à l'histoire des études classiques. Elle a tenu des séminaires et des conférences dans des congrès nationaux et internationaux et a publié plusieurs articles et essais sur l'histoire du texte des épigrammes de Callimaque et leur exégèse ; la tradition et la réception des mythes classiques dans les épigrammes de la période hellénistique et impériale ; le théâtre dans la Campanie antique. Elle est rédactrice en chef de la revue "Atene e Roma" et participe au projet international "Dictionnaire de l'épigramme littéraire dans l'antiquité grecque et romaine" (directrices : Doris Meyer et Céline Urlacher-Becht).      
       venue : "En ligne"
-      time : "1.45 PM"
+      time : "13H45"
 
     - speaker : "Annalisa DI VINCENZO (Liceo classico Luca De Samuele Cagnazzi, Altamura)"
       subject : "Expériences et perspectives de l'étude du grec ancien entre l'école et les *Digital Humanities* : un possible *Fortleben* de l'*Anthologie Palatine*."
@@ -110,7 +110,7 @@ tab:
       biographie : |
         Annalisa di Vincenzo, docteure en philologie grecque et latine, enseigne les lettres classiques au liceo classico Luca de Samuele Cagnazzi à Altamura depuis 2015. À la suite d'une spécialisation en programmation adaptée à la didactique, ses méthodes d'enseignement sont motivées par l'inclusion des outils numériques et digitaux dans les salles de classe. Depuis plusieurs années, le projet Anthologie grecque bénéficie d'importantes contributions grâce à l'implication de ses étudiant·e·s dans le processus d'édition sur la plateforme du projet.
       venue : "C-6070-9"
-      time : "2.30 PM"
+      time : "14H30"
 
     # speaker
     # - speaker : "Gustavo FERNANDEZ (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 'Material Text Cultures')"
@@ -135,7 +135,7 @@ tab:
       abstract :
       biography :
       venue :
-      time : "09.00 AM"
+      time : "09H00"
 
     - speaker :
       pause : "[SESSION 3] Édition numérique de textes classiques."
@@ -153,7 +153,7 @@ tab:
         Marie-Claire Beaulieu est professeur d'études classiques à la Tufts University. Ses principaux domaines de recherche sont la mythologie grecque (y compris la religion grecque, le rôle des femmes dans la mythologie grecque) et les Digital Humanities. Elle a codirigé le projet Perseids. 
         Perseids est une vaste initiative visant à construire des infrastructures dans le domaine des humanités numériques, par la conception de logiciels d'édition et d'annotation collaboratifs. Marie-Claire Beaulieu s'intéresse également à l'utilisation du support numérique pour favoriser un plus grand engagement avec le monde antique à travers l'étude de la langue, de l'art et de la culture.      
       venue : "En ligne"
-      time : "9.15 AM"
+      time : "09H15"
 
     - speaker :
       pause : "Pause café"
@@ -161,7 +161,7 @@ tab:
       abstract :
       biography :
       venue :
-      time : "10.15 AM"   
+      time : "10H15"   
 
     # speaker
     - speaker : |
@@ -171,7 +171,7 @@ tab:
         Présidée par Marcello Vitali-Rosati et Antoine Fauchié, cette table ronde multilingue donnera la parole à des intervenants d'horizons divers afin de penser et redéfinir les aspects les plus fondamentaux des technologies numériques selon leurs visions du monde 
       biographie:
       venue : "C-6070-9"
-      time : "10.30 AM"
+      time : "10H30"
 
     - speaker :
       pause : "Pause Déjeuner"
@@ -179,7 +179,7 @@ tab:
       abstract :
       biography :
       venue :
-      time : "12.00 AM"
+      time : "12H00"
 
     - speaker :
       pause : "[SESSION 4] Approches computationnelles appliquées aux études hellénistes."
@@ -198,7 +198,7 @@ tab:
       biographie : |
         Le profil académique de Giuseppe Celano se situe à l'interface même des sciences humaines (linguistique et lettres classiques) et de l'informatique. Il a commencé sa carrière académique en tant que classiciste, en se concentrant sur l'étude de la grammaire du grec ancien et du latin. Il a obtenu son doctorat en philologie classique en 2008, avec une thèse sur l'ordre des mots dans le Phédon de Platon. En 2012-2013, il a été chercheur dans le cadre d'un projet de recherche germano-italien sur la structure des arguments en grec ancien et en maya yucatèque, mené aux universités d'Erfurt et de Pavie. Par la suite, fin 2013, il a rejoint la chaire Humboldt d'humanités numériques de l'Université de Leipzig pour travailler sur le corpus arboré du grec ancien et du latin. En avril 2018, il a rejoint le groupe Traitement du langage naturel de l'Université de Leipzig, où il a travaillé jusqu'en septembre 2018 sur un projet DFG (Deutsche Forschungsgemeinschaft) sur les classes d'actionnalité et les asymétries de codage. Dans le même institut, il est chercheur indépendant de la DFG depuis octobre 2018, travaillant sur l'annotation de données en grec ancien et en latin.      
       venue : "C-6070-9"
-      time : "1.00 PM"
+      time : "13H00"
 
     # speaker
     - speaker : "Kyle JOHNSON (Tik Tok, Data Cycling Center ; Maintainer of Classical Language Toolkit (CLTK))."
@@ -208,7 +208,7 @@ tab:
       biographie : |
         Kyle P. Johnson travaille à l'intersection des classiques et du traitement du langage naturel (NLP). Il est titulaire d'un doctorat en lettres classiques (NYU, 2012) et travaille actuellement dans l'industrie. Après avoir publié des articles sur Homère et rédigé une thèse sur Jules César, il consacre désormais ses recherches au Classical Language Toolkit (CLTK), un projet de logiciel libre qui vise à offrir le traitement automatique des langues aux quelque 200 langues pré-modernes existantes.      
       venue : "C-6070-9"
-      time : "1.45 PM"
+      time : "13H45"
 
     - speaker :
       pause : "Pause café"
@@ -216,7 +216,7 @@ tab:
       abstract :
       biography :
       venue :
-      time : "2.30 AM"    
+      time : "14H30"    
       
     - speaker : "Marcus PÖCKELMANN - (Martin-Luther-Universität Halle-Wittenberg, Institute of Computer Science)"
       subject : "Les lendemains de Platon. Recherche de traces dans l'espace vectoriel"
@@ -225,7 +225,7 @@ tab:
       biographie : |
         Marcus Pöckelmann a étudié l'informatique à l'Université Martin Luther de Halle-Wittenberg (Master 2013) et est membre du groupe de recherche Molitor/Ritter depuis 2013. Dans le cadre de plusieurs projets de recherche interdisciplinaires, il développe des applications web pour l'investigation de l'intertextualité avec des collègues de différentes disciplines des sciences humaines. Il s'agit notamment des environnements de travail *LERA* pour l'analyse de variantes textuelles complexes pour les éditions savantes, et Paraphrasis pour la récupération et l'évaluation de passages textuels paraphrasés dans la littérature grecque ancienne.      
       venue : "C-6070-9"
-      time : "2.45 PM"      
+      time : "14H45"      
 
     # speaker
     - speaker : "Marianne REBOUL (École nationale supérieure de Lyon, Institut d'histoire des représentations et des idées dans la modernité)"
@@ -235,7 +235,7 @@ tab:
       biographie : |
         Marianne Reboul, maîtresse de conférences en Humanités Numériques à l'École Normale Supérieure de Lyon, spécialisée en humanités numériques et lettres classiques, plus précisément dans ce qu'on appelle "digital classics". Elle travaille en particulier sur l'application des techniques d'intelligence artificielle aux langues anciennes.      
       venue : "C-6070-9"
-      time : "3.30 PM"
+      time : "15H30"
 
   # tab item
   - name : "Jour 03"
@@ -247,7 +247,7 @@ tab:
       résumé : |
         Au sein d'équipes pluridisciplinaires, les participants s'affronteront pour présenter un prototype expérimentant des méthodes algorithmiques pour explorer, analyser et découvrir le corpus anthologique. Les participants auront l'occasion de tester les API du projet et celles de nos partenaires (tels que la Bibliothèque Palatine de Heidelberg, ou la Perseus Digital Library), de s'engager dans la création d'un lemmatiseur pour le grec ancien, ou de rechercher dans le corpus anthologique des exemples d'intertextualité. Cette dernière journée permettra de valoriser ce qui a été produit au cours du projet Anthologie grecque et de l'atelier, mais aussi de faire émerger de nouvelles potentialités de recherche.
       venue : "C-6070-9"
-      time : "9.30 AM - 4.30 PM"
+      time : "9H30 - 16H30"
 
 
 ---

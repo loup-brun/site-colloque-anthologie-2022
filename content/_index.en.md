@@ -22,7 +22,7 @@ banner:
 ################# About ###################
 about:
   enable : true
-  title : "A three-day workshop dedicated to the Greek Anthology's actuality"
+  title : "A three-day workshop dedicated to the *Greek Anthology*'s actuality"
   image : "images/sappho.jpg"
   content : |
     The languages and literatures of Antiquity, especially from ancient Greece, are omnipresent in our culture and in the construction of Western societies. With the birth and development of the Internet on the one hand, and that of the Web on the other, more and more projects for the digitization, indexing, digital publishing, and computational studies of these texts are emerging.

@@ -13,7 +13,8 @@ In multidisciplinary teams, participants will compete to present prototypes that
 {{</ faq >}}
 
 {{< faq "Description of the data sets" >}}
-Coming soon.
+Developed within the framework of the project "For a collaborative digital edition of the *Greek Anthology*" led by the Canada Research Chair on Digital Writings, the API containing the data for the hackathon is available [here](https://anthologiagraeca.org/api/).  
+It provides a JSON representation of all the data in the platform.
 {{</ faq >}}
 
 {{< faq "Objectives">}}
