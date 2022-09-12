@@ -70,8 +70,8 @@ logo = "images/empreinte-digitale.png"
 logo_footer = "https://wpchaire.ecrituresnumeriques.ca/wp-content/uploads/2018/08/logo-fr-1.svg"
 logo_width = "auto"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Website of the Anthological Navigations"
+author = "Arilys Jia, Mathilde Verstraete, Louis-Olivier Brassard, Roch Delannay."
 # contact form action
 contact_form_action = "https://formspree.io/f/mnqrnvny" # contact form works with https://formspree.io
 # copyright
