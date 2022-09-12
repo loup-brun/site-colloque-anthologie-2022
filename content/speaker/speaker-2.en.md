@@ -2,7 +2,7 @@
 title : "Elsa Bouchard"
 page_header_bg : "images/background/homepage-one-banner.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Hellenist, Associate Professor at the Department of Philosophy (University of Montreal)."
+designation: "Associate Professor at the Department of Philosophy (University of Montreal)."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_terzo_triclinio%2C_IV_stile%2C_epoca_neroniana%2C_03_figura.jpg/800px-Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_terzo_triclinio%2C_IV_stile%2C_epoca_neroniana%2C_03_figura.jpg"
 description : "Professeure en langue et littérature grecques. (UdeM)"
 draft : false
