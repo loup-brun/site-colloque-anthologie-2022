@@ -6,7 +6,7 @@ kind: home
 banner:
   enable : true
   heading : "Navigations anthologiques"
-  heading_2 : "L'*Anthologie grecque* à l'ère des Digital Classics"
+  heading_2 : "L'Anthologie grecque à l'ère des Digital Classics"
   content : "Université de Montréal, 27-29 octobre 2022"
   timer:
     enable : true
