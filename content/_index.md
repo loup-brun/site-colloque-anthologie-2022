@@ -6,7 +6,7 @@ kind: home
 banner:
   enable : true
   heading : "Navigations anthologiques"
-  heading_2 : "L'Anthologie grecque à l'ère des Digital Classics"
+  heading_2 : "L'*Anthologie grecque* à l'ère des Digital Classics"
   content : "Université de Montréal, 27-29 octobre 2022"
   timer:
     enable : true
@@ -22,13 +22,13 @@ banner:
 ################# About ###################
 about:
   enable : true
-  title : "Trois journées d'étude consacrées à l'actualité de l'Anthologie grecque"
+  title : "Trois journées d'étude consacrées à l'actualité de l'*Anthologie grecque*"
   image : "images/sappho.jpg"
   content : |
     Les langues et littératures de l'Antiquité, de la Grèce notamment, sont omniprésentes dans notre culture et dans l'édification de nos sociétés occidentales. Avec la naissance et le développement d'Internet d'une part, du Web d'autre part, émergent de plus en plus de projets de numérisation, d'indexation, d'édition numérique, de valorisation et d'études computationnelles de ces textes.   
     Quelles sont les implications de cette rencontre entre des textes vieux de parfois plusieurs millénaires et des plateformes numériques ? Que faire de ces innombrables données générées ? Comment s'approprier ces patrimoines numérisés, contribuer à leur rayonnement, les exploiter à des fins heuristiques ? Quels outils numériques et computationnels utiliser pour approfondir encore nos connaissances sur ces vastes corpus qui sont loin de nous avoir livré tous leurs secrets ?   
-    L'événement « Navigations anthologiques » entend soulever ces questions en se concentrant en particulier sur le cas d'étude de l'Anthologie grecque, œuvre monumentale dont la Chaire de Recherche du Canada sur les Écritures Numériques produit une édition numérique collaborative.
-    Cette rencontre se déroulera sur trois journées d'étude dans le but d'appeler la communauté des Digital Classicists à réfléchir autour des enjeux scientifiques liés à la diffusion du patrimoine des langues et littératures en grec ancien et plus généralement sur les impacts méthodologiques et épistémologiques des Digital Humanities dans le cadre des études hellénistiques, à partir du cas d'étude de l'Anthologie grecque. 
+    L'événement « Navigations anthologiques » entend soulever ces questions en se concentrant en particulier sur le cas d'étude de l'*Anthologie grecque*, œuvre monumentale dont la Chaire de Recherche du Canada sur les Écritures Numériques produit une édition numérique collaborative.
+    Cette rencontre se déroulera sur trois journées d'étude dans le but d'appeler la communauté des Digital Classicists à réfléchir autour des enjeux scientifiques liés à la diffusion du patrimoine des langues et littératures en grec ancien et plus généralement sur les impacts méthodologiques et épistémologiques des Digital Humanities dans le cadre des études hellénistiques, à partir du cas d'étude de l'*Anthologie grecque*. 
     Tout en s'articulant autour du corpus anthologique, les trois journées de colloque ont pour but de faire la passerelle entre les termes « digital » et « classicists », de provoquer une rencontre entre des chercheur·euse·s, professeur·e·s et programmeur·euse·s de profils divers et aux intérêts parfois éloignés pour que se crée une discussion pérenne et qu'émanent de nouvelles potentialités de recherche. 
   button_solid:
     enable : false

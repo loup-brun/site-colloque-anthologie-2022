@@ -248,7 +248,7 @@ tab:
     - speaker : "Event open to all, with registration (until October 1, 2022)"
       subject : "Hackathon"
       abstract : |
-        In multidisciplinary teams, participants will compete to present a prototype experimenting with algorithmic methods to explore, analyze, and discover the anthological corpus. Participants will have the opportunity to test the APIs of the project and those of our partners (such as the Palatine Library of Heidelberg, or the Perseus Digital Library), to engage in the creation of a lemmatizer for ancient Greek, or to search the anthological corpus for examples of intertextuality. This last day will allow to enhance what has been produced during the Greek Anthology project and the workshop, but also to to bring out new research potentialities.
+        In multidisciplinary teams, participants will compete to present prototypes that use algorithmic methods to explore and analyse the corpus of the Greek Anthology. Participants will have the opportunity to test the project’s APIs (“Pour une édition numérique collaborative de l’Anthologie grecque”) and our partners' (such as the Palatine Library of Heidelberg, or the Perseus Digital Library). This last day will allow the use of what was produced during the Greek Anthology project and workshop as a launchpad, but also to bring out new research potentialities.
       venue : "C-6070-9"
       time : "9.30 AM - 4.30 PM"
 

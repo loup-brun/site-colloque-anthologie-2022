@@ -9,7 +9,7 @@ layout : "hackathon"
 
 
 {{< faq "Description du hackathon" >}}
-Au sein d'équipes multidisciplinaires, les participants s'affronteront pour présenter des prototypes qui utilisent des méthodes algorithmiques pour explorer et analyser le corpus de l'Anthologie grecque. Les participants auront l'occasion de tester les API du projet ("Pour une édition numérique collaborative de l'Anthologie grecque") et celles de nos partenaires (comme la Bibliothèque Palatine de Heidelberg, ou la Bibliothèque numérique Perseus). Cette dernière journée permettra d'utiliser comme tremplin ce qui a été produit pendant le projet Anthologie grecque et l'atelier, mais aussi de faire émerger de nouvelles potentialités de recherche.
+Au sein d’équipes multidisciplinaires, les participants s’affronteront pour présenter des prototypes qui utilisent des méthodes algorithmiques pour explorer et analyser le corpus de l’*Anthologie grecque*. Les participants auront l’occasion de tester les API du projet (“Pour une édition numérique collaborative de l’*Anthologie grecque*”) et celles de nos partenaires (comme la Bibliothèque Palatine de Heidelberg, ou la Bibliothèque numérique Perseus). Cette dernière journée permettra d’utiliser comme tremplin ce qui a été produit pendant le projet Anthologie grecque et l’atelier, mais aussi de faire émerger de nouvelles potentialités de recherche.
 {{</ faq >}}
 
 {{< faq "Description de l'API" >}}
