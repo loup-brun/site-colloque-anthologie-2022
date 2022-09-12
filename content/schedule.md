@@ -165,11 +165,11 @@ tab:
 
     # speaker
     - speaker : "Marcello Vitali-Rosati, Michael Sinatra"
-      subject : "**Table Ronde** : penser les éditions critiques pour le Web"
+      subject : "**Table Ronde** : Aujourd’hui, à l’époque du numérique,…"
       résumé : |
-        Présidée par Mathilde Verstraete et Antoine Fauchié, cette table ronde vise à penser et redéfinir les aspects les plus fondamentaux des technologies numériques dans les pratiques d'intervenants d'horizons divers.
+        Présidée par Marcello Vitali-Rosati et Antoine Fauchié, cette table ronde multilingue donnera la parole à des intervenants d'horizons divers afin de penser et redéfinir les aspects les plus fondamentaux des technologies numériques selon leurs visions du monde 
       biographie: |
-        Margot Mellet ; Emmanuel Chateau-Dutier ; Servanne Monjour ; etc.
+        Marcello Vitali-Rosati ; Antoine Fauchié ; Margot Mellet ; Dominic Forest ; Emmanuel Château-Dutier ; Servanne Monjour ; Irene Stigliano.
       venue : "C-6070-9"
       time : "10.30 AM"
 

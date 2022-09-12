@@ -167,11 +167,11 @@ tab:
 
     # speaker
     - speaker : "Marcello Vitali-Rosati, Michael Sinatra"
-      subject : "**Round-table Discussion** : (re)thinking the digital."
+      subject : "**Round-table Discussion** : Today, in the Digital Era…."
       abstract : |
-        Presided over by Mathilde Verstraete and Antoine Fauchié, this round-table aims to think and redefine the most basic aspects of digital technologies in the practices of speakers from various backgrounds. 
+        Presided over by Marcello Vitali-Rosati and Antoine Fauchié, this multilingual round table will give the floor to speakers from different backgrounds to think and redefine the most fundamental aspects of digital technologies according to their worldviews. 
       biography : |
-        Margot Mellet ; Emmanuel Chateau-Dutier ; Servanne Monjour ; and many more. 
+        Marcello Vitali-Rosati ; Antoine Fauchié ; Margot Mellet ; Dominic Forest ; Emmanuel Château-Dutier ; Servanne Monjour ; Irene Stigliano. 
       venue : "C-6070-9"
       time : "10.15 AM"
 
