@@ -22,7 +22,7 @@ Les chercheurs et les étudiants participeront à une formation rapide sur l'API
 Chaque équipe sera constituée d'au moins un invité au profil technologique, et d'un autre au profil philologique, pour aider et guider les projets sélectionnés.
 {{</ faq >}}
 
-{{< faq "Sujets" >}}
+<!-- {{< faq "Sujets" >}}
 Chaque table de discussion se verra proposer une liste de sujets potentiels, qu'elle pourra utiliser ou écarter comme bon lui semble.
 
 Quelques exemples de thèmes et d'idées :
@@ -45,7 +45,7 @@ Quelques exemples de thèmes et d'idées :
 - 14h00 : Encore du travail !
 - 17h00 : Présentation des prototypes 
 - 18h00 : Remise des prix et fin de la journée 
-{{</ faq >}}
+{{</ faq >}} -->
 
 {{< faq "Prix" >}}
 Les participants seront invités à voter pour leur projet préféré et une bourse sera offerte aux étudiants afin de développer/réaliser le projet gagnant.

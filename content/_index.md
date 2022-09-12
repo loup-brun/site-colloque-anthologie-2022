@@ -15,7 +15,7 @@ banner:
     day : 24
   button:
     enable : true
-    label : "Link (coming soon)"
+    label : "Lien (à venir)"
     link : "#"
 
 

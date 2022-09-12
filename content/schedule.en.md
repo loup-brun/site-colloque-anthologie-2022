@@ -29,7 +29,7 @@ tab:
       time : "09.30 AM"
 
     - speaker :
-      pause : "[SESSION 1] The scientific news of the *Greek Anthology*."
+      pause : "[SESSION 1] The Scientific News of the *Greek Anthology*."
       subject :
       abstract :
       biography :
@@ -72,7 +72,7 @@ tab:
       time : "12.00 AM"
 
     - speaker :
-      pause : "[SESSION 2] Valuation and pedagogy of the anthological imagination."
+      pause : "[SESSION 2] Valuation and Pedagogy of the Anthological Imagination."
       subject :
       abstract :
       biography :
@@ -140,7 +140,7 @@ tab:
       time : "09.00 AM"
 
     - speaker :
-      pause : "[SESSION 3] Digital editing of classic texts."
+      pause : "[SESSION 3] Digital Editing of Classic Texts."
       subject :
       abstract :
       biography :
@@ -148,7 +148,7 @@ tab:
       time : 
 
     - speaker : "Marie-Claire BEAULIEU (Tufts University, Classics)"
-      subject : "Revealing latent information in a reference text: the digital edition of the *Glossary of Greek Birds*"
+      subject : "Revealing Latent Information in a Reference Text: the Digital Edition of the *Glossary of Greek Birds*"
       abstract : |
         This contribution explores the opportunities offered by digital publishing for non-linear texts. Like the *Palatine Anthology*, D'Arcy Thompson's *Glossary of Greek Birds* (1896 and 1936) was designed to be read flexibly according to the reader's interests and cross-reference networks. While it is primarily a reference work - essentially a list of Greek bird names combined with ornithological identification through descriptions provided by ancient texts - the most interesting aspect of the *Glossary* is what it does not explicitly say, for the references to the ancient texts cover a wealth of information about the literary, mythological, and historical associations of the birds cited as well as the relationships among them. This paper will detail the encoding techniques and processes such as formal concept analysis employed by the project to bring out this information and use it as a tool to navigate through the text.
       biography : |
@@ -185,7 +185,7 @@ tab:
       time : "12.00 AM"
 
     - speaker :
-      pause : "[SESSION 4] Computational approaches applied to Hellenistic studies."
+      pause : "[SESSION 4] Computational Approaches Applied to Hellenistic Studies."
       subject :
       abstract :
       biography :
@@ -197,9 +197,9 @@ tab:
     - speaker : "Giuseppe CELANO (Universität Leipzig Institute of Computer Science)"
       subject : "*Opera Graeca Adnotata*: an open source corpus for annotated Ancient Greek texts."
       abstract : |
-        This contribution aims to present the *Opera Graeca Adnotata* (OGA) corpus. OGA provides morphosyntactic annotations for most Ancient Greek texts of the Perseus Digital Library. More precisely, OGA contains 489 annotated files (6,488,472 tokens and 347,517 sentences). In order for the corpus to be scalable, annotations in OGA are standoff following the PAULA XML formalism. Currently, the OGA corpus represents the largest open source annotated resource for Ancient Greek, in that both texts and the attached annotations can be freely queried and reused under a CC BY-NC 4.0 licence.
+        This contribution aims to present the Opera Graeca Adnotata (OGA) corpus. OGA provides morphosyntactic annotations for most Ancient Greek texts of the Perseus Digital Library. More precisely, OGA contains 489 annotated files (6,488,472 tokens and 347,517 sentences). In order for the corpus to be scalable, annotations in OGA are following PAULA XML formalism. Currently, the OGA corpus represents the largest open source annotated resource for Ancient Greek, in that both texts and the attached annotations can be freely queried and reused under a CC BY-NC 4.0 licence.
       biography : |
-        Giuseppe Celano's academic profile is situated at the very interface between humanities (linguistics and classics) and computer science. he started his academic career as a classicist, with a focus on the study of Ancient Greek and Latin grammar. He earned his PhD in Classical Philology in 2008, with a thesis on word order in Plato's Phaedo. He was a research fellow for a German-Italian research project on argument structure in Ancient Greek and Yucatec Maya, run at the University of Erfurt and Pavia, in 2012-2013. Subsequently, in late 2013, he joined the Humboldt Chair of Digital Humanities at Leipzig University to work on the treebank of Ancient Greek and Latin. In April 2018, he joined the Natural Language Processing group of Leipzig University, where he worked until September 2018 on a DFG (Deutsche Forschungsgemeinschaft) project on actionality classes and coding asymmetries. In the same Institute, he has been an independent DFG researcher since October 2018, working on annotation of Ancient Greek and Latin data. 
+        Giuseppe Celano’s academic profile is at the intersection between humanities (linguistics and classics) and computer science. He started his academic career as a classicist, with a focus on the study of Ancient Greek and Latin grammar. He earned his PhD in Classical Philology in 2008, with a thesis on word order in Plato’s Phaedo. He was a research fellow for a German-Italian research project on the structure of the argument in Ancient Greek and Yucatec Mayan, run at the University of Erfurt and Pavia, from 2012-2013. Subsequently, in late 2013, he joined the Humboldt Chair of Digital Humanities at Leipzig University to work on Ancient Greek and Latin treebanks. In April 2018, he joined the Natural Language Processing Group of Leipzig University, where he worked until September 2018 on a DFG (Deutsche Forschungsgemeinschaft) project on actionality classes and coding asymmetries. In the same Institute, he has been an independent DFG researcher since October 2018, working on the annotation of Ancient Greek and Latin data. 
       venue : "Online"
       time : "1.00 PM"
 
@@ -207,7 +207,7 @@ tab:
     - speaker : "Kyle P. JOHNSON (TikTok; Founder and Co-Maintainer of the Classical Language Toolkit (CLTK))"
       subject : "Feature Importance for Authorship Attribution of Ancient Greek Pseudepigrapha and Forgeries."
       abstract : |
-        In its simplest form, authorship attribution compares a single suspect text to a larger body of known-authentic texts by identifying anachronisms of history, grammar, and vocabulary. For instance, Lorenzo Valla refuted ancient authorship of the *Donatio Constantini* by finding grammatical mistakes and turns of phrase that would have been implausible in the 4th century. While the textual critic chooses distinguishing characteristics relevant to the investigation of a specific text, can we generalize about how useful particular features are across all authorship inquiries? This lecture provides quantitative information about the relative importance of categories of features (part-of-speech, syntax, vocabulary, and semantics) to three types of authorship attribution tasks: 1) disambiguation of two authors of the same genre (e.g., Thucydides vs. Polybius); 2) pseudepigrapha, anonymous texts mistakenly attributed during antiquity or the Middle Ages to a known author (e.g., Aristotle vs. Pseudo-Aristotle); and 3) forgeries from the Renaissance through the early Modern era (e.g., Erasmus's *De duplici martyrio*). In a series of experiments, attribution of dubious texts is approached as a supervised machine learning task. Using features directly from the Classical Language Toolkit (CLTK) and the same non-optimized algorithm for each comparison, this investigation provides insights into both stylometry for Ancient Greek literature and the utility of the natural language processing (NLP) for authorship attribution.
+        In its simplest form, authorship attribution compares a single suspect text to a larger body of known-authentic texts by identifying anachronisms of history, grammar, and vocabulary. For instance, Lorenzo Valla refuted ancient authorship of the *Donatio Constantini* by finding grammatical mistakes and turns of phrase that would have been implausible in the 4<sup>th</sup> century. While the textual critic chooses distinguishing characteristics relevant to the investigation of a specific text, can we generalize about how useful particular features are across all authorship inquiries? This lecture provides quantitative information about the relative importance of categories of features (part-of-speech, syntax, vocabulary, and semantics) to three types of authorship attribution tasks: 1) disambiguation of two authors of the same genre (e.g., Thucydides vs. Polybius); 2) pseudepigrapha, anonymous texts mistakenly attributed during antiquity or the Middle Ages to a known author (e.g., Aristotle vs. Pseudo-Aristotle); and 3) forgeries from the Renaissance through the early Modern era (e.g., Erasmus's *De duplici martyrio*). In a series of experiments, attribution of dubious texts is approached as a supervised machine learning task. Using features directly from the Classical Language Toolkit (CLTK) and the same non-optimized algorithm for each comparison, this investigation provides insights into both stylometry for Ancient Greek literature and the utility of the natural language processing (NLP) for authorship attribution.
       biography : |
         Kyle P. Johnson works at the intersection of Classics and Natural Language Processing (NLP). He has a Ph.D. in Classics (NYU, 2012) and now works in industry. Having published on Homer and written a dissertation on Julius Caesar, he now devotes his research to the Classical Language Toolkit (CLTK), an open source software project that intends to offer NLP to the roughly 200 extant pre-modern languages.
       venue : "C-6070-9"
@@ -225,18 +225,18 @@ tab:
     - speaker : "Marcus PÖCKELMANN - (Martin-Luther-Universität Halle-Wittenberg, Institute of Computer Science)"
       subject : "The Aftermath of Plato. Searching for Traces in Vector Space."
       abstract : |
-        This lecture presents different approaches and tools we developed within the project Digital Plato for the investigation of the aftermath and reception of Plato’s work. The essential aspect was the search for intertextual references to Plato in Ancient Greek literature, especially text passages that have been paraphrased by other authors. One of our approaches, which will be explained here in detail, makes use of word embeddings and the Word Mover’s Distance (WMD) in particular to identify them. It was integrated into a comprehensive, web-based work environment that allows the exploratory analysis of such references. In fact, the tools developed for the Platonic works became so generic, that the application for studying the development of the aftermath and reception of other ancient authors within the corpus is possible too.
+        This lecture presents different approaches and tools we developed within the project Digital Plato for the investigation of the aftermath and reception of Plato’s work. The essential aspect was the search for intertextual references to Plato in ancient Greek literature, especially text passages that have been paraphrased by other authors. One of our approaches, which will be explained here in detail, makes use of word embeddings and the Word Mover’s Distance (WMD) in particular to identify them. It was integrated into a comprehensive, web-based work environment that allows the exploratory analysis of such references. In fact, the tools developed for the Platonic works have become so generic that they can also be applied to the study of aftermath and reception development of other ancient authors within the corpus.
       biography : |
-         Marcus Pöckelmann studied computer science at the Martin Luther University Halle-Wittenberg (Master 2013) and has been a member of the research group Molitor/Ritter since 2013. Within several interdisciplinary research projects he develops web-based applications for the investigation of intertextuality together with colleagues from different disciplines of the humanities. These include the working environments *LERA* for the analysis of complex text variants for scholarly editions, and Paraphrasis for the retrieval and evaluation of paraphrased text passages in the ancient Greek literature.
+         Marcus Pöckelmann studied Computer Science at the Martin Luther University Halle-Wittenberg (Master’s 2013) and has been a member of the research group Molitor/Ritter since 2013. Within several interdisciplinary research projects, he develops web-based applications for the investigation of intertextuality together with colleagues from different disciplines of the humanities. These include the working environments LERA for the analysis of complex text variants for scholarly editions, and Paraphrasis for the retrieval and evaluation of paraphrased text passages in ancient Greek literature.
       venue : "C-6070-9"
       time : "2.45 PM"
     # speaker
     - speaker : "Marianne REBOUL (École Normale Supérieure de Lyon, Institut d'histoire des représentations et des idées dans la modernité)"
       subject : "AI for ancient languages, insights for small corpus processing."
       abstract : |
-        Language modeling systems via *deep learning* are dependent on clean and massive data. However, such data does not exist for all languages and all eras. It is therefore necessary to go through other less traditional ways, especially if we want to study the way ancient texts were translated. Indeed, translations are only loosely aligned with the various source texts to which they refer, especially since translation modes and requirements change over time. The challenge of AI for translatology and ancient languages is therefore, among other things, to study the evolution of the perception and transmission of ancient texts "blindly", i.e. without any theoretical preconceptions, in order to re-examine previously unverifiable hypotheses and, if necessary, to propose new ones. We propose to apply our reflection to a particular case study, the French translations of the *Iliad* and the *Odyssey* of the 16th and 17th centuries.
+        Language modeling systems via deep learning are dependent on clean and massive data. However, such data does not exist for all languages and all eras. It is therefore necessary to go through other less traditional ways, especially if we want to study the way ancient texts were translated. Indeed, translations are only loosely aligned with the various source texts to which they refer, especially since translation modes and requirements change over time. The challenge of AI use for translatology and ancient languages is found therefore, among other things, in the “blind” study of ancient texts’ perception and transmission evolution, i.e. without any theoretical preconceptions, in order to re-examine previously unverifiable hypotheses and, if necessary, to propose new ones. We propose to apply our reflection to a particular case study, the 16<sup>th</sup> and 17<sup>th</sup>-century French translations of the *Iliad* and the *Odyssey*.
       biography : |
-        Marianne Reboul is a lecturer in Digital Humanities at the École Normale Supérieure de Lyon, specializing in digital humanities and classics, more precisely in "digital classics". She works in particular on the application of artificial intelligence techniques to ancient languages.
+        Marianne Reboul is a lecturer in Digital Humanities at the École Normale Supérieure de Lyon, specializing in digital humanities and classics, more precisely in “digital classics”. She works in particular on the application of artificial intelligence techniques to ancient languages.
       venue : "C-6070-9"
       time : "3.30 PM"
 

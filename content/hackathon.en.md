@@ -20,7 +20,7 @@ Coming soon.
 Considering the vast array of skills and knowledge of the participants, we want to keep the objectives as flexible as possible. Thus, we offer only one guideline: each project must make use of the corpus in a creative and technical way. Scholars and students alike will participate in a quick training on the API and corpus, and in a brainstorming session, before pitching projects to the participants. Each team will be constituted of at least one guest with a technological profile and another with a philological profile, to help guide the selected projects.
 {{</ faq >}}
 
-{{< faq "Subjects" >}}
+<!-- {{< faq "Subjects" >}}
 Each discussion group will be given a list of potential subjects. They are welcome to use or discard them as they see fit.
 
 Some examples of themes and ideas :
@@ -43,7 +43,7 @@ Some examples of themes and ideas :
 - 2:00 p.m.: More work!
 - 5:00 p.m.: Presentation of the prototypes
 - 6:00 p.m.: Awards ceremony and end of the day
-{{</ faq >}}
+{{</ faq >}} -->
 
 {{< faq "Prize" >}}
 Participants will be asked to vote for their favourite project and a grant for student involvement will be offered to further develop the winning project.
