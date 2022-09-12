@@ -132,7 +132,7 @@ tab:
       time : "09H00"
 
     - speaker :
-      pause : "[SESSION 3] Édition numérique de textes classiques."
+      pause : "[SESSION 3] Culture classique, pratiques numériques."
       subject :
       abstract :
       biography :

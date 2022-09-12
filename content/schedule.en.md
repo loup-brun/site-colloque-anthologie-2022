@@ -134,7 +134,7 @@ tab:
       time : "09.00 AM"
 
     - speaker :
-      pause : "[SESSION 3] Digital Editing of Classic Texts."
+      pause : "[SESSION 3] Classical Culture, Digital Practices."
       subject :
       abstract :
       biography :
