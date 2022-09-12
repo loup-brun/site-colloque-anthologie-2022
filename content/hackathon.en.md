@@ -13,7 +13,7 @@ In multidisciplinary teams, participants will compete to present prototypes that
 {{</ faq >}}
 
 {{< faq "Description of the data sets" >}}
-Developed within the framework of the project "For a collaborative digital edition of the *Greek Anthology*" led by the Canada Research Chair on Digital Writings, the API containing the data for the hackathon is available [here](https://anthologiagraeca.org/api/).  
+Developed as part of the project “For A Collaborative Digital Edition of the Greek Anthology” led by the Canada Research Chair on Digital Textualities, the API containing the data for the hackathon is available [here](https://anthologiagraeca.org/api/).  
 It provides a JSON representation of all the data in the platform.
 {{</ faq >}}
 
@@ -47,5 +47,5 @@ Some examples of themes and ideas :
 {{</ faq >}} -->
 
 {{< faq "Prize" >}}
-Participants will be asked to vote for their favourite project and a grant for student involvement will be offered to further develop the winning project.
+Participants will be asked to vote for their favourite project, and a grant will be offered by the Chair to students involved in the further development of the winning project.
 {{</ faq >}}
