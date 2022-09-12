@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: normal;
+  src: url("/anthologia/site-colloque-anthologie-2022/fonts/alegreya/Alegreya-Regular.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: normal;
+  src: url("/anthologia/site-colloque-anthologie-2022/fonts/alegreya/Alegreya-Italic.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 600;
+  src: url("/anthologia/site-colloque-anthologie-2022/fonts/alegreya/Alegreya-Medium.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 600;
+  src: url("/anthologia/site-colloque-anthologie-2022/fonts/alegreya/Alegreya-MediumItalic.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 700;
+  src: url("/anthologia/site-colloque-anthologie-2022/fonts/alegreya/Alegreya-Bold.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 700;
+  src: url("/anthologia/site-colloque-anthologie-2022/fonts/alegreya/Alegreya-BoldItalic.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 800;
+  src: url("/anthologia/site-colloque-anthologie-2022/fonts/alegreya/Alegreya-ExtraBold.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 900;
+  src: url("/anthologia/site-colloque-anthologie-2022/fonts/alegreya/Alegreya-ExtraBoldItalic.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Alegreya ';
+  font-style: normal;
+  font-weight: 900;
+  src: url("/anthologia/site-colloque-anthologie-2022/fonts/alegreya/Alegreya-Black.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 900;
+  src: url("/anthologia/site-colloque-anthologie-2022/fonts/alegreya/Alegreya-BlackItalic.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Alegreya SC';
+  font-style: normal;
+  font-weight: normal;
+  src: url("/anthologia/site-colloque-anthologie-2022/fonts/alegreya/AlegreyaSC-Regular.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Alegreya SC';
+  font-style: italic;
+  font-weight: normal;
+  src: url("/anthologia/site-colloque-anthologie-2022/fonts/alegreya/AlegreyaSC-Italic.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Alegreya SC';
+  font-style: normal;
+  font-weight: 700;
+  src: url("/anthologia/site-colloque-anthologie-2022/fonts/alegreya/AlegreyaSC-Bold.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Alegreya SC';
+  font-style: italic;
+  font-weight: 700;
+  src: url("/anthologia/site-colloque-anthologie-2022/fonts/alegreya/AlegreyaSC-BoldItalic.woff") format("woff"); }
