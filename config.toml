@@ -1,6 +1,7 @@
 ######################## default configuration ####################
 baseURL = "/"
-title = ""
+# voir fichier config/_default/languages.toml
+title = "Colloque Navigations"
 #theme = ""
 #themesDir = "../.."
 # post pagination

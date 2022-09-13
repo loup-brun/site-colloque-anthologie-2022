@@ -3,6 +3,12 @@
 [fr]
   # français d’abord
   weight = 1
+  title = "Colloque"
+  description = ""
 [en]
-  title = ''
+  title = "Colloquium"
+  description = ""
   weight = 2
+
+[it]
+  weight = 3
