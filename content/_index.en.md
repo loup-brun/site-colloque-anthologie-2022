@@ -1,6 +1,7 @@
 ---
 # page kind "home" dans Hugo (facultative si le fichier est nommé "_index.md")
 kind: home
+title: "Home"
 
 ################# Banner ###################
 banner:
