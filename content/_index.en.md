@@ -50,7 +50,6 @@ tab:
   enable : true
   title : "Schedule"
   content : ""
-  # Il faut rajouter une ligne pour l'accueil et une ligne pour la présentation/introduction ; pour les temps de discussion.., la pause dej,..
   tablist:
   # tab item
   - name : "Day 01"
@@ -61,7 +60,7 @@ tab:
     - speaker : "Lucia FLORIDI (Alma Mater Studiorum - Università di Bologna)"
       subject : "Editing Greek epigrams. Methods and problems."
       abstract:  |
-        Our knowledge of Greek epigrammatic poetry is mainly based on two fundamental works: the *Palatine Anthology* (PA) and the *Anthology of Planudes* (APl). Minor works are added to these, called *Syllogae Minores*. Some epigrams are also known through indirect tradition (authors like Athenaeus), or transmitted from papyri or inscriptions. The editors of the Anthology are thus confronted with a complex and changing textual translation, ranging from a textus unicus to much more varied situations. I will illustrate, in the course of my presentation, the main problems - of critical, textual and exegetical nature - that I have encountered in my capacity as editor of several epigrammatic authors (Strato, Lucillius, Hedylus in particular).
+        Our knowledge of Greek epigrammatic poetry is mainly based on two fundamental works: the *Palatine Anthology* (PA) and the *Anthology of Planudes* (APl). Minor works are added to these, called *Syllogae Minores*. Some epigrams are also known through indirect tradition (with authors like Athenaeus), or transmitted from papyri or inscriptions. The editors of the *Anthology* are thus confronted with a complex and changing textual translation, going from a *textus unicus* to much more varied situations. I will illustrate, in the course of my presentation, the main problems - of critical, textual and exegetical nature - that I have encountered in my capacity as editor of several epigrammatic authors (Strato, Lucillius, Hedylus in particular).
       biography : |
         Lucia Floridi is an Associate Professor in Classical and Late Antique Philology at the Department of Classical Philology and Italianistics of the Alma Mater Studiorum - University of Bologna. Her main research interests concern Greek and Latin epigrams, with a focus on the erotic and scoptic genres, Hellenistic poetry, prose poetry of the imperial age, and the relationship between literature and the visual arts. Among her major publications, *Stratone di Sardi. Epigrammi* (Edizioni Dell’Orso, 2007), *Lucillio. Epigrammi* (De Gruyter, 2014), *Edilo. Epigrammi* (De Gruyter, 2020), as well as numerous contributions on authors such as Pallas, Ausonius, Longo Sophista, and Lucian.
       venue : "C-6070-9"

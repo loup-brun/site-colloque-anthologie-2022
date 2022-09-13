@@ -52,7 +52,6 @@ tab:
   enable : true
   title : "Schedule"
   content : ""
-  # Il faut rajouter une ligne pour l'accueil et une ligne pour la présentation/introduction ; pour les temps de discussion.., la pause dej,..
   tablist:
   # tab item
   - name : "Jour 01"
@@ -63,7 +62,7 @@ tab:
     - speaker : "Lucia FLORIDI (Alma Mater Studiorum - Università di Bologna)"
       subject : "Éditer les épigrammes grecques. Méthodes et problèmes."
       abstract:  |
-        Notre connaissance de la poésie épigrammatique grecque se fonde principalement sur deux recueils fondamentaux : l'*Anthologie Palatine* (AP) et l'*Anthologie de Planude* (APl). À ceux-ci s'ajoutent des collections mineures, appellées *Syllogae Minores*. Certaines épigrammes sont également connues grâce à la tradition indirecte (des auteurs comme Athénée), ou transmise à partir de papyri ou d'inscriptions. Les éditeurs de l'Anthologie sont donc confrontés à une traduction textuelle complexe et changeante, allant d'un textus unicus à des situations bien plus variées. J'illustrerai, au cours de ma présentation, les principaux problèmes - de nature critique, textuelle et exégétique - que j'ai rencontrés en qualité d'éditrice de plusieurs auteurs d'épigrammes (Straton, Lucillius, Hédyle notamment).
+        Notre connaissance de la poésie épigrammatique grecque se fonde principalement sur deux recueils fondamentaux : l'*Anthologie Palatine* (AP) et l'*Anthologie de Planude* (APl). À ceux-ci s'ajoutent des collections mineures, appellées *Syllogae Minores*. Certaines épigrammes sont également connues grâce à la tradition indirecte (par des auteurs comme Athénée), ou transmises à partir de papyri ou d'inscriptions. Les éditeurs de l'*Anthologie *sont donc confrontés à une traduction textuelle complexe et changeante, allant d'un *textus unicus* à des situations bien plus variées. J'illustrerai, au cours de ma présentation, les principaux problèmes - de nature critique, textuelle et exégétique - que j'ai rencontrés en qualité d'éditrice de plusieurs auteurs d'épigrammes (Straton, Lucillius, Hédyle notamment).
       biography : |
         Lucia Floridi est professeure associé en philologie classique et tardo-antique au département de philologie classique et d'italianistique de l'Alma Mater Studiorum - Université de Bologne. Ses principaux intérêts de recherche concernent les épigrammes grecques et latines, plus particulièrement les genres érotique et scoptique, la poésie hellénistique, la poésie en prose de l'âge impérial, mais aussi la relation entre la littérature et les arts visuels. Parmi ses principales publications, *Stratone di Sardi. Epigrammi* (Edizioni Dell'Orso, 2007), *Lucillio. Epigrammi* (De Gruyter, 2014), *Edilo. Epigrammi* (De Gruyter, 2020), ainsi que de nombreuses contributions sur des auteurs tels que Pallas, Ausonius, Longo Sophista et Lucian.
       venue : "C-6070-9"

@@ -9,7 +9,7 @@ layout : "hackathon"
 
 
 {{< faq "Description du hackathon" >}}
-Au sein d’équipes pluridisciplinaires, les participants seront mis en compétition pour présenter des prototypes qui utilisent des méthodes algorithmiques pour explorer et analyser le corpus de l’*Anthologie grecque*. Les participants auront l’occasion de tester les API du projet (« Pour une édition numérique collaborative de l’*Anthologie grecque* ») et celles de nos partenaires (comme la Bibliothèque palatine de Heidelberg, ou la Bibliothèque numérique Perseus). Cette dernière journée permettra d’utiliser comme tremplin ce qui a été produit pendant le projet Anthologie grecque et l’atelier, mais aussi de faire émerger de nouvelles potentialités de recherche.
+Au sein d’équipes pluridisciplinaires, les participants seront mis en compétition pour présenter des prototypes utilisant des méthodes algorithmiques afin d'explorer et d'analyser le corpus de l’*Anthologie grecque*. Les participants auront l’occasion de tester les API du projet (« Pour une édition numérique collaborative de l’*Anthologie grecque* ») et celles de nos partenaires (comme la Bibliothèque palatine de Heidelberg, ou la Bibliothèque numérique Perseus). Cette dernière journée permettra d’utiliser comme tremplin ce qui a été produit pendant le projet « Anthologie grecque » de la CRCEN d'une part, pendant les journées d'étude d'autre part, tout en faisant émerger de nouvelles potentialités de recherche.
 {{</ faq >}}
 
 {{< faq "Description de l'API" >}}
@@ -18,8 +18,8 @@ Elle fournit une représentation au format JSON de toutes les données de la pla
 {{</ faq >}}
 
 {{< faq "Objectifs" >}}
-Compte tenu du large éventail de compétences et de connaissances des participants, nous souhaitons que les objectifs restent aussi ouverts que possible. Ainsi, nous ne proposons qu'une seule ligne directrice : chaque projet doit faire usage du corpus de manière créative et technique. 
-Les chercheurs et les étudiants participeront à une formation rapide sur l'API et le corpus, ainsi qu'à une session de brainstorming avant de présenter les projets aux participants.
+Compte tenu du large éventail de compétences et de connaissances des participants, nous souhaitons que les objectifs restent aussi ouverts que possible. Ainsi, nous ne proposons qu'une seule ligne directrice : chaque projet doit faire usage du corpus de manière créative et technique.  
+Les chercheurs et les étudiants participeront à une formation rapide sur l'API et le corpus, ainsi qu'à une session de brainstorming avant de présenter les projets aux participants.  
 Chaque équipe sera constituée d'au moins un invité au profil technologique, et d'un autre au profil philologique, pour aider et guider les projets sélectionnés.
 {{</ faq >}}
 
@@ -49,5 +49,5 @@ Quelques exemples de thèmes et d'idées :
 {{</ faq >}} -->
 
 {{< faq "Prix" >}}
-Les participants seront invités à voter pour leur projet préféré, et une subvention sera décernée par la Chaire aux étudiants souhaitant s'impliquer dans le développement et la réalisation futurs du projet gagnant.
+Les participants seront invités à voter pour leur projet préféré, et une subvention sera décernée par la CRCEN aux étudiant·e·s souhaitant s'impliquer dans le développement et la réalisation futurs du projet gagnant.
 {{</ faq >}}
