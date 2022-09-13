@@ -70,7 +70,7 @@ logo = "images/empreinte-digitale.png"
 logo_footer = "https://wpchaire.ecrituresnumeriques.ca/wp-content/uploads/2018/08/logo-fr-1.svg"
 logo_width = "auto"
 # Meta data
-description = "Website of the Workshop named \"Anthological Navigations\", organized by CRCDT and held at the University of Montreal from the 27th to 29th of October 2022."
+#description = ""
 author = "Mathilde Verstraete, Roch Delannay, Louis-Olivier Brassard, Arilys Jia."
 # contact form action
 contact_form_action = "https://formspree.io/f/mnqrnvny" # contact form works with https://formspree.io
