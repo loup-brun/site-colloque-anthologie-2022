@@ -20,12 +20,12 @@ tab:
     # [SESSION 1] : "L’actualité scientifique de l’*Anthologie grecque*."
     # speaker
     - speaker :
-      pause : "Welcome"
+      pause : "Welcome and breakfast"
       subject :
       abstract :
       biography :
       venue :
-      time : "09.30 AM"
+      time : "09.00 AM"
 
     - speaker :
       pause : "[SESSION 1] The Scientific News of the *Greek Anthology*."
@@ -57,7 +57,7 @@ tab:
       abstract : |
         Since 2014, the Canada Research Chair in Digital Textualities (CRCDT) is working on a wide project: a digital and collaborative edition of the *Greek Anthology*. Just like the anthological corpus, the edition's platform has undergone multiple reconfigurations. This talk aims to review the challenges and stakes of this vast project and to specify its technical ins and outs.  
       biography : |
-        Marcello Vitali-Rosati, Mathilde Verstraete, Margot Mellet, Luiz Capelo 
+        Marcello Vitali-Rosati, Mathilde Verstraete, Margot Mellet
       venue : "C-6070-9"
       time : "11.15 AM"
     # speaker
@@ -130,7 +130,7 @@ tab:
       abstract :
       biography :
       venue :
-      time : "09.00 AM"
+      time : "08.30 AM"
 
     - speaker :
       pause : "[SESSION 3] Classical Culture, Digital Practices."
@@ -147,7 +147,7 @@ tab:
       biography : |
         Marie-Claire Beaulieu is a professor of Classical Studies at Tufts University. Her main research areas are Greek mythology (including Greek religion and the role of women in Greek mythology) and Digital Humanities. She co-directed the Perseids project : a large initiative to build infrastructures in the field of digital humanities, through the design of collaborative editing and annotation software. Marie-Claire Beaulieu is also interested in the use of the digital medium to foster greater engagement with the ancient world through the study of language, art and culture.
       venue : "Online"
-      time : "9.15 AM"
+      time : "9.00 AM"
 
     - speaker :
       pause : "Coffee Break"
@@ -159,13 +159,13 @@ tab:
 
     # speaker
     - speaker : |
-        Marcello Vitali-Rosati ; Antoine Fauchié ; Margot Mellet ; Dominic Forest ; Emmanuel Château-Dutier ; Servanne Monjour ; Irene Stigliano.
+        Marcello Vitali-Rosati ; Arilys Jia ; Margot Mellet ; Dominic Forest ; Emmanuel Château-Dutier ; Servanne Monjour ; Irene Stigliano.
       subject : "**Round-table Discussion** : Today, in the Digital Era…."
       abstract : |
-        Presided over by Marcello Vitali-Rosati and Antoine Fauchié, this multilingual round table will give the floor to speakers from different backgrounds to think and redefine the most fundamental aspects of digital technologies according to their worldviews. 
+        Presided over by Marcello Vitali-Rosati and Arilys Jia, this multilingual round table will give the floor to speakers from different backgrounds to think and redefine the most fundamental aspects of digital technologies according to their worldviews. 
       biography : 
       venue : "C-6070-9"
-      time : "10.15 AM"
+      time : "10.30 AM"
 
           # speaker
     - speaker :
@@ -242,7 +242,7 @@ tab:
       abstract : |
         In pluridisciplinary teams, participants will compete to present prototypes that use algorithmic methods in order explore and analyse the corpus of the *Greek Anthology*. Participants will have the opportunity to test the project’s APIs ("For a digital and collaborative edition of the *Greek Anthology*") and our partners' (such as the Palatine Library of Heidelberg, or the Perseus Digital Library). This last day will allow the use of what was produced during the CRCEN's « Greek Anthology » project on the one hand, and during the workshop on the other hand, while bringing out new potentialities of research.
       venue : "C-6070-9"
-      time : "9.00 AM - 5.00 PM"
+      time : "08.30 AM - 5.00 PM"
 
 
 ---

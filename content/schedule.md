@@ -20,12 +20,12 @@ tab:
     # [SESSION 1] : "L’actualité scientifique de l’*Anthologie grecque*."
     # speaker
     - speaker :
-      pause : "Accueil"
+      pause : "Accueil et croissants"
       subject :
       abstract :
       biography :
       venue :
-      time : "09H30"
+      time : "09H00"
 
     - speaker :
       pause : "[SESSION 1] L’actualité scientifique de l’*Anthologie grecque*."
@@ -58,7 +58,7 @@ tab:
       résumé : |
         Depuis 2014, la Chaire de recherche du Canada sur les écritures numériques (CRCEN) travaille sur un projet d'envergure : une édition numérique collaborative de l'*Anthologie grecque*. Tout comme le corpus anthologique, la plateforme de l'édition a connu de nombreuses reconfigurations. Cette présentation cherche à revenir sur les défis et les enjeux de ce vaste projet, et d'en préciser les aspects techniques.
       biography : |
-        Marcello Vitali-Rosati, Mathilde Verstraete, Margot Mellet, Luiz Capelo 
+        Marcello Vitali-Rosati, Mathilde Verstraete, Margot Mellet 
       venue : "C-6070-9"
       time : "11H15"
 
@@ -130,7 +130,7 @@ tab:
       abstract :
       biography :
       venue :
-      time : "09H00"
+      time : "08H30"
 
     - speaker :
       pause : "[SESSION 3] Culture classique, pratiques numériques."
@@ -147,7 +147,7 @@ tab:
       biographie : |
         Marie-Claire Beaulieu est professeure en études classiques à la Tufts University. Ses principaux domaines de recherche sont la mythologie grecque (y compris la religion grecque et le rôle des femmes dans la mythologie grecque) et les humanités numériques. Elle a codirigé le projet *Perseids* : une vaste initiative visant à construire des infrastructures dans le domaine des humanités numériques, par la conception de logiciels d’édition et d’annotation collaboratifs. Marie-Claire Beaulieu s’intéresse également à l’utilisation du support numérique pour favoriser un plus grand engagement avec le monde antique à travers l’étude de la langue, de l’art et de la culture.      
       venue : "En ligne"
-      time : "09H15"
+      time : "09H00"
 
     - speaker :
       pause : "Pause café"
@@ -159,10 +159,10 @@ tab:
 
     # speaker
     - speaker : |
-        Marcello Vitali-Rosati ; Antoine Fauchié ; Margot Mellet ; Dominic Forest ; Emmanuel Château-Dutier ; Servanne Monjour ; Irene Stigliano.
+        Marcello Vitali-Rosati ; Arilys Jia ; Margot Mellet ; Dominic Forest ; Emmanuel Château-Dutier ; Servanne Monjour ; Irene Stigliano.
       subject : "**Table Ronde** : Aujourd’hui, à l’époque du numérique,…"
       résumé : |
-        Présidée par Marcello Vitali-Rosati et Antoine Fauchié, cette table ronde multilingue donnera la parole à des intervenants d'horizons divers afin de penser et redéfinir les aspects les plus fondamentaux des technologies numériques selon leurs visions du monde 
+        Présidée par Marcello Vitali-Rosati et Arilys Jia, cette table ronde multilingue donnera la parole à des intervenants d'horizons divers afin de penser et redéfinir les aspects les plus fondamentaux des technologies numériques selon leurs visions du monde 
       biographie:
       venue : "C-6070-9"
       time : "10H30"
@@ -241,7 +241,7 @@ tab:
       résumé : |
         Au sein d’équipes pluridisciplinaires, les participants seront mis en compétition pour présenter des prototypes utilisant des méthodes algorithmiques afin d'explorer et d'analyser le corpus de l’*Anthologie grecque*. Les participants auront l’occasion de tester les API du projet (« Pour une édition numérique collaborative de l’*Anthologie grecque* ») et celles de nos partenaires (comme la Bibliothèque palatine de Heidelberg, ou la Bibliothèque numérique Perseus). Cette dernière journée permettra d’utiliser comme tremplin ce qui a été produit pendant le projet « Anthologie grecque » de la CRCEN d'une part, pendant les journées d'étude d'autre part, tout en faisant émerger de nouvelles potentialités de recherche.
       venue : "C-6070-9"
-      time : "9H00 - 17h00"
+      time : "08H30 - 17h00"
 
 
 ---
