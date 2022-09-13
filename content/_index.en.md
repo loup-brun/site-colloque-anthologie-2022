@@ -37,7 +37,6 @@ about:
     label : "Read more"
     link : "about"
 
-
 ############ Registration ####################
 registration:
   enable : true
