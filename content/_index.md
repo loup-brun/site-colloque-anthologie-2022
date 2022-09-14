@@ -16,7 +16,7 @@ banner:
     day : 24
   button:
     enable : true
-    label : "Lien (à venir)"
+    label : "Lien Jitsi à venir"
     link : "#"
 
 
