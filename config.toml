@@ -111,7 +111,7 @@ location = "3150, Rue Jean-Brillant, Montréal (QC) H3T 1N8 Canada"
 metro = "Ligne bleue – Station Université-de-Montréal"
 bus = "Ligne 51"
 phone = "[00] 000 000 000"
-link = "#"
+link = "https://www.openstreetmap.org/#map=16/45.5012/-73.6221&layers=N"
 
 # cookies
 [params.cookies]

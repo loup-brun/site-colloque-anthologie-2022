@@ -54,8 +54,8 @@
 		<h4>{{.name | markdownify }}</h4>
 		<ul class="address-list p-0 m-0">
 			<li><i class="fa fa-home"></i><span>{{ .batiment | markdownify }}</span></li>
-			<li><i class="fa fa-home"></i><span>{{ .location | markdownify }}</span></li>
-			<li><i class="fa fa-phone"></i><span>{{ .metro | markdownify}}</span></li>
+			<li><i class="fa fa-info"></i><span>{{ .location | markdownify }}</span></li>
+			<li><i class="fa fa-subway"></i><span>{{ .metro | markdownify}}</span></li>
 			<li><i class="fa fa-bus"></i><span>{{ .bus | markdownify}}</span></li>
 		</ul>
 		<a href="{{ .link | absURL }}" class="btn btn-white-md">Get Direction</a>
