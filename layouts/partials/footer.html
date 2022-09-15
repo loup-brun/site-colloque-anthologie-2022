@@ -43,15 +43,20 @@
 {{ with site.Params.map }}
 <section class="map">
 	<!-- Google Map -->
-	<div id="map_canvas" data-latitude="{{ .map_latitude }}"
-  data-longitude="{{ .map_longitude }}" data-marker="{{ .map_marker | absURL }}"
-  data-marker-name="{{ site.Title }}">
-</div>
+	<!-- <div id="map_canvas" data-latitude="{{ .map_latitude }}"
+	data-longitude="{{ .map_longitude }}" data-marker="{{ .map_marker | absURL }}"
+	data-marker-name="{{ site.Title }}">
+	</div> -->
+	<div class="map-container">
+	<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-73.62668037414552%2C45.495759022791844%2C-73.60953569412233%2C45.502624827072474&amp;layer=mapnik&amp;marker=45.49918826955754%2C-73.61810803413391" style="border: 1px solid black"></iframe>
+	</div>
 	<div class="address-block">
 		<h4>{{.name | markdownify }}</h4>
 		<ul class="address-list p-0 m-0">
+			<li><i class="fa fa-home"></i><span>{{ .batiment | markdownify }}</span></li>
 			<li><i class="fa fa-home"></i><span>{{ .location | markdownify }}</span></li>
-			<li><i class="fa fa-phone"></i><span>{{ .phone | markdownify}}</span></li>
+			<li><i class="fa fa-phone"></i><span>{{ .metro | markdownify}}</span></li>
+			<li><i class="fa fa-bus"></i><span>{{ .bus | markdownify}}</span></li>
 		</ul>
 		<a href="{{ .link | absURL }}" class="btn btn-white-md">Get Direction</a>
 	</div>
