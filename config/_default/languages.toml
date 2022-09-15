@@ -7,11 +7,22 @@
   [fr.params]
     description = "Site web des Navigations anthologiques (journées d'étude) se déroulant à l'Université de Montréal du 27 octobre au 29 octobre 2022, organisées par la CRCEN."
     images = [ "/images/featured.png" ]
-  copyright = "Thème conçu par [Themefisher](https://themefisher.com/), développé par [Gethugothemes](https://gethugothemes.com/) et adapté par la [CRCÉN](https://ecrituresnumeriques.ca)"
+    copyright = "Thème conçu par [Themefisher](https://themefisher.com/), développé par [Gethugothemes](https://gethugothemes.com/) et adapté par la [CRCÉN](https://ecrituresnumeriques.ca)"
+    name = "Université de Montréal"
+    batiment = "Salle C-6070-9, Pavillon Lionel-Groulx"
+    location = "3150, Rue Jean-Brillant, Montréal (QC) H3T 1N8 Canada"
+    metro = "Ligne bleue, Station Université-de-Montréal"
+    bus = "Ligne 51"
 [en]
   title = "Anthological Navigations"
+  weight = 2
   [en.params]
     description = "Website of the Workshop Anthological Navigations, organized by CRCDT and held at the University of Montreal from the 27th to 29th of October 2022."
     images = [ "/images/featured.en.png" ]
-  weight = 2
-  copyright = "Theme designed by [Themefisher](https://themefisher.com/), developed by [Gethugothemes](https://gethugothemes.com/) and adapted by [CRCDT](https://ecrituresnumeriques.ca/en)"
+    copyright = "Theme designed by [Themefisher](https://themefisher.com/), developed by [Gethugothemes](https://gethugothemes.com/) and adapted by [CRCDT](https://ecrituresnumeriques.ca/en)"
+    name = "University of Montreal"
+    batiment = "Room C-6070-9, Pavillon Lionel-Groulx"
+    location = "3150, Rue Jean-Brillant, Montréal (QC) H3T 1N8 Canada"
+    metro = "Blue line, Station Université-de-Montréal"
+    bus = "Line 51"
+  

@@ -105,12 +105,11 @@ gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqO
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
-name = "Université de Montréal"
-batiment = "Salle C-6070-9, Pavillon Lionel-Groulx"
-location = "3150, Rue Jean-Brillant, Montréal (QC) H3T 1N8 Canada"
-metro = "Ligne bleue – Station Université-de-Montréal"
-bus = "Ligne 51"
-phone = "[00] 000 000 000"
+name = ""
+batiment = ""
+location = ""
+metro = ""
+bus = ""
 link = "https://www.openstreetmap.org/#map=16/45.5012/-73.6221&layers=N"
 
 # cookies
