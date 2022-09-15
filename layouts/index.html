@@ -167,6 +167,13 @@
                 <!-- <input type="text" name="phone" class="form-control main" placeholder="Phone"> -->
                 <div class="form-group">
                   <select class="form-control main" name="status" id="select-status">
+                    <option selected disabled>{{ i18n "Attendance" }}</option>
+                    <option value="Lecturer">{{ i18n "Online" }}</option>
+                    <option value="Student">{{ i18n "On site" }}</option>
+                  </select>
+                </div>
+                <div class="form-group">
+                  <select class="form-control main" name="status" id="select-status">
                     <option selected disabled>{{ i18n "Status" }}</option>
                     <option value="Lecturer">{{ i18n "Teacher" }}</option>
                     <option value="Student">{{ i18n "Grad student" }}</option>
