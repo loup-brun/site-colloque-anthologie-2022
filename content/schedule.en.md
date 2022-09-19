@@ -99,6 +99,14 @@ tab:
       venue : "Online"
       time : "1.45 PM"
 
+    - speaker :
+      pause : "Coffee Break"
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : "2.30 PM"
+
     - speaker : "Annalisa DI VINCENZO (Liceo classico Luca De Samuele Cagnazzi, Altamura)"
       subject : "Experiences and Perspectives of the Study of Ancient Greek Between School and *Digital Humanities*: a Possible *Fortleben* of the *Palatine Anthology*."
       abstract : |
@@ -106,17 +114,16 @@ tab:
       biography : |
         Annalisa di Vincenzo, PhD in Greek and Latin Philology, has been teaching Classics at the Liceo Classico Luca de Samuele Cagnazzi in Altamura since 2005. Following a specialization in software development for didactics, her teaching methods are motivated by the inclusion of digital tools in the classroom. For several years, the project of a digital and collaborative edition of the *Greek Anthology* (CRCDT) has benefitted from important contributions thanks to the involvement of her students in the editing process on the project's platform.
       venue : "C-6070-9"
-      time : "2.30 PM"
+      time : "2.45 PM"
 
-    # speaker
-    # - speaker : "Gustavo FERNANDEZ (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 'Material Text Cultures')"
-    #   subject : "Uses and enhancements of the digital facsimile of the *Palatine Anthology*."
-    #   abstract : |
-    #     The first and largest part of the *Palatine Anthology* (University Library of Heidelberg, Codex Palatinus Graecus 23) has been available as a digital facsimile since 2009. Since then scholars and anyone interested can freely access high quality images of the codex which was previously only available in critical editions or rare and expensive printed facsimiles. This presentation will examine the features of the digital facsimile and its presentation in the website of the University Library of Heidelberg which uses the software DWork. Particular attention will be given to the annotations created jointly and cooperatively between scholars in Heidelberg and Montreal. Finally, existing cases and future possibilities of reuse of the images will be discussed.
-    #   biography : |
-    #     Gustavo Fernández Riva is a Postdoctoral Scholar at the University of Heidelberg (Germany). As a member of the Collaborative Research Centre ‘Material Text Cultures’, he develops tools for editing and researching pre-modern written objects. He studied medieval literature at the universities of Buenos Aires (Argentina) and Porto (Portugal). His Ph.D. dissertation included a critical edition in TEI and Spanish translation of texts by the Middle High German poet Konrad von Würzburg. His current research projects include using network analysis to study shared manuscript transmission of medieval texts and the creation of an open, collaborative dataset of philological stemmata.
-    #   venue : "Online"
-    #   time : "3.15 PM"
+    - speaker : "Gustavo FERNÁNDEZ (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 'Material Text Cultures')"
+      subject : "Uses and enhancements of the digital facsimile of the *Palatine Anthology*."
+      abstract : |
+        The first and largest part of the *Palatine Anthology*'s manuscript (Codex Palatinus Graecus 23) has been available as a digital facsimile since 2009 at the University Library of Heidelberg. Since then scholars and anyone interested can freely access high quality images of the codex which was previously only available in critical editions or rare and expensive printed facsimiles. This presentation will examine the features of the digital facsimile and its presentation in the website of the University Library of Heidelberg which uses the software DWork. Particular attention will be given to the annotations created jointly and cooperatively between scholars in Heidelberg and Montreal. Finally, existing cases and future possibilities of reuse of the images will be discussed.
+      biography : |
+        Gustavo Fernández Riva is a Postdoctoral Scholar at the University of Heidelberg (Germany). As a member of the Collaborative Research Centre ‘Material Text Cultures’, he develops tools for editing and researching pre-modern written objects. He studied medieval literature at the universities of Buenos Aires (Argentina) and Porto (Portugal). His Ph.D. dissertation included a critical edition in TEI and Spanish translation of texts by the Middle High German poet Konrad von Würzburg. His current research projects include using network analysis to study shared manuscript transmission of medieval texts and the creation of an open, collaborative dataset of philological *stemmata*.
+      venue : "Online"
+      time : "3.30 PM"
 
   # tab item
   - name : "Day 02"

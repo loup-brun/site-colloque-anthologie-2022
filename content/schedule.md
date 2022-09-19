@@ -98,6 +98,14 @@ tab:
       venue : "En ligne"
       time : "13H45"
 
+    - speaker :
+      pause : "Pause café"
+      subject :
+      abstract :
+      biography :
+      venue :
+      time : "14H30"    
+
     - speaker : "Annalisa DI VINCENZO (Liceo classico Luca De Samuele Cagnazzi, Altamura)"
       subject : "Expériences et perspectives de l'étude du grec ancien entre l'école et les *Digital Humanities* : un possible *Fortleben* de l'*Anthologie Palatine*."
       résumé : |
@@ -105,17 +113,16 @@ tab:
       biographie : |
         Annalisa di Vincenzo, docteure en philologie grecque et latine, enseigne les lettres classiques au Liceo classico Luca de Samuele Cagnazzi à Altamura depuis 2015. À la suite d’une spécialisation en programmation adaptée à la didactique, elle enseigne selon des méthodes motivées par l’inclusion des outils numériques et digitaux dans les salles de classe. Depuis plusieurs années, le projet d'édition numérique collaborative de l'*Anthologie grecque* (CRCEN) bénéficie d’importantes contributions grâce à l’implication de ses étudiant·e·s dans le processus d’édition sur la plateforme du projet.
       venue : "C-6070-9"
-      time : "14H30"
+      time : "14H45"
 
-    # speaker
-    # - speaker : "Gustavo FERNANDEZ (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 'Material Text Cultures')"
-    #   subject : "Utilisations et valorisations du fac-similé numérique de l'*Anthologie palatine*."
-    #   résumé : |
-    #     La première et plus grande partie de l'Anthologie palatine (Bibliothèque universitaire de Heidelberg, Codex Palatinus Graecus 23) est disponible sous forme de fac-similé numérique depuis 2009. Depuis lors, les chercheurs et toute personne intéressée peuvent accéder librement à des images de haute qualité du codex qui n'était auparavant disponible que dans des éditions critiques ou des fac-similés imprimés rares et coûteux. Cette présentation examinera les caractéristiques du fac-similé numérique et sa présentation sur le site web de la Bibliothèque universitaire de Heidelberg qui utilise le logiciel DWork. Une attention particulière sera accordée aux annotations créées conjointement et en coopération entre les chercheurs de Heidelberg et de Montréal. Enfin, les cas existants et les possibilités futures de réutilisation des images seront discutés.
-    #   biographie : |
-    #     Gustavo Fernández Riva est chercheur postdoctoral à l'université de Heidelberg (Allemagne). En tant que membre du Centre de recherche collaboratif "Cultures de textes matériels", il développe des outils pour l'édition et la recherche d'objets écrits pré-modernes. Il a étudié la littérature médiévale aux universités de Buenos Aires (Argentine) et de Porto (Portugal). Sa thèse de doctorat comprenait une édition critique en TEI et une traduction en espagnol de textes du poète du moyen haut allemand Konrad von Würzburg. Ses projets de recherche actuels incluent l'utilisation de l'analyse de réseau pour étudier la transmission manuscrite partagée de textes médiévaux et la création d'un jeu de données ouvert et collaboratif de stemmata philologiques.      
-    #   venue : "C-6070-9"
-    #   time : "3.15 PM"
+    - speaker : "Gustavo FERNÁNDEZ (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 'Material Text Cultures')"
+      subject : "Utilisations et valorisations du fac-similé numérique de l'*Anthologie palatine*."
+      résumé : |
+        La plus grande partie du manuscrit de l'*Anthologie palatine* (Codex Palatinus Graecus 23) est disponible sous forme de fac-similé numérique depuis 2009 sur le site Web de la Bibliothèque universitaire de Heidelberg. Depuis lors, toutes et tous peuvent accéder librement à des images de haute qualité de ce codex qui n'était auparavant disponible que dans des éditions critiques ou des fac-similés imprimés rares et coûteux. Cette communication examinera les caractéristiques du fac-similé numérique et sa présentation sur le site Web de la Bibliothèque universitaire de Heidelberg qui utilise le logiciel DWork. Une attention particulière sera accordée aux annotations créées conjointement et en coopération entre les chercheurs de Heidelberg et de Montréal. Enfin, des études de cas et les possibilités futures de réutilisation des images seront discutées.
+      biographie : |
+        Gustavo Fernández Riva est chercheur postdoctoral à l'université de Heidelberg (Allemagne). En tant que membre du Centre de recherche collaboratif "Cultures de textes matériels", il développe des outils pour l'édition et la recherche d'objets écrits pré-modernes. Il a étudié la littérature médiévale aux universités de Buenos Aires (Argentine) et de Porto (Portugal). Sa thèse de doctorat comprenait une édition critique en TEI et une traduction en espagnol de textes du poète Konrad von Würzburg. Ses projets de recherche actuels incluent l'utilisation de l'analyse de réseau pour étudier la transmission manuscrite partagée de textes médiévaux et la création d'un jeu de données ouvert et collaboratif de *stemmata* philologiques.      
+      venue : "En ligne"
+      time : "3.30 PM"
 
   # tab item
   - name : "Jour 02"
