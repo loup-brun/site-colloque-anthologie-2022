@@ -166,7 +166,7 @@ tab:
 
     # speaker
     - speaker : |
-        Marcello Vitali-Rosati ; Arilys Jia ; Margot Mellet ; Dominic Forest ; Emmanuel Château-Dutier ; Servanne Monjour ; Irene Stigliano.
+        Marcello Vitali-Rosati ; Mathilde Verstraete ; Arilys Jia ; Margot Mellet ; Dominic Forest ; Emmanuel Château-Dutier ; Servanne Monjour ; Irene Stigliano.
       subject : "**Table Ronde** : Aujourd’hui, à l’époque du numérique,…"
       résumé : |
         Présidée par Marcello Vitali-Rosati et Arilys Jia, cette table ronde multilingue donnera la parole à des intervenants d'horizons divers afin de penser et redéfinir les aspects les plus fondamentaux des technologies numériques selon leurs visions du monde 

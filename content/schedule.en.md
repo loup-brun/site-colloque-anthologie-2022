@@ -166,7 +166,7 @@ tab:
 
     # speaker
     - speaker : |
-        Marcello Vitali-Rosati ; Arilys Jia ; Margot Mellet ; Dominic Forest ; Emmanuel Château-Dutier ; Servanne Monjour ; Irene Stigliano.
+        Marcello Vitali-Rosati ; Mathilde Verstraete ; Arilys Jia ; Margot Mellet ; Dominic Forest ; Emmanuel Château-Dutier ; Servanne Monjour ; Irene Stigliano.
       subject : "**Round-table Discussion** : Today, in the Digital Era…."
       abstract : |
         Presided over by Marcello Vitali-Rosati and Arilys Jia, this multilingual round table will give the floor to speakers from different backgrounds to think and redefine the most fundamental aspects of digital technologies according to their worldviews. 
