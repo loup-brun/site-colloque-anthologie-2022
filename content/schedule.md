@@ -53,12 +53,12 @@ tab:
       time : "11H00"      
 
     # speaker
-    - speaker : "CRCEN"
+    - speaker : "Chaire de recherche du Canada sur les écritures numériques"
       subject : "L'Anthologie sur le Web, *quid novi*?"
       résumé : |
         Depuis 2014, la Chaire de recherche du Canada sur les écritures numériques (CRCEN) travaille sur un projet d'envergure : une édition numérique collaborative de l'*Anthologie grecque*. Tout comme le corpus anthologique, la plateforme de l'édition a connu de nombreuses reconfigurations. Cette présentation cherche à revenir sur les défis et les enjeux de ce vaste projet, et d'en préciser les aspects techniques.
-      biography : |
-        Marcello Vitali-Rosati, Mathilde Verstraete, Margot Mellet 
+      biographie : |
+        Marcello Vitali-Rosati, Mathilde Verstraete, Margot Mellet, Luiz Capelo 
       venue : "C-6070-9"
       time : "11H15"
 
@@ -122,7 +122,7 @@ tab:
       biographie : |
         Gustavo Fernández Riva est chercheur postdoctoral à l'université de Heidelberg (Allemagne). En tant que membre du Centre de recherche collaboratif "Cultures de textes matériels", il développe des outils pour l'édition et la recherche d'objets écrits pré-modernes. Il a étudié la littérature médiévale aux universités de Buenos Aires (Argentine) et de Porto (Portugal). Sa thèse de doctorat comprenait une édition critique en TEI et une traduction en espagnol de textes du poète Konrad von Würzburg. Ses projets de recherche actuels incluent l'utilisation de l'analyse de réseau pour étudier la transmission manuscrite partagée de textes médiévaux et la création d'un jeu de données ouvert et collaboratif de *stemmata* philologiques.      
       venue : "En ligne"
-      time : "3.30 PM"
+      time : "15H30"
 
   # tab item
   - name : "Jour 02"
@@ -237,6 +237,21 @@ tab:
         Marianne Reboul est maîtresse de conférences en humanités numériques à l’École Normale Supérieure de Lyon, spécialisée en humanités numériques et en lettres classiques, plus précisément en *digital classics*. Elle travaille en particulier sur l’application des techniques d’intelligence artificielle aux langues anciennes.      
       venue : "C-6070-9"
       time : "15H30"
+
+    - speaker :
+      pause : "Cocktail"
+      subject :
+      abstract :
+      biography :
+      venue : "5101 Boul St-Laurent, Montréal, CA H2T 1R9"
+      time : "17h30"
+
+    - speaker : "Lynn Kozak (Université McGill)"
+      subject : "Performer l'_Anthologie grecque_"
+      résumé : ""
+      biographie : ""      
+      venue : "5101 Boul St-Laurent, Montréal, CA H2T 1R9"
+      time : "18H00"
 
   # tab item
   - name : "Jour 03"

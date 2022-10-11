@@ -57,7 +57,7 @@ tab:
       abstract : |
         Since 2014, the Canada Research Chair in Digital Textualities (CRCDT) is working on a wide project: a digital and collaborative edition of the *Greek Anthology*. Just like the anthological corpus, the edition's platform has undergone multiple reconfigurations. This talk aims to review the challenges and stakes of this vast project and to specify its technical ins and outs.  
       biography : |
-        Marcello Vitali-Rosati, Mathilde Verstraete, Margot Mellet
+        Marcello Vitali-Rosati, Mathilde Verstraete, Margot Mellet, Luiz Capelo
       venue : "C-6070-9"
       time : "11.15 AM"
     # speaker
@@ -238,6 +238,21 @@ tab:
         Marianne Reboul is a lecturer in Digital Humanities at the École Normale Supérieure de Lyon, specializing in digital humanities and classics, more precisely in “digital classics”. She works in particular on the application of artificial intelligence techniques to ancient languages.
       venue : "C-6070-9"
       time : "3.30 PM"
+
+    - speaker :
+      pause : "Cocktail"
+      subject :
+      abstract :
+      biography :
+      venue : "5101 Boul St-Laurent, Montréal, CA H2T 1R9"
+      time : "5.30PM"
+
+    - speaker : "Lynn Kozak (Université McGill)"
+      subject : "Performer l'_Anthologie grecque_"
+      résumé : ""
+      biographie : ""      
+      venue : "5101 Boul St-Laurent, Montréal, CA H2T 1R9"
+      time : "6.00PM"
 
   # tab item
   - name : "Day 03"
