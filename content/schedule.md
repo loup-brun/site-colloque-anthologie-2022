@@ -243,14 +243,18 @@ tab:
       subject :
       abstract :
       biography :
-      venue : "5101 Boul St-Laurent, Montréal, CA H2T 1R9"
+      venue : |
+        Le Siboire  
+        (5101 Boul. St-Laurent)
       time : "17h30"
 
     - speaker : "Lynn Kozak (Université McGill)"
       subject : "Performer l'_Anthologie grecque_"
       résumé : ""
       biographie : ""      
-      venue : "5101 Boul St-Laurent, Montréal, CA H2T 1R9"
+      venue : |
+        Le Siboire  
+        (5101 Boul. St-Laurent)
       time : "18H00"
 
   # tab item
