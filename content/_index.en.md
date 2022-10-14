@@ -13,7 +13,7 @@ banner:
     enable : true
     year : 2022
     month : 10
-    day : 24
+    day : 27
   button:
     enable : true
     label : "Jitsi link to come"
