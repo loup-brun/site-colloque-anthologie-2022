@@ -250,7 +250,7 @@ tab:
       time : "5.30PM"
 
     - speaker : "Lynn Kozak (Université McGill)"
-      subject : "Performer l'_Anthologie grecque_"
+      subject : "Pergorming the _Greek Anthology_"
       résumé : ""
       biographie : ""      
       venue : |
