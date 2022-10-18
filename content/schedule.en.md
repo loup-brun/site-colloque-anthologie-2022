@@ -11,7 +11,7 @@ slug: schedule
 tab:
   enable : true
   title : "Schedule"
-  content : ""
+  content : "*Online talks will be retransmitted in the room C-6070-9 (pav. Lionel-Groulx) via Jitsi."
   tablist:
   # tab item
   - name : "Day 01"
@@ -26,6 +26,13 @@ tab:
       biography :
       venue :
       time : "09.00 AM"
+
+    - speaker : "Marcello Vitali-Rosati, Dominic Forest, Mathilde Verstraete"
+      subject : "Welcome speech"
+      abstract:  ""
+      biography : ""
+      venue : "C-6070-9"
+      time : "9.30 AM"
 
     - speaker :
       pause : "[SESSION 1] The Scientific News of the *Greek Anthology*."
@@ -96,8 +103,9 @@ tab:
         Recent years saw a critical analysis of increasing depth of epigrammatic literature, resulting in large-scale studies both on epigrams of epigraphic tradition and on those of literary tradition, and their mutual interplay. Such interest was mostly encouraged by the publication of the Posidippus papyrus, which stimulated new studies on the construction of ancient anthologies and on the arrangement of books of epigrams. Nevertheless, the lack of a recent edition with commentary of Callimachus' epigrams stands out very conspicuously, even though many individual poems have been the object of accurate analysis in valuable papers and monographic studies. Moving from these important recent acquisitions, it is now evident that a modern commentary to Callimachean epigrams should link the individual texts to the epigrammatic tradition as a whole, focusing both on the literary parallels within the *Greek Anthology* and on their epigraphic counterparts. The present talk suggests to apply this approach through three lines of investigation: 1) paying attention to traditional epigrammatic sub-genres (votive, sepulchral, epideictic, erotic, etc.) and to their realizations within the Callimachean corpus, while considering how traditional categories have permeable boundaries that are not so easily traced (consider for example the problematic case of the label of “epideictic” or “ecphrastic” epigram); 2) studying the continuity of transversal topoi and motifs through these sub-genres (e.g. epigrams on misanthropes; epigrams on poets or poetic works; bucolic themes); 3) considering the possibility to relate Callimachus’ epigrams to less known typologies, like those emerging from the Posidippus papyrus (e.g. *nauagika*).
       biography : |
         Serena Cannavale is a doctor in Classical Philology at the Department of Humanities (‘Dipartimento di Studi Umanistici’) of the University of Naples Federico II. Her main research interests are related to Hellenistic epigrams, ancient theatre and the history of classical studies. She has held seminars and lectures in both national and international conferences and published several papers and essays about the history of the Callimachean epigrams' text and their exegesis; the tradition and the reception of classical myths in epigrams from the Hellenistic and the Imperial periods; theatre in ancient Campania. She is editor-in-chief of the journal *Atene e Roma* and she is involved in the International Project “Dictionnaire de l’épigramme littéraire dans l’Antiquité grecque et romaine” (Directors: Doris Meyer et Céline Urlacher-Becht).
-      venue : "Online"
       time : "1.45 PM"
+      venue : "C-6070-9"
+      online: "Online*"
 
     - speaker :
       pause : "Coffee Break"
@@ -122,8 +130,9 @@ tab:
         The first and largest part of the *Palatine Anthology*'s manuscript (Codex Palatinus Graecus 23) has been available as a digital facsimile since 2009 at the University Library of Heidelberg. Since then scholars and anyone interested can freely access high quality images of the codex which was previously only available in critical editions or rare and expensive printed facsimiles. This presentation will examine the features of the digital facsimile and its presentation in the website of the University Library of Heidelberg which uses the software DWork. Particular attention will be given to the annotations created jointly and cooperatively between scholars in Heidelberg and Montreal. Finally, existing cases and future possibilities of reuse of the images will be discussed.
       biography : |
         Gustavo Fernández Riva is a Postdoctoral Scholar at the University of Heidelberg (Germany). As a member of the Collaborative Research Centre ‘Material Text Cultures’, he develops tools for editing and researching pre-modern written objects. He studied medieval literature at the universities of Buenos Aires (Argentina) and Porto (Portugal). His Ph.D. dissertation included a critical edition in TEI and Spanish translation of texts by the Middle High German poet Konrad von Würzburg. His current research projects include using network analysis to study shared manuscript transmission of medieval texts and the creation of an open, collaborative dataset of philological *stemmata*.
-      venue : "Online"
       time : "3.30 PM"
+      venue : "C-6070-9"
+      online: "Online*"
 
   # tab item
   - name : "Day 02"
@@ -153,8 +162,9 @@ tab:
         This contribution explores the opportunities offered by digital publishing for non-linear texts. Like the *Palatine Anthology*, D'Arcy Thompson's *Glossary of Greek Birds* (1896 and 1936) was designed to be read flexibly according to the reader's interests and cross-reference networks. While it is primarily a reference work - essentially a list of Greek bird names combined with ornithological identification through descriptions provided by ancient texts - the most interesting aspect of the *Glossary* is what it does not explicitly say, for the references to the ancient texts cover a wealth of information about the literary, mythological, and historical associations of the birds cited as well as the relationships among them. This talk will detail the encoding techniques and processes such as formal concept analysis employed by the project to bring out this information and use it as a tool to navigate through the text.
       biography : |
         Marie-Claire Beaulieu is a professor of Classical Studies at Tufts University. Her main research areas are Greek mythology (including Greek religion and the role of women in Greek mythology) and Digital Humanities. She co-directed the Perseids project : a large initiative to build infrastructures in the field of digital humanities, through the design of collaborative editing and annotation software. Marie-Claire Beaulieu is also interested in the use of the digital medium to foster greater engagement with the ancient world through the study of language, art and culture.
-      venue : "Online"
       time : "9.00 AM"
+      venue : "C-6070-9"
+      online: "Online*"
 
     - speaker :
       pause : "Coffee Break"
@@ -199,8 +209,9 @@ tab:
         This contribution aims to present the [Opera Graeca Adnotata (OGA)](http://oga.informatik.uni-leipzig.de/it/index.html) corpus. OGA provides morphosyntactic annotations for most Ancient Greek texts of the Perseus Digital Library. In order for the corpus to be scalable, annotations in OGA are following PAULA XML formalism. Currently, the OGA corpus represents the largest open source annotated resource for Ancient Greek, in that both texts and the attached annotations can be freely queried and reused under a CC BY-NC 4.0 licence.
       biography : |
         Giuseppe Celano’s academic profile is at the intersection between humanities (linguistics and classics) and computer science. He started his academic career as a classicist, with a focus on the study of Ancient Greek and Latin grammar. He obtained his PhD in Classical Philology in 2008, with a thesis on word order in Plato’s *Phaedo*. He was a research fellow for a German-Italian research project on the structure of the argument in Ancient Greek and Yucatec Mayan, run at the University of Erfurt and Pavia, from 2012-2013. Subsequently, in late 2013, he joined the Humboldt Chair of Digital Humanities at Leipzig University to work on Ancient Greek and Latin treebanks. In April 2018, he joined the Natural Language Processing Group of Leipzig University, where he worked until September 2018 on a DFG (Deutsche Forschungsgemeinschaft) project on actionality classes and coding asymmetries. In the same Institute, he has been an independent DFG researcher since October 2018, working on the annotation of Ancient Greek and Latin data. 
-      venue : "Online"
       time : "1.00 PM"
+      venue : "C-6070-9"
+      online: "Online*"
 
     # speaker
     - speaker : "Kyle JOHNSON (TikTok; Co-Maintainer of Classical Language Toolkit (CLTK))"
@@ -250,13 +261,13 @@ tab:
       time : "5.30PM"
 
     - speaker : "Lynn Kozak (Université McGill)"
-      subject : "Pergorming the _Greek Anthology_"
+      subject : "Performing the _Greek Anthology_"
       résumé : ""
       biographie : ""      
       venue : |
         Le Siboire  
         (5101 Boul. St-Laurent)
-      time : "6.00PM"
+      time : "5.30PM"
 
   # tab item
   - name : "Day 03"

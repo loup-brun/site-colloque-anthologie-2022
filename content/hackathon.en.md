@@ -9,11 +9,11 @@ layout : "hackathon"
 
 
 {{< faq "Description of the event" >}}
-In pluridisciplinary teams, participants will compete to present prototypes that use algorithmic methods in order explore and analyse the corpus of the *Greek Anthology*. Participants will have the opportunity to test the project’s APIs ("For a digital and collaborative edition of the *Greek Anthology*") and our partners' (such as the Palatine Library of Heidelberg, or the Perseus Digital Library). This last day will allow the use of what was produced during the CRCEN's « Greek Anthology » project on the one hand, and during the workshop on the other hand, while bringing out new potentialities of research.
+In pluridisciplinary teams, participants will compete to present prototypes that use algorithmic methods in order explore and analyse the corpus of the *Greek Anthology*. Participants will have the opportunity to test the project’s APIs ("For a digital and collaborative edition of the *Greek Anthology*") and our partners' (such as the Palatine Library of Heidelberg, or the Perseus Digital Library). This last day will allow the use of what was produced during the CRCDT's « Greek Anthology » project on the one hand, and during the workshop on the other hand, while bringing out new potentialities of research.
 {{</ faq >}}
 
-{{< faq "Description of the data sets" >}}
-Developed as part of the project “For A Collaborative Digital Edition of the Greek Anthology” led by the Canada Research Chair on Digital Textualities, the API containing the data for the hackathon is available [here](https://anthologiagraeca.org/api/).  
+{{< faq "Description of the API" >}}
+Developed as part of the project “For A Collaborative Digital Edition of the Greek Anthology” led by the Canada Research Chair on Digital Textualities, the API containing the data for the hackathon is available here : [[https://anthologiagraeca.org/api/](https://anthologiagraeca.org/api/).  
 It provides a JSON representation of all the data in the platform.
 {{</ faq >}}
 

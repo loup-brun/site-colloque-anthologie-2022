@@ -13,7 +13,7 @@ Au sein d’équipes pluridisciplinaires, les participants seront mis en compét
 {{</ faq >}}
 
 {{< faq "Description de l'API" >}}
-Développée dans le cadre du projet "Pour une édition numérique collaborative de l'*Anthologie grecque*" mené par la Chaire de recherche du Canada sur les écritures numériques, l'API contenant les données pour le hackathon est disponible [ici](https://anthologiagraeca.org/api/).  
+Développée dans le cadre du projet "Pour une édition numérique collaborative de l'*Anthologie grecque*" mené par la Chaire de recherche du Canada sur les écritures numériques, l'API contenant les données pour le hackathon est disponible à cette adresse : [https://anthologiagraeca.org/api/](https://anthologiagraeca.org/api/).  
 Elle fournit une représentation au format JSON de toutes les données de la plateforme.
 {{</ faq >}}
 

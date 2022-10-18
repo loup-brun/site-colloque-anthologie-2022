@@ -11,7 +11,7 @@ slug: horaire
 tab:
   enable : true
   title : "Calendrier"
-  content : ""
+  content : "*Les conférences en ligne seront retransmises dans la salle C-6070-9 (pav. Lionel-Groulx) via Jitsi.   "
   tablist:
   # tab item
   - name : "Jour 01"
@@ -26,6 +26,13 @@ tab:
       biography :
       venue :
       time : "09H00"
+
+    - speaker : "Marcello Vitali-Rosati, Dominic Forest, Mathilde Verstraete"
+      subject : "Mot de bienvenue"
+      abstract:  ""
+      biography : ""
+      venue : "C-6070-9"
+      time : "9H30"
 
     - speaker :
       pause : "[SESSION 1] L’actualité scientifique de l’*Anthologie grecque*."
@@ -95,8 +102,9 @@ tab:
         Ces dernières années, la littérature épigrammatique a fait l’objet d’une analyse critique de plus en plus approfondie, ce qui a donné lieu à des études de grande envergure portant à la fois sur les épigrammes de tradition épigraphique et sur celles de tradition littéraire, ainsi que sur leur interaction mutuelle. Cet intérêt a surtout été encouragé par la publication du papyrus Posidippus, qui a stimulé de nouvelles études sur la réalisation des anthologies anciennes et sur l’agencement des livres d’épigrammes. Néanmoins, l’absence d’une édition commentée récente des épigrammes de Callimaque est singulière, même si de nombreux poèmes individuels ont fait l’objet d’une analyse précise dans de précieux articles et études monographiques. Partant de ces importantes acquisitions récentes, il est maintenant évident qu’un commentaire moderne des épigrammes de Callimaque devrait relier les textes individuels à la tradition épigrammatique dans son ensemble, en se concentrant à la fois sur les parallèles littéraires au sein de l’*Anthologie grecque* et sur leurs contreparties épigraphiques. La présente communication propose d’appliquer cette approche par le biais de trois axes de recherche : 1) Porter attention aux sous-genres épigrammatiques traditionnels (votifs, sépulcraux, épidéictiques, érotiques, etc. ) et à leurs réalisations dans le corpus callimachéen, tout en considérant comment les catégories traditionnelles ont des frontières perméables (comme le montre par exemple le cas problématique des étiquettes « épidéictique » ou « ecphrastique ») ; 2) Étudier la continuité des topoï et des motifs transversaux à travers ces sous-genres (par exemple les épigrammes sur les misanthropes, sur les poètes ou œuvres poétiques, les thèmes buccoliques) ; 3) Considérer la possibilité de relier les épigrammes de Callimaque à des typologies moins connues, comme celles qui émergent du papyrus Posidippus (par exemple *nauagika*).
       biographie : |
         Serena Cannavale est docteure en philologie classique au Département des sciences humaines (‘Dipartimento di Studi Umanistici’) à l'Université de Naples Federico II. Ses principaux intérêts de recherche sont liés aux épigrammes hellénistiques, au théâtre antique et à l’histoire des études classiques. Elle a tenu des séminaires et des conférences dans des congrès nationaux et internationaux et a publié plusieurs articles et essais sur l’histoire du texte des épigrammes de Callimaque et leur exégèse ; la tradition et la réception des mythes classiques dans les épigrammes de la période hellénistique et impériale ; le théâtre dans la Campanie antique. Elle est rédactrice en chef de la revue *Atene e Roma* et participe au projet international « Dictionnaire de l’épigramme littéraire dans l’Antiquité grecque et romaine » (directrices : Doris Meyer et Céline Urlacher-Becht).      
-      venue : "En ligne"
       time : "13H45"
+      venue : "C-6070-9"
+      online: "En ligne*"
 
     - speaker :
       pause : "Pause café"
@@ -121,8 +129,9 @@ tab:
         La plus grande partie du manuscrit de l'*Anthologie palatine* (Codex Palatinus Graecus 23) est disponible sous forme de fac-similé numérique depuis 2009 sur le site Web de la Bibliothèque universitaire de Heidelberg. Depuis lors, toutes et tous peuvent accéder librement à des images de haute qualité de ce codex qui n'était auparavant disponible que dans des éditions critiques ou des fac-similés imprimés rares et coûteux. Cette communication examinera les caractéristiques du fac-similé numérique et sa présentation sur le site Web de la Bibliothèque universitaire de Heidelberg qui utilise le logiciel DWork. Une attention particulière sera accordée aux annotations créées conjointement et en coopération entre les chercheurs de Heidelberg et de Montréal. Enfin, des études de cas et les possibilités futures de réutilisation des images seront discutées.
       biographie : |
         Gustavo Fernández Riva est chercheur postdoctoral à l'université de Heidelberg (Allemagne). En tant que membre du Centre de recherche collaboratif "Cultures de textes matériels", il développe des outils pour l'édition et la recherche d'objets écrits pré-modernes. Il a étudié la littérature médiévale aux universités de Buenos Aires (Argentine) et de Porto (Portugal). Sa thèse de doctorat comprenait une édition critique en TEI et une traduction en espagnol de textes du poète Konrad von Würzburg. Ses projets de recherche actuels incluent l'utilisation de l'analyse de réseau pour étudier la transmission manuscrite partagée de textes médiévaux et la création d'un jeu de données ouvert et collaboratif de *stemmata* philologiques.      
-      venue : "En ligne"
       time : "15H30"
+      venue : "C-6070-9"
+      online: "En ligne*"
 
   # tab item
   - name : "Jour 02"
@@ -153,8 +162,9 @@ tab:
         Cette communication explore les possibilités offertes par l’édition numérique pour les textes non-linéaires. Comme l’*Anthologie palatine*, le *Glossary of Greek Birds* de D’Arcy Thompson (1896 et 1936) a été conçu pour une lecture flexible suivant les intérêts du lecteur et les réseaux de références croisées. S’il s’agit avant tout d’un ouvrage de référence -- essentiellement une liste de noms d’oiseaux en grec associés à une identification ornithologique grâce aux descriptions fournies par les textes anciens --, l’aspect le plus intéressant du *Glossary* est ce qu’il ne dit pas explicitement, car les références aux textes anciens recouvrent une mine d’informations sur les associations littéraires, mythologiques et historiques des oiseaux cités ainsi que les liens qu’ils entretiennent entre eux. Cette communication détaillera les techniques d’encodage et les procédés, comme, par exemple,l'analyse formelle de concepts, employés par le projet afin de faire ressortir ces informations et de s’en servir comme outil pour naviguer à travers le texte.
       biographie : |
         Marie-Claire Beaulieu est professeure en études classiques à la Tufts University. Ses principaux domaines de recherche sont la mythologie grecque (y compris la religion grecque et le rôle des femmes dans la mythologie grecque) et les humanités numériques. Elle a codirigé le projet *Perseids* : une vaste initiative visant à construire des infrastructures dans le domaine des humanités numériques, par la conception de logiciels d’édition et d’annotation collaboratifs. Marie-Claire Beaulieu s’intéresse également à l’utilisation du support numérique pour favoriser un plus grand engagement avec le monde antique à travers l’étude de la langue, de l’art et de la culture.      
-      venue : "En ligne"
       time : "09H00"
+      venue : "C-6070-9"
+      online: "En ligne*"
 
     - speaker :
       pause : "Pause café"
@@ -198,8 +208,9 @@ tab:
         Cette contribution vise à présenter le corpus [*Opera Graeca Adnotata* (OGA)](http://oga.informatik.uni-leipzig.de/it/index.html). OGA fournit des annotations morphosyntaxiques pour la plupart des textes en grec ancien de la bibliothèque numérique Perseus. Pour que le corpus soit modulable, les annotations dans OGA suivent le formalisme XML PAULA. Actuellement, le corpus OGA représente la plus grande ressource annotée *open source* pour le grec ancien, dans la mesure où les textes et les annotations jointes peuvent être librement interrogés et réutilisés sous une licence CC BY-NC 4.0.
       biographie : |
         Le profil académique de Giuseppe Celano se situe à l’intersection des sciences humaines (linguistique et lettres classiques) et de l’informatique. Il a commencé sa carrière académique en tant que classiciste, en se concentrant sur l’étude de la grammaire du grec ancien et du latin. Il a obtenu son doctorat en philologie classique en 2008, avec une thèse sur l’ordre des mots dans le *Phédon* de Platon. En 2012-2013, il a été chercheur dans le cadre d’un projet de recherche germano-italien sur la structure des arguments en grec ancien et en maya yucatèque, mené aux universités d’Erfurt et de Pavie. Par la suite, fin 2013, il a rejoint la chaire Humboldt d’humanités numériques de l’Université de Leipzig pour travailler sur les corpus arborés en grec ancien et en latin. En avril 2018, il a rejoint le groupe Traitement Naturel du Langage de l’Université de Leipzig, où il a travaillé jusqu’en septembre 2018 sur un projet DFG (Deutsche Forschungsgemeinschaft) portant sur les classes d’actionnalité et les asymétries de codage. Dans le même institut, il est chercheur indépendant DFG depuis octobre 2018, travaillant sur l’annotation de données en grec ancien et en latin.      
-      venue : "En ligne"
       time : "13H00"
+      venue : "C-6070-9"
+      online: "En ligne*"
 
     # speaker
     - speaker : "Kyle JOHNSON (Tik Tok ; *Co-Maintainer* de *Classical Language Toolkit* (CLTK))."
@@ -246,7 +257,7 @@ tab:
       venue : |
         Le Siboire  
         (5101 Boul. St-Laurent)
-      time : "17h30"
+      time : "17H30"
 
     - speaker : "Lynn Kozak (Université McGill)"
       subject : "Performer l'_Anthologie grecque_"
@@ -255,7 +266,7 @@ tab:
       venue : |
         Le Siboire  
         (5101 Boul. St-Laurent)
-      time : "18H00"
+      time : "17H30"
 
   # tab item
   - name : "Jour 03"
