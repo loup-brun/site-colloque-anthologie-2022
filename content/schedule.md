@@ -11,7 +11,7 @@ slug: horaire
 tab:
   enable : true
   title : "Calendrier"
-  content : "*Les conférences en ligne seront retransmises dans la salle C-6070-9 (pav. Lionel-Groulx) via Jitsi.   "
+  content : "*Les conférences en ligne seront retransmises en direct dans la salle C-6070-9 (pav. Lionel-Groulx) via Jitsi.   "
   tablist:
   # tab item
   - name : "Jour 01"

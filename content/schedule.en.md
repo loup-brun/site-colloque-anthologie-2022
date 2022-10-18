@@ -11,7 +11,7 @@ slug: schedule
 tab:
   enable : true
   title : "Schedule"
-  content : "*Online talks will be retransmitted in the room C-6070-9 (pav. Lionel-Groulx) via Jitsi."
+  content : "*Online talks will be broadcast live in room C-6070-9 (pav. Lionel-Groulx) via Jitsi."
   tablist:
   # tab item
   - name : "Day 01"
