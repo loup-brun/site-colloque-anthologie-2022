@@ -16,8 +16,8 @@ banner:
     day : 27
   button:
     enable : true
-    label : "Jitsi link to come"
-    link : "#"
+    label : "Jitsi link"
+    link : "https://meet.jit.si/anthological-navigations-crcen"
 
 
 ################# About ###################

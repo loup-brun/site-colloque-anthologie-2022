@@ -104,7 +104,7 @@ tab:
         Serena Cannavale est docteure en philologie classique au Département des sciences humaines (‘Dipartimento di Studi Umanistici’) à l'Université de Naples Federico II. Ses principaux intérêts de recherche sont liés aux épigrammes hellénistiques, au théâtre antique et à l’histoire des études classiques. Elle a tenu des séminaires et des conférences dans des congrès nationaux et internationaux et a publié plusieurs articles et essais sur l’histoire du texte des épigrammes de Callimaque et leur exégèse ; la tradition et la réception des mythes classiques dans les épigrammes de la période hellénistique et impériale ; le théâtre dans la Campanie antique. Elle est rédactrice en chef de la revue *Atene e Roma* et participe au projet international « Dictionnaire de l’épigramme littéraire dans l’Antiquité grecque et romaine » (directrices : Doris Meyer et Céline Urlacher-Becht).      
       time : "13H45"
       venue : "C-6070-9"
-      online: "En ligne*"
+      online: "Hybride*"
 
     - speaker :
       pause : "Pause café"
@@ -131,7 +131,7 @@ tab:
         Gustavo Fernández Riva est chercheur postdoctoral à l'université de Heidelberg (Allemagne). En tant que membre du Centre de recherche collaboratif "Cultures de textes matériels", il développe des outils pour l'édition et la recherche d'objets écrits pré-modernes. Il a étudié la littérature médiévale aux universités de Buenos Aires (Argentine) et de Porto (Portugal). Sa thèse de doctorat comprenait une édition critique en TEI et une traduction en espagnol de textes du poète Konrad von Würzburg. Ses projets de recherche actuels incluent l'utilisation de l'analyse de réseau pour étudier la transmission manuscrite partagée de textes médiévaux et la création d'un jeu de données ouvert et collaboratif de *stemmata* philologiques.      
       time : "15H30"
       venue : "C-6070-9"
-      online: "En ligne*"
+      online: "Hybride*"
 
   # tab item
   - name : "Jour 02"
@@ -164,7 +164,7 @@ tab:
         Marie-Claire Beaulieu est professeure en études classiques à la Tufts University. Ses principaux domaines de recherche sont la mythologie grecque (y compris la religion grecque et le rôle des femmes dans la mythologie grecque) et les humanités numériques. Elle a codirigé le projet *Perseids* : une vaste initiative visant à construire des infrastructures dans le domaine des humanités numériques, par la conception de logiciels d’édition et d’annotation collaboratifs. Marie-Claire Beaulieu s’intéresse également à l’utilisation du support numérique pour favoriser un plus grand engagement avec le monde antique à travers l’étude de la langue, de l’art et de la culture.      
       time : "09H00"
       venue : "C-6070-9"
-      online: "En ligne*"
+      online: "Hybride*"
 
     - speaker :
       pause : "Pause café"
@@ -210,7 +210,7 @@ tab:
         Le profil académique de Giuseppe Celano se situe à l’intersection des sciences humaines (linguistique et lettres classiques) et de l’informatique. Il a commencé sa carrière académique en tant que classiciste, en se concentrant sur l’étude de la grammaire du grec ancien et du latin. Il a obtenu son doctorat en philologie classique en 2008, avec une thèse sur l’ordre des mots dans le *Phédon* de Platon. En 2012-2013, il a été chercheur dans le cadre d’un projet de recherche germano-italien sur la structure des arguments en grec ancien et en maya yucatèque, mené aux universités d’Erfurt et de Pavie. Par la suite, fin 2013, il a rejoint la chaire Humboldt d’humanités numériques de l’Université de Leipzig pour travailler sur les corpus arborés en grec ancien et en latin. En avril 2018, il a rejoint le groupe Traitement Naturel du Langage de l’Université de Leipzig, où il a travaillé jusqu’en septembre 2018 sur un projet DFG (Deutsche Forschungsgemeinschaft) portant sur les classes d’actionnalité et les asymétries de codage. Dans le même institut, il est chercheur indépendant DFG depuis octobre 2018, travaillant sur l’annotation de données en grec ancien et en latin.      
       time : "13H00"
       venue : "C-6070-9"
-      online: "En ligne*"
+      online: "Hybride*"
 
     # speaker
     - speaker : "Kyle JOHNSON (Tik Tok ; *Co-Maintainer* de *Classical Language Toolkit* (CLTK))."

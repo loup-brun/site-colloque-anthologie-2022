@@ -105,7 +105,7 @@ tab:
         Serena Cannavale is a doctor in Classical Philology at the Department of Humanities (‘Dipartimento di Studi Umanistici’) of the University of Naples Federico II. Her main research interests are related to Hellenistic epigrams, ancient theatre and the history of classical studies. She has held seminars and lectures in both national and international conferences and published several papers and essays about the history of the Callimachean epigrams' text and their exegesis; the tradition and the reception of classical myths in epigrams from the Hellenistic and the Imperial periods; theatre in ancient Campania. She is editor-in-chief of the journal *Atene e Roma* and she is involved in the International Project “Dictionnaire de l’épigramme littéraire dans l’Antiquité grecque et romaine” (Directors: Doris Meyer et Céline Urlacher-Becht).
       time : "1.45 PM"
       venue : "C-6070-9"
-      online: "Online*"
+      online: "Hybrid*"
 
     - speaker :
       pause : "Coffee Break"
@@ -132,7 +132,7 @@ tab:
         Gustavo Fernández Riva is a Postdoctoral Scholar at the University of Heidelberg (Germany). As a member of the Collaborative Research Centre ‘Material Text Cultures’, he develops tools for editing and researching pre-modern written objects. He studied medieval literature at the universities of Buenos Aires (Argentina) and Porto (Portugal). His Ph.D. dissertation included a critical edition in TEI and Spanish translation of texts by the Middle High German poet Konrad von Würzburg. His current research projects include using network analysis to study shared manuscript transmission of medieval texts and the creation of an open, collaborative dataset of philological *stemmata*.
       time : "3.30 PM"
       venue : "C-6070-9"
-      online: "Online*"
+      online: "Hybrid*"
 
   # tab item
   - name : "Day 02"
@@ -164,7 +164,7 @@ tab:
         Marie-Claire Beaulieu is a professor of Classical Studies at Tufts University. Her main research areas are Greek mythology (including Greek religion and the role of women in Greek mythology) and Digital Humanities. She co-directed the Perseids project : a large initiative to build infrastructures in the field of digital humanities, through the design of collaborative editing and annotation software. Marie-Claire Beaulieu is also interested in the use of the digital medium to foster greater engagement with the ancient world through the study of language, art and culture.
       time : "9.00 AM"
       venue : "C-6070-9"
-      online: "Online*"
+      online: "Hybrid*"
 
     - speaker :
       pause : "Coffee Break"
@@ -211,7 +211,7 @@ tab:
         Giuseppe Celano’s academic profile is at the intersection between humanities (linguistics and classics) and computer science. He started his academic career as a classicist, with a focus on the study of Ancient Greek and Latin grammar. He obtained his PhD in Classical Philology in 2008, with a thesis on word order in Plato’s *Phaedo*. He was a research fellow for a German-Italian research project on the structure of the argument in Ancient Greek and Yucatec Mayan, run at the University of Erfurt and Pavia, from 2012-2013. Subsequently, in late 2013, he joined the Humboldt Chair of Digital Humanities at Leipzig University to work on Ancient Greek and Latin treebanks. In April 2018, he joined the Natural Language Processing Group of Leipzig University, where he worked until September 2018 on a DFG (Deutsche Forschungsgemeinschaft) project on actionality classes and coding asymmetries. In the same Institute, he has been an independent DFG researcher since October 2018, working on the annotation of Ancient Greek and Latin data. 
       time : "1.00 PM"
       venue : "C-6070-9"
-      online: "Online*"
+      online: "Hybrid*"
 
     # speaker
     - speaker : "Kyle JOHNSON (TikTok; Co-Maintainer of Classical Language Toolkit (CLTK))"
