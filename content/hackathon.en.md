@@ -13,9 +13,9 @@ In pluridisciplinary teams, participants will compete to present prototypes that
 {{</ faq >}}
 
 {{< faq "Description of the API" >}}
-Developed as part of the project “For A Collaborative Digital Edition of the Greek Anthology” led by the Canada Research Chair on Digital Textualities, the API containing the data for the hackathon is available here : [[https://anthologiagraeca.org/api/](https://anthologiagraeca.org/api/).  
+Developed as part of the project “For A Collaborative Digital Edition of the Greek Anthology” led by the Canada Research Chair on Digital Textualities, the API containing the data for the hackathon is available here: [https://anthologiagraeca.org/api/](https://anthologiagraeca.org/api/).  
 It provides a JSON representation of all the data in the platform.
-{{</ faq >}}
+For a documentation of the API: [http://api-doc.anthologiagraeca.org/](http://api-doc.anthologiagraeca.org/){{</ faq >}}
 
 {{< faq "Objectives">}}
 Considering the vast array of skills and knowledge of the participants, we want to keep the objectives as flexible as possible. Thus, we offer only one guideline: each project must make use of the corpus in a creative and technical way.  
