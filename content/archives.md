@@ -291,9 +291,44 @@ gallery_items:
   imagefull: "https://api.nakala.fr/iiif/10.34847/nkl.8cc6mjel/960568bddb92371a1af37904e674e16b0588ce66/full/1500,/0/default.jpg"  
   categories: ["hackathon"]
 
-- name : "Nom de la vidéo"
-  video: "https://api.nakala.fr/data/10.34847/nkl.8bc47k4o/2c9cc465785a215a9920312950854139835f3941"
+- name : "Lucia Floridi - Éditer les épigrammes grecques : méthodes et problèmes"
+  video: "https://api.nakala.fr/data/10.34847/nkl.e523dsyq.v1/25e7a0c40b104edfc997c257e365183a6e80c7d2"
   categories: ["videos"]
-  #vitnette: /lien/vers/la/vignette.jpg
+  #vignette: /lien/vers/la/vignette.jpg
 
+- name : "CRCEN - L'Anthologie sur le Web : quid novi ?"
+  video: "https://api.nakala.fr/data/10.34847/nkl.bb3b7c06.v1/4ef8c9a03a9db724ae5ece501b6b30b72547a73a"
+  categories: ["videos"]
+
+- name : "Gustavo Fernández Riva - Utilisation et valorisations du fac-similé numérique de l'Anthologie palatine"
+  video: "https://api.nakala.fr/data/10.34847/nkl.c2585h0g.v1/0c24bbc905e1be12a41fd59960e699faa36d2f43"
+  categories: ["videos"]
+
+- name : "Annalisa di Vincenzo - Expériences et perspectives de l’étude du grec ancien entre l’école et les Digital Humanities : un possible Fortleben de l'Anthologie Palatine"
+  video: "https://api.nakala.fr/data/10.34847/nkl.6158vi2c.v1/c77deb78b38903d2edb2b7489a6098802a447f95"
+  categories: ["videos"]
+
+- name : "Marie-Claire Beaulieu - Révéler les informations latentes dans un texte de référence : l’édition numérique du Glossary of Greek Birds"
+  video: "https://api.nakala.fr/data/10.34847/nkl.e5abas11.v1/bb5861beb6aa5e4222cb1b1d06d839a356198980"
+  categories: ["videos"]
+
+- name : "Table ronde : Aujourd’hui, à l’époque du numérique,…"
+  video: "https://api.nakala.fr/data/10.34847/nkl.7f69sqi1.v1/2591bad7f5536db58cdb954b3c8138939bada625"
+  categories: ["videos"]
+
+- name : "Giuseppe Celano - Opera Graeca Adnotata : un corpus open source de textes grecs anciens annotés"
+  video: "https://api.nakala.fr/data/10.34847/nkl.a2ec1k68.v1/3a8ec92e87d486abb3bf067f383063c79ef31723"
+  categories: ["videos"]
+
+- name : "Kyle Johnson - Repères philologiques pour le traitement automatique des langues : le défi de l'attribution des auteurs grecs antiques"
+  video: "https://api.nakala.fr/data/10.34847/nkl.bf0eaug1.v1/7d65dc34da5ebb0a88cace1bf972b2943c83e85f"
+  categories: ["videos"]
+
+- name : "Marcus Pöckelmann - Les lendemains de Platon. Recherche de traces dans l’espace vectoriel"
+  video: "https://api.nakala.fr/data/10.34847/nkl.bdbazkx1.v1/3668be79ea3bb22f5348b005495a882361dcc723"
+  categories: ["videos"]
+
+- name : "Marianne Reboul - L’IA pour les langues anciennes, des ouvertures pour le traitement des corpus réduits"
+  video: "https://api.nakala.fr/data/10.34847/nkl.8bc47k4o.v1/2c9cc465785a215a9920312950854139835f3941"
+  categories: ["videos"]
 ---
