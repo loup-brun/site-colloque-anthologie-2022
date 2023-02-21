@@ -19,15 +19,29 @@
 				<div class="gallery-wrapper">
 					{{ range .Params.gallery_items }}
 					<div class="gallery-item mix {{range .categories }}{{. | urlize}} {{ end }}">
+						{{ if .image }}
 						<div class="image-block">
 							<div class="image">
 								<img src="{{ .image | absURL }}" alt="gallery-image" class="img-fluid">
 								<div class="primary-overlay">
-									<a class="image-popup" data-effect="mfp-with-zoom" href="{{ .image | absURL }}"><i
+									<a class="image-popup" data-effect="mfp-with-zoom" href="{{ .imagefull | absURL }}"><i
 											class="fa fa-picture-o"></i></a>
 								</div>
 							</div>
 						</div>
+						{{ end }}
+						{{ if .video }}
+						<div class="video-block">
+							<div class="video image">
+							<iframe src="{{ .video }}" alt="gallery-video" class="img-fluid">
+							</iframe>	
+								<div class="primary-overlay">
+									<a class="image-popup" data-effect="mfp-with-zoom" href="{{ .video }}"><i
+											class="fa fa-picture-o"></i></a>
+								</div>
+							</div>
+						</div>
+						{{ end }}
 					</div>
 					{{ end }}
 				</div>
