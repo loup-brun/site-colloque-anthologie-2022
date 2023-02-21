@@ -7,7 +7,7 @@ draft : false
 layout : "gallery"
 gallery_items:
 - name : "gallery item"
-  image: "images/gallery/conferences/AV.jpg"
+  image: "https://api.nakala.fr/embed/10.34847/nkl.8cc6mjel/beb89684d1117d2f390949a03368e51d818b56b9"
   categories: ["conferences"]
 
 - name : "gallery item"
