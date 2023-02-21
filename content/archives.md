@@ -240,8 +240,9 @@ gallery_items:
   image: "https://api.nakala.fr/iiif/10.34847/nkl.8cc6mjel/960568bddb92371a1af37904e674e16b0588ce66"
   categories: ["hackathon"]
 
-- name : "gallery item"
-  video: "https://api.nakala.fr/embed/10.34847/nkl.e523dsyq.v1/25e7a0c40b104edfc997c257e365183a6e80c7d2?bearer=a95391646c04e8e274ea841824db4f880efa98b17efa1c3cf946a56525f0c7ef"
+- name : "Nom de la vidéo"
+  video: "https://api.nakala.fr/data/10.34847/nkl.8bc47k4o/2c9cc465785a215a9920312950854139835f3941"
   categories: ["videos"]
+  #vitnette: /lien/vers/la/vignette.jpg
 
 ---

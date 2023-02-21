@@ -68,7 +68,7 @@
                             color: $light;
                             line-height: 55px;
                             font-size: 1.25rem;
-                            
+
                         }
                     }
                 }
@@ -78,6 +78,12 @@
                         transform:scale(1);
                     }
                 }
+            }
+        }
+        .video-block {
+            video {
+                aspect-ratio: var(--aspect-ratio, 16 / 9);
+                background-color: #333;
             }
         }
     }
@@ -160,7 +166,7 @@
                     color: $light;
                     line-height: 55px;
                     font-size: 1.25rem;
-                    
+
                 }
             }
         }

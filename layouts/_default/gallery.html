@@ -19,24 +19,29 @@
 				<div class="gallery-wrapper">
 					{{ range .Params.gallery_items }}
 					<div class="gallery-item mix {{range .categories }}{{. | urlize}} {{ end }}">
-						{{ if .image }}
+            {{ if .video }}
+            <div class="image-block video-block">
+              <figure class="video image">
+                <video
+                  src="{{ .video }}"
+                  class="img-fluid"
+                  preload="metadata"
+                  controls
+                  {{if .vignette}}poster="{{.vignette}}"{{end}}
+                ></video>
+                <figcaption class="">
+                  {{ .name }}
+                  <br>
+                  <a href="{{ .video }}" target="_blank" title="Ouvrir la vidéo dans un nouvel onglet">Ouvrir la vidéo dans un nouvel onglet <i class="fa fa-external-link"></i></a>
+                </figcaption>
+              </figure>
+            </div>
+						{{ else if .image }}
 						<div class="image-block">
 							<div class="image">
 								<img src="{{ .image | absURL }}" alt="gallery-image" class="img-fluid">
 								<div class="primary-overlay">
 									<a class="image-popup" data-effect="mfp-with-zoom" href="{{ .imagefull | absURL }}"><i
-											class="fa fa-picture-o"></i></a>
-								</div>
-							</div>
-						</div>
-						{{ end }}
-						{{ if .video }}
-						<div class="video-block">
-							<div class="video image">
-							<iframe src="{{ .video }}" alt="gallery-video" class="img-fluid">
-							</iframe>	
-								<div class="primary-overlay">
-									<a class="image-popup" data-effect="mfp-with-zoom" href="{{ .video }}"><i
 											class="fa fa-picture-o"></i></a>
 								</div>
 							</div>
