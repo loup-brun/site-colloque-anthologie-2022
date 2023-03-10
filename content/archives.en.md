@@ -300,12 +300,20 @@ gallery_items:
   video: "https://api.nakala.fr/data/10.34847/nkl.bb3b7c06.v1/4ef8c9a03a9db724ae5ece501b6b30b72547a73a"
   categories: ["videos"]
 
+- name : "Simone Beta - Teaching Greek with the Riddles of the Palatine Anthology"
+  video: "https://api.nakala.fr/data/10.34847/nkl.75b18tqd/65db4d9ab47abedf53dbe4d453ae2b596beef100"
+  categories: ["videos"]
+
 - name : "Gustavo Fernández Riva - Use and Enhancements of the Digital Facsimile of the Palatine Anthology"
   video: "https://api.nakala.fr/data/10.34847/nkl.c2585h0g.v1/0c24bbc905e1be12a41fd59960e699faa36d2f43"
   categories: ["videos"]
 
 - name : "Annalisa di Vincenzo - Experiences and Perspectives of the Study of Ancient Greek Between School and Digital Humanities: a Possible Fortleben of the Palatine Anthology"
-  video: "https://api.nakala.fr/data/10.34847/nkl.6158vi2c.v1/c77deb78b38903d2edb2b7489a6098802a447f95"
+  video: "https://api.nakala.fr/data/10.34847/nkl.6158vi2c/26f0178d49d9c9a35b854bf6981d5707a2980ca1"
+  categories: ["videos"]
+
+- name : "Serena Cannavale - Inside and Beyond the Greek Anthology: New Directions and Challenges in the Study of Callimachean Epigrams "
+  video: "https://api.nakala.fr/data/10.34847/nkl.5b73e4fw/bc580830dcbfa963d25feeac26dadc871d67d3aa"
   categories: ["videos"]
 
 - name : "Marie-Claire Beaulieu - Leveraging Latent Information in a Reference Work: the Digital Glossary of Greek Birds"
