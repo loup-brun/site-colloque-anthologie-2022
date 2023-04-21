@@ -45,7 +45,7 @@ tab:
       time : 
 
     - speaker : "Lucia FLORIDI (Alma Mater Studiorum - Università di Bologna)"
-      subject : "Editing Greek Epigrams: Methods and Problems."
+      subject : "*Keynote* : Editing Greek Epigrams: Methods and Problems."
       abstract:  |
         Our knowledge of Greek epigrammatic poetry is mainly based on two fundamental works: the *Palatine Anthology* (PA) and the *Anthology of Planudes* (APl). Minor works are added to these, called *Syllogae Minores*. Some epigrams are also known through indirect tradition (with authors like Athenaeus), or transmitted from papyri or inscriptions. The editors of the *Anthology* are thus confronted with a complex and changing textual translation, ranging from a *textus unicus* to much more varied situations. I will illustrate, in the course of my presentation, the main problems - of critical, textual and exegetical nature - that I have encountered in my capacity as editor of several epigrammatic authors (Strato, Lucillius, Hedylus in particular).
       biography : |
@@ -162,7 +162,7 @@ tab:
       time : 
 
     - speaker : "Marie-Claire BEAULIEU (Tufts University, Classics)"
-      subject : "Revealing Latent Information in a Reference Text: the Digital Edition of the *Glossary of Greek Birds*"
+      subject : "*Keynote* : Revealing Latent Information in a Reference Text: the Digital Edition of the *Glossary of Greek Birds*"
       abstract : |
         This contribution explores the opportunities offered by digital publishing for non-linear texts. Like the *Palatine Anthology*, D'Arcy Thompson's *Glossary of Greek Birds* (1896 and 1936) was designed to be read flexibly according to the reader's interests and cross-reference networks. While it is primarily a reference work - essentially a list of Greek bird names combined with ornithological identification through descriptions provided by ancient texts - the most interesting aspect of the *Glossary* is what it does not explicitly say, for the references to the ancient texts cover a wealth of information about the literary, mythological, and historical associations of the birds cited as well as the relationships among them. This talk will detail the encoding techniques and processes such as formal concept analysis employed by the project to bring out this information and use it as a tool to navigate through the text.
       biography : |

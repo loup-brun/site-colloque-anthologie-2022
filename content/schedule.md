@@ -45,7 +45,7 @@ tab:
       time :
 
     - speaker : "Lucia FLORIDI (Alma Mater Studiorum, Università di Bologna)"
-      subject : "Éditer les épigrammes grecques : Méthodes et problèmes"
+      subject : "*Keynote* : Éditer les épigrammes grecques : Méthodes et problèmes"
       résumé:  |
         Notre connaissance de la poésie épigrammatique grecque se fonde principalement sur deux recueils fondamentaux : l'*Anthologie palatine* (AP) et l'*Anthologie de Planude* (APl). À ceux-ci s’ajoutent des collections mineures, appellées *Syllogae Minores*. Certaines épigrammes sont également connues grâce à la tradition indirecte (par des auteurs comme Athénée), ou transmises à partir de papyri ou d’inscriptions. Les éditeurs de l’*Anthologie* sont donc confrontés à une tradition textuelle complexe et changeante, allant d’un *textus unicus* à des situations bien plus variées. J’illustrerai, au cours de ma présentation, les principaux problèmes - de nature critique, textuelle et exégétique - que j’ai rencontrés en qualité d’éditrice de plusieurs auteurs d’épigrammes (Straton, Lucillius, Hédyle notamment).
       biographie : |
@@ -160,7 +160,7 @@ tab:
       time :  
 
     - speaker : "Marie-Claire BEAULIEU (Tufts University, Classics)"
-      subject : "Révéler les informations latentes dans un texte de référence : l’édition numérique du *Glossary of Greek Birds*."
+      subject : "*Keynote* : Révéler les informations latentes dans un texte de référence : l’édition numérique du *Glossary of Greek Birds*."
       résumé : |
         Cette communication explore les possibilités offertes par l’édition numérique pour les textes non-linéaires. Comme l’*Anthologie palatine*, le *Glossary of Greek Birds* de D’Arcy Thompson (1896 et 1936) a été conçu pour une lecture flexible suivant les intérêts du lecteur et les réseaux de références croisées. S’il s’agit avant tout d’un ouvrage de référence -- essentiellement une liste de noms d’oiseaux en grec associés à une identification ornithologique grâce aux descriptions fournies par les textes anciens --, l’aspect le plus intéressant du *Glossary* est ce qu’il ne dit pas explicitement, car les références aux textes anciens recouvrent une mine d’informations sur les associations littéraires, mythologiques et historiques des oiseaux cités ainsi que les liens qu’ils entretiennent entre eux. Cette communication détaillera les techniques d’encodage et les procédés, comme, par exemple,l'analyse formelle de concepts, employés par le projet afin de faire ressortir ces informations et de s’en servir comme outil pour naviguer à travers le texte.
       biographie : |
